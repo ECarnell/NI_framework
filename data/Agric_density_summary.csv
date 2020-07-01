@@ -1,0 +1,567 @@
+SITE_TYPE,SITECODE,NAME,VARIABLE,VALUE,LABEL,SCORE,DATA_SRCE
+ASSI,ASSI228,Aghanloo Wood,Current agircultural emission density (kg NH3/ha/yr),12.5281390041784,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI171,Altikeeragh,Current agircultural emission density (kg NH3/ha/yr),5.14256779811059,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI059,Altmover Glen,Current agircultural emission density (kg NH3/ha/yr),10.8773952152759,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI121,Annachullion Lough,Current agircultural emission density (kg NH3/ha/yr),9.40475524820417,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI038,Annacramph Meadows,Current agircultural emission density (kg NH3/ha/yr),38.3105676633638,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI308,Annaghagh Bog,Current agircultural emission density (kg NH3/ha/yr),44.5884155494905,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI149,Aughnadarragh Lough,Current agircultural emission density (kg NH3/ha/yr),12.2914997444878,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030318,Aughnadarragh Lough,Current agircultural emission density (kg NH3/ha/yr),12.2914997444878,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI150,Ballybannan,Current agircultural emission density (kg NH3/ha/yr),18.3800327315345,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI399,Ballygalley Head,Current agircultural emission density (kg NH3/ha/yr),1.82959305771247,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI153,Ballykilbeg,Current agircultural emission density (kg NH3/ha/yr),16.7102479851873,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030319,Ballykilbeg,Current agircultural emission density (kg NH3/ha/yr),16.7102479851873,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI194,Ballyknock,Current agircultural emission density (kg NH3/ha/yr),12.1624118426291,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI260,Ballymacaldrack,Current agircultural emission density (kg NH3/ha/yr),15.5388158269031,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI257,Ballymacallion,Current agircultural emission density (kg NH3/ha/yr),1.70537848494374,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI152,Ballynagross Lower,Current agircultural emission density (kg NH3/ha/yr),7.98765289861293,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI010,Ballynahone Bog,Current agircultural emission density (kg NH3/ha/yr),28.7616311640028,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0016599,Ballynahone Bog,Current agircultural emission density (kg NH3/ha/yr),28.7616311640028,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI217,Ballynanaghten,Current agircultural emission density (kg NH3/ha/yr),26.3330287687236,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI087,Ballyquintin Point,Current agircultural emission density (kg NH3/ha/yr),3.22225250396661,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI266,Ballyrisk More,Current agircultural emission density (kg NH3/ha/yr),3.78486174474378,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI064,Banagher Glen,Current agircultural emission density (kg NH3/ha/yr),10.0219771711921,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030083,Banagher Glen,Current agircultural emission density (kg NH3/ha/yr),10.0219771711921,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI208,Bann Estuary,Current agircultural emission density (kg NH3/ha/yr),9.68164348597431,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030084,Bann Estuary,Current agircultural emission density (kg NH3/ha/yr),9.68164348597431,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI349,Baronscourt,Current agircultural emission density (kg NH3/ha/yr),11.0522273280822,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI016,Beagh Big,Current agircultural emission density (kg NH3/ha/yr),25.6523845831453,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI406,Belvoir,Current agircultural emission density (kg NH3/ha/yr),0.976645122303306,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI271,Big Dog Scarps and Lakes,Current agircultural emission density (kg NH3/ha/yr),2.34932300421255,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI212,Binevenagh,Current agircultural emission density (kg NH3/ha/yr),4.33544978388664,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0030089,Binevenagh,Current agircultural emission density (kg NH3/ha/yr),4.33548492272231,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI007,Black Bog,Current agircultural emission density (kg NH3/ha/yr),6.02188407052843,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0016609,Black Bog,Current agircultural emission density (kg NH3/ha/yr),6.02189194559679,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI239,Black Lough Tyrone,Current agircultural emission density (kg NH3/ha/yr),17.7629863035674,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI298,Blackslee,Current agircultural emission density (kg NH3/ha/yr),18.0631674654459,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI336,Blaeberry Island Bog,Current agircultural emission density (kg NH3/ha/yr),18.5045660827062,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI227,Bonds Glen,Current agircultural emission density (kg NH3/ha/yr),17.9414755775379,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI339,Brackagh Bog,Current agircultural emission density (kg NH3/ha/yr),17.5430353337771,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI161,Breen Wood,Current agircultural emission density (kg NH3/ha/yr),7.10148814714771,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030097,Breen Wood,Current agircultural emission density (kg NH3/ha/yr),7.10148822119729,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI081,Burdautien Lough,Current agircultural emission density (kg NH3/ha/yr),7.7386948677819,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI123,Caldanagh Bog,Current agircultural emission density (kg NH3/ha/yr),24.7768869188577,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI342,Caledon and Tynan,Current agircultural emission density (kg NH3/ha/yr),129.767537326975,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI302,Carey Valley,Current agircultural emission density (kg NH3/ha/yr),5.57202082869971,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI103,Carlingford Lough,Current agircultural emission density (kg NH3/ha/yr),8.99621430432968,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030110,Carn - Glenshane Pass,Current agircultural emission density (kg NH3/ha/yr),2.27437070920845,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI167,Carn/Glenshane Pass,Current agircultural emission density (kg NH3/ha/yr),2.27437297016607,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI215,Carrickastickan,Current agircultural emission density (kg NH3/ha/yr),7.17917162671985,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI156,Carrowcarlin,Current agircultural emission density (kg NH3/ha/yr),10.960528871344,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI189,Cashel Loughs,Current agircultural emission density (kg NH3/ha/yr),12.5648126694638,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI157,Castle Enigan,Current agircultural emission density (kg NH3/ha/yr),25.285123063274,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI259,Castle River Valley,Current agircultural emission density (kg NH3/ha/yr),5.65739739768268,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI350,Castlecoole,Current agircultural emission density (kg NH3/ha/yr),9.79468034667197,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI193,Castletown,Current agircultural emission density (kg NH3/ha/yr),9.4541593889974,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI398,Cavan,Current agircultural emission density (kg NH3/ha/yr),4.16735861361286,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI026,Cleggan Valley,Current agircultural emission density (kg NH3/ha/yr),15.6895983851928,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI409,Clermont & Anglesey Mountain,Current agircultural emission density (kg NH3/ha/yr),2.81011464193552,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI392,Cloghcor Lough,Current agircultural emission density (kg NH3/ha/yr),17.0069504738695,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI267,Coolnasillagh,Current agircultural emission density (kg NH3/ha/yr),5.46038027803746,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI345,Copeland Reservoir,Current agircultural emission density (kg NH3/ha/yr),10.0919370955459,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI155,Corbally,Current agircultural emission density (kg NH3/ha/yr),18.0350436138018,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI197,Corbylin Wood,Current agircultural emission density (kg NH3/ha/yr),12.9448295246647,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI048,Corraslough Point,Current agircultural emission density (kg NH3/ha/yr),8.99942587977695,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI164,Craigantlet Woods,Current agircultural emission density (kg NH3/ha/yr),9.37663376236875,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI372,Craigs,Current agircultural emission density (kg NH3/ha/yr),9.87554731449721,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI124,Cranny Bogs,Current agircultural emission density (kg NH3/ha/yr),17.3464872833651,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030321,Cranny Bogs,Current agircultural emission density (kg NH3/ha/yr),17.3464453137647,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI408,Cranny Falls,Current agircultural emission density (kg NH3/ha/yr),12.3851535539803,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI378,Croagh Bog,Current agircultural emission density (kg NH3/ha/yr),0.270999427046084,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI055,Crockaghole Wood,Current agircultural emission density (kg NH3/ha/yr),6.55478799552297,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI183,Crossbane Lough,Current agircultural emission density (kg NH3/ha/yr),12.3905724999953,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI263,Cruninish Island,Current agircultural emission density (kg NH3/ha/yr),2.57753035302801,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI069,Cuilcagh Mountain,Current agircultural emission density (kg NH3/ha/yr),2.03834626423669,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016603,Cuilcagh Mountain,Current agircultural emission density (kg NH3/ha/yr),2.03834626423669,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI223,Cullentra Lough,Current agircultural emission density (kg NH3/ha/yr),16.9082865261989,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI074,Curran Bog,Current agircultural emission density (kg NH3/ha/yr),16.7258575678772,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030322,Curran Bog,Current agircultural emission density (kg NH3/ha/yr),16.7258575669841,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI125,Dead Island Bog,Current agircultural emission density (kg NH3/ha/yr),29.65057195333,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0030323,Dead Island Bog,Current agircultural emission density (kg NH3/ha/yr),29.65057195333,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI035,Deroran Bog,Current agircultural emission density (kg NH3/ha/yr),13.7150468134257,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030324,Deroran Bog,Current agircultural emission density (kg NH3/ha/yr),13.7150468134257,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI237,Derrycloony Lough,Current agircultural emission density (kg NH3/ha/yr),35.7404814450554,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI079,Derryleckagh,Current agircultural emission density (kg NH3/ha/yr),19.4587360645802,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0016620,Derryleckagh,Current agircultural emission density (kg NH3/ha/yr),19.4587360661529,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI221,Derryvore,Current agircultural emission density (kg NH3/ha/yr),16.2072528030413,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI269,Devenish Island,Current agircultural emission density (kg NH3/ha/yr),5.15041328629599,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI122,Drumacrittin Lough,Current agircultural emission density (kg NH3/ha/yr),11.1978600261991,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI322,Drumbegger,Current agircultural emission density (kg NH3/ha/yr),7.71381897699731,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI182,Drumcarn,Current agircultural emission density (kg NH3/ha/yr),7.36263779306424,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI240,Drumcrow,Current agircultural emission density (kg NH3/ha/yr),20.5738171055732,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI402,Drumcully,Current agircultural emission density (kg NH3/ha/yr),2.42467195933189,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI056,Drumlea and Mullan Woods,Current agircultural emission density (kg NH3/ha/yr),13.1320699555868,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI020,Drumlisaleen,Current agircultural emission density (kg NH3/ha/yr),2.96748886572574,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI205,Drumlougher Lough,Current agircultural emission density (kg NH3/ha/yr),16.2848369552194,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI401,Drumowen,Current agircultural emission density (kg NH3/ha/yr),4.43705740735545,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI274,Dunaree Hill,Current agircultural emission density (kg NH3/ha/yr),3.57306636065961,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI009,Dunloy Bog,Current agircultural emission density (kg NH3/ha/yr),17.6408228833198,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI095,Eastern Mournes,Current agircultural emission density (kg NH3/ha/yr),6.00211118552542,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0016615,Eastern Mournes,Current agircultural emission density (kg NH3/ha/yr),6.00211308816857,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI256,Errigal Glen,Current agircultural emission density (kg NH3/ha/yr),6.65913982246426,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI061,Ervey Wood,Current agircultural emission density (kg NH3/ha/yr),9.19356139755032,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI134,Essan Burn and Mullyfamore,Current agircultural emission density (kg NH3/ha/yr),4.01019229276337,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI330,Fair Head and Murlough Bay,Current agircultural emission density (kg NH3/ha/yr),3.19979906347647,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI008,Fairy Water Bogs,Current agircultural emission density (kg NH3/ha/yr),23.9084719192997,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0016611,Fairy Water Bogs,Current agircultural emission density (kg NH3/ha/yr),23.9084719189299,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI238,Fathom Upper,Current agircultural emission density (kg NH3/ha/yr),7.37584380245194,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI110,Finn Floods,Current agircultural emission density (kg NH3/ha/yr),5.05909372222262,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI376,Florence Court,Current agircultural emission density (kg NH3/ha/yr),6.14130660702287,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI400,Frevagh,Current agircultural emission density (kg NH3/ha/yr),4.10491351526424,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI126,Frosses Bog,Current agircultural emission density (kg NH3/ha/yr),61.654877057659,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI224,Fymore Lough,Current agircultural emission density (kg NH3/ha/yr),35.6670485317044,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI333,Galboly,Current agircultural emission density (kg NH3/ha/yr),1.07537062728124,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI067,Garron Plateau,Current agircultural emission density (kg NH3/ha/yr),4.55571948387831,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016606,Garron Plateau,Current agircultural emission density (kg NH3/ha/yr),4.55574341039222,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI004,Garry Bog,Current agircultural emission density (kg NH3/ha/yr),19.6481806618091,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0016610,Garry Bog,Current agircultural emission density (kg NH3/ha/yr),19.4081776537075,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI127,Garry Bog Part II,Current agircultural emission density (kg NH3/ha/yr),16.94775008353,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI017,Garvros,Current agircultural emission density (kg NH3/ha/yr),6.02528502846994,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI202,Giant's Causeway and Dunseverick,Current agircultural emission density (kg NH3/ha/yr),7.83585882197501,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI024,Glen Burn,Current agircultural emission density (kg NH3/ha/yr),9.63744233684045,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI331,Glen East,Current agircultural emission density (kg NH3/ha/yr),2.7613884868805,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI025,Glenariff,Current agircultural emission density (kg NH3/ha/yr),15.3996504581899,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI355,Glenariff Glen,Current agircultural emission density (kg NH3/ha/yr),1.36238465311718,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI023,Glenarm Woods,Current agircultural emission density (kg NH3/ha/yr),14.1103895275945,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI057,Glenmore Wood,Current agircultural emission density (kg NH3/ha/yr),22.3532223444365,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI168,Glennasheevar,Current agircultural emission density (kg NH3/ha/yr),1.69792978831124,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI371,Gortcorbies,Current agircultural emission density (kg NH3/ha/yr),6.9355609116701,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI196,Grange Wood,Current agircultural emission density (kg NH3/ha/yr),20.6191378331193,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI160,Greenan,Current agircultural emission density (kg NH3/ha/yr),19.1113172046449,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI158,Greenan Lough,Current agircultural emission density (kg NH3/ha/yr),19.8807111562979,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI264,Hare Island,Current agircultural emission density (kg NH3/ha/yr),3.35286873854145,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI132,Heron and Carrigullian Loughs,Current agircultural emission density (kg NH3/ha/yr),7.60574093260108,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI211,Hollymount,Current agircultural emission density (kg NH3/ha/yr),8.37971090398896,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030169,Hollymount,Current agircultural emission density (kg NH3/ha/yr),8.37972054844581,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI054,Inishroosk,Current agircultural emission density (kg NH3/ha/yr),5.38844920453938,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI324,Keadew,Current agircultural emission density (kg NH3/ha/yr),6.96443684426316,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI086,Killard,Current agircultural emission density (kg NH3/ha/yr),9.6629937759912,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI225,Killough Bay and Strand Lough,Current agircultural emission density (kg NH3/ha/yr),8.43953610607162,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI207,Kilnameel,Current agircultural emission density (kg NH3/ha/yr),1.78079930967345,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI078,Kilroosky Lough,Current agircultural emission density (kg NH3/ha/yr),7.695041674982,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI031,Kiltubbrid Loughs,Current agircultural emission density (kg NH3/ha/yr),24.8273556498655,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI275,Kirlish,Current agircultural emission density (kg NH3/ha/yr),21.3304390723796,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI391,Knock Dhu Sallagh Braes,Current agircultural emission density (kg NH3/ha/yr),10.8830809243687,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI410,Knockadoo Wood,Current agircultural emission density (kg NH3/ha/yr),30.9611353657448,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI014,Knockballymore Lough,Current agircultural emission density (kg NH3/ha/yr),14.5684903865436,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI307,Knocknacloy,Current agircultural emission density (kg NH3/ha/yr),77.2452052586379,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI297,Knocknashangan,Current agircultural emission density (kg NH3/ha/yr),6.73409114283669,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI166,Knockninny Hill,Current agircultural emission density (kg NH3/ha/yr),15.6963289175233,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI037,Lackan Bog,Current agircultural emission density (kg NH3/ha/yr),20.9757195748144,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI111,Largalinny,Current agircultural emission density (kg NH3/ha/yr),8.30010625643879,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030045,Largalinny,Current agircultural emission density (kg NH3/ha/yr),8.30010625643879,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI106,Larne Lough,Current agircultural emission density (kg NH3/ha/yr),14.774245899859,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI169,Leathemstown,Current agircultural emission density (kg NH3/ha/yr),9.90927962139833,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030180,Lecale Fens,Current agircultural emission density (kg NH3/ha/yr),14.3738069019489,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI019,Lergan,Current agircultural emission density (kg NH3/ha/yr),6.42945703335853,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI214,Levallymore,Current agircultural emission density (kg NH3/ha/yr),19.3374167591515,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI323,Little Deer Park,Current agircultural emission density (kg NH3/ha/yr),9.02510260732615,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI353,Lough Anierin,Current agircultural emission density (kg NH3/ha/yr),4.59853745907037,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI027,Lough Beg,Current agircultural emission density (kg NH3/ha/yr),17.7034688346399,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI294,Lough Corr,Current agircultural emission density (kg NH3/ha/yr),2.82927191921361,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI354,Lough Cowey,Current agircultural emission density (kg NH3/ha/yr),14.8297768261572,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI051,Lough Foyle,Current agircultural emission density (kg NH3/ha/yr),4.65413789113398,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI295,Lough Gullion,Current agircultural emission density (kg NH3/ha/yr),18.1825136247378,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI407,Lough Lark,Current agircultural emission density (kg NH3/ha/yr),1.63770583458766,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI348,Lough Macrory,Current agircultural emission density (kg NH3/ha/yr),9.40313223372693,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI261,Lough McCall,Current agircultural emission density (kg NH3/ha/yr),15.6859606866287,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI140,Lough Melvin,Current agircultural emission density (kg NH3/ha/yr),3.30889030682467,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0030047,Lough Melvin,Current agircultural emission density (kg NH3/ha/yr),3.42304638048003,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI359,Lough Naman Bog and Lake,Current agircultural emission density (kg NH3/ha/yr),2.28574123306481,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI270,Lough Navar Scarps and Lakes,Current agircultural emission density (kg NH3/ha/yr),3.2690443951848,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI030,Lough Neagh,Current agircultural emission density (kg NH3/ha/yr),8.25886423172144,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI262,Lough na blaney bane,Current agircultural emission density (kg NH3/ha/yr),3.98911610970079,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI206,Loughaveely,Current agircultural emission density (kg NH3/ha/yr),14.8935118384789,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI039,Loughkeelan,Current agircultural emission density (kg NH3/ha/yr),23.6215985348319,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI159,Loughmoney,Current agircultural emission density (kg NH3/ha/yr),13.1358125848651,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI204,Lurgan Lough,Current agircultural emission density (kg NH3/ha/yr),17.9543684080045,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0016621,Magheraveely Marl Loughs,Current agircultural emission density (kg NH3/ha/yr),10.8379735363665,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI068,Magilligan,Current agircultural emission density (kg NH3/ha/yr),4.35024570052775,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016613,Magilligan,Current agircultural emission density (kg NH3/ha/yr),4.35024584772151,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0030199,Main Valley Bogs,Current agircultural emission density (kg NH3/ha/yr),38.0783341125076,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI375,Marlbank,Current agircultural emission density (kg NH3/ha/yr),5.6740609929173,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI128,McKean's Moss,Current agircultural emission density (kg NH3/ha/yr),14.0471918727074,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI165,McKean's Moss Part II,Current agircultural emission density (kg NH3/ha/yr),14.167747080264,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI013,Monawilkin,Current agircultural emission density (kg NH3/ha/yr),11.156554189112,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0016619,Monawilkin,Current agircultural emission density (kg NH3/ha/yr),11.1574714312648,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI018,Moneendogue,Current agircultural emission density (kg NH3/ha/yr),5.24163537483291,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI005,Moneygal Bog,Current agircultural emission density (kg NH3/ha/yr),5.71002570271826,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030211,Moneygal Bog,Current agircultural emission density (kg NH3/ha/yr),5.69965845541083,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI209,Moneygal Bog Part II,Current agircultural emission density (kg NH3/ha/yr),6.48622524408149,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI305,Moneystaghan Bog,Current agircultural emission density (kg NH3/ha/yr),26.5421817734547,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI015,Moninea Bog,Current agircultural emission density (kg NH3/ha/yr),11.0140483238337,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030212,Moninea Bog,Current agircultural emission density (kg NH3/ha/yr),11.0140292603633,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030214,Montiaghs Moss,Current agircultural emission density (kg NH3/ha/yr),27.2998218404716,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI379,Mournes Coast,Current agircultural emission density (kg NH3/ha/yr),6.69051090212123,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI180,Moyrourkan Lough,Current agircultural emission density (kg NH3/ha/yr),15.3530198572506,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI309,Mullaghcarn,Current agircultural emission density (kg NH3/ha/yr),5.75752402178723,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI089,Murlough,Current agircultural emission density (kg NH3/ha/yr),12.3246075283196,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0016612,Murlough,Current agircultural emission density (kg NH3/ha/yr),6.21450209157257,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI060,Ness Wood,Current agircultural emission density (kg NH3/ha/yr),7.55983287493119,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI241,Newlands,Current agircultural emission density (kg NH3/ha/yr),19.5874968077868,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030224,North Antrim Coast,Current agircultural emission density (kg NH3/ha/yr),6.89749635100056,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI022,North Woodburn Glen,Current agircultural emission density (kg NH3/ha/yr),4.61372455686409,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI343,North Woodburn Reservoir,Current agircultural emission density (kg NH3/ha/yr),22.7329583846464,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI105,Outer Ards,Current agircultural emission density (kg NH3/ha/yr),9.45370385676253,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI104,Outer Belfast Lough,Current agircultural emission density (kg NH3/ha/yr),6.09921221694982,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI213,Owenkillew River,Current agircultural emission density (kg NH3/ha/yr),10.468036234385,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030233,Owenkillew River,Current agircultural emission density (kg NH3/ha/yr),10.2035786854371,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI062,Owenkillew and Glenelly Woods,Current agircultural emission density (kg NH3/ha/yr),20.6571579062076,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI210,Peatlands Park,Current agircultural emission density (kg NH3/ha/yr),19.1357162606837,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030236,Peatlands Park,Current agircultural emission density (kg NH3/ha/yr),19.1357162606837,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI065,Pettigoe Plateau,Current agircultural emission density (kg NH3/ha/yr),2.08920844713433,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016607,Pettigoe Plateau,Current agircultural emission density (kg NH3/ha/yr),2.08920844713433,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI390,Prolusk,Current agircultural emission density (kg NH3/ha/yr),20.9667352088098,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI170,Quoile,Current agircultural emission density (kg NH3/ha/yr),7.53694613058607,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030055,Rathlin Island,Current agircultural emission density (kg NH3/ha/yr),0.367456665082302,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI033,Rathlin Island - Coast,Current agircultural emission density (kg NH3/ha/yr),0.589191277602765,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI265,Rathsherry,Current agircultural emission density (kg NH3/ha/yr),10.2186854485029,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI296,River Faughan and Tributaries,Current agircultural emission density (kg NH3/ha/yr),9.78958005074004,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030361,River Faughan and Tributaries,Current agircultural emission density (kg NH3/ha/yr),10.5337766585809,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030360,River Roe and Tributaries,Current agircultural emission density (kg NH3/ha/yr),11.7003549430162,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI397,Roeveagh,Current agircultural emission density (kg NH3/ha/yr),3.56724157460991,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI299,Ross,Current agircultural emission density (kg NH3/ha/yr),2.70094740618211,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI178,Rostrevor Wood,Current agircultural emission density (kg NH3/ha/yr),0.913726827549869,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0030268,Rostrevor Wood,Current agircultural emission density (kg NH3/ha/yr),0.913725745817156,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI268,Round Lough and Lough Fadda,Current agircultural emission density (kg NH3/ha/yr),18.7541712799883,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI403,Rushy Hill,Current agircultural emission density (kg NH3/ha/yr),5.59525181184241,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI300,Scraghy,Current agircultural emission density (kg NH3/ha/yr),1.66343223987144,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI222,Selshion,Current agircultural emission density (kg NH3/ha/yr),18.4271559196715,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI377,Shane's Castle,Current agircultural emission density (kg NH3/ha/yr),15.2587576352954,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI273,Sheepland Coast,Current agircultural emission density (kg NH3/ha/yr),10.6811809153229,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI195,Silverbrook Wood,Current agircultural emission density (kg NH3/ha/yr),13.2138777110985,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI077,Slieve Beagh,Current agircultural emission density (kg NH3/ha/yr),3.76064903125985,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016622,Slieve Beagh,Current agircultural emission density (kg NH3/ha/yr),3.76064860381929,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI198,Slieve Gullion,Current agircultural emission density (kg NH3/ha/yr),14.392362923642,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030277,Slieve Gullion,Current agircultural emission density (kg NH3/ha/yr),14.3923440598683,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI303,Slieveanorra and Croaghan,Current agircultural emission density (kg NH3/ha/yr),2.8063872755194,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI063,Slievenacloy,Current agircultural emission density (kg NH3/ha/yr),5.36774731370003,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI276,Sloughan and Willmount Glens,Current agircultural emission density (kg NH3/ha/yr),3.23574854874009,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI258,Smulgedon,Current agircultural emission density (kg NH3/ha/yr),4.51333780434379,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI344,South Woodburn,Current agircultural emission density (kg NH3/ha/yr),8.22994299659413,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI386,St. John's Point,Current agircultural emission density (kg NH3/ha/yr),1.12420829155646,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI058,Strabane Glen,Current agircultural emission density (kg NH3/ha/yr),34.0698749653281,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI179,Straghans Lough,Current agircultural emission density (kg NH3/ha/yr),17.9500119964813,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI162,Straidkilly Wood,Current agircultural emission density (kg NH3/ha/yr),14.3221806204403,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI385,Stranacally,Current agircultural emission density (kg NH3/ha/yr),4.19042953864127,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0016618,Strangford Lough,Current agircultural emission density (kg NH3/ha/yr),8.1669718753043,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI006,Strangford Lough Part 1,Current agircultural emission density (kg NH3/ha/yr),4.64457527974136,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI032,Strangford Lough Part 2,Current agircultural emission density (kg NH3/ha/yr),9.0489267473151,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI034,Strangford Lough Part 3,Current agircultural emission density (kg NH3/ha/yr),7.7489719853967,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI080,Summerhill Lough,Current agircultural emission density (kg NH3/ha/yr),10.9780803668675,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI415,Tamnyrankin,Current agircultural emission density (kg NH3/ha/yr),9.71262280144681,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI070,Tattenamona Bog,Current agircultural emission density (kg NH3/ha/yr),12.618043318505,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0016608,Teal Lough,Current agircultural emission density (kg NH3/ha/yr),3.08697504378961,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI088,Teal Lough Part II,Current agircultural emission density (kg NH3/ha/yr),2.61975509962959,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Current agircultural emission density (kg NH3/ha/yr),2.19926524817163,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI364,Tempo River,Current agircultural emission density (kg NH3/ha/yr),23.1527376518337,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI191,The Cliffs of Magho,Current agircultural emission density (kg NH3/ha/yr),4.2735436661481,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI129,Tonnagh Beg Bog,Current agircultural emission density (kg NH3/ha/yr),33.1208191751114,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0030325,Tonnagh Beg Bog,Current agircultural emission density (kg NH3/ha/yr),33.1208191751114,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI163,Tow River Wood,Current agircultural emission density (kg NH3/ha/yr),11.9576022363845,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI332,Tower More,Current agircultural emission density (kg NH3/ha/yr),5.182412657482,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI130,Tully Bog,Current agircultural emission density (kg NH3/ha/yr),42.0121969525572,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0030326,Tully Bog,Current agircultural emission density (kg NH3/ha/yr),42.0121969525794,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI216,Tullyard,Current agircultural emission density (kg NH3/ha/yr),8.43866503143353,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI146,Tullybrick Lough,Current agircultural emission density (kg NH3/ha/yr),6.01616632473665,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI321,Tullyratty,Current agircultural emission density (kg NH3/ha/yr),10.7450353243373,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI190,Tullysranadeega,Current agircultural emission density (kg NH3/ha/yr),4.40636214938359,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI148,Turmennan,Current agircultural emission density (kg NH3/ha/yr),32.2229888110072,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0030291,Turmennan,Current agircultural emission density (kg NH3/ha/yr),32.2231122071162,Very high agricultural emissions,4,Agricultural ammonia emissions
+ASSI,ASSI358,Tyrella and Minerstown,Current agircultural emission density (kg NH3/ha/yr),11.376907127611,Moderate agricultural emissions,2,Agricultural ammonia emissions
+SAC,UK0030296,Upper Ballinderry River,Current agircultural emission density (kg NH3/ha/yr),21.8729527939722,Very high agricultural emissions,4,Agricultural ammonia emissions
+SAC,UK0016614,Upper Lough Erne,Current agircultural emission density (kg NH3/ha/yr),11.3145873454349,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI093,Upper Lough Erne - Belleisle,Current agircultural emission density (kg NH3/ha/yr),9.4059907105711,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI071,Upper Lough Erne - Crom,Current agircultural emission density (kg NH3/ha/yr),9.62827799527542,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI090,Upper Lough Erne - Galloon,Current agircultural emission density (kg NH3/ha/yr),9.68340065252699,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI094,Upper Lough Erne - Trannish,Current agircultural emission density (kg NH3/ha/yr),12.1044644816071,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI201,West Fermanagh Scarplands,Current agircultural emission density (kg NH3/ha/yr),3.5382108379336,Low agricultural emissions,1,Agricultural ammonia emissions
+SAC,UK0030300,West Fermanagh Scarplands,Current agircultural emission density (kg NH3/ha/yr),3.53824582448351,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI351,Western Mournes and Kilfeaghan Upper,Current agircultural emission density (kg NH3/ha/yr),4.94622570393214,Low agricultural emissions,1,Agricultural ammonia emissions
+ASSI,ASSI107,White Park Bay,Current agircultural emission density (kg NH3/ha/yr),7.28881439360548,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI352,White Water River,Current agircultural emission density (kg NH3/ha/yr),13.614587377034,Moderate agricultural emissions,2,Agricultural ammonia emissions
+ASSI,ASSI131,Wolf Island Bog,Current agircultural emission density (kg NH3/ha/yr),18.3086431001961,High agricultural emissions,3,Agricultural ammonia emissions
+SAC,UK0030303,Wolf Island Bog,Current agircultural emission density (kg NH3/ha/yr),18.3086693245566,High agricultural emissions,3,Agricultural ammonia emissions
+ASSI,ASSI228,Aghanloo Wood,% change in agircultural emission density (2013 - 2017),3.18695184523478,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI171,Altikeeragh,% change in agircultural emission density (2013 - 2017),15.4194333829093,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI059,Altmover Glen,% change in agircultural emission density (2013 - 2017),15.3534796554557,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI121,Annachullion Lough,% change in agircultural emission density (2013 - 2017),-19.5973565987184,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI038,Annacramph Meadows,% change in agircultural emission density (2013 - 2017),19.1661642540399,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI308,Annaghagh Bog,% change in agircultural emission density (2013 - 2017),-21.8376175164553,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI149,Aughnadarragh Lough,% change in agircultural emission density (2013 - 2017),12.496915007024,Increase,3,Agricultural ammonia emissions
+SAC,UK0030318,Aughnadarragh Lough,% change in agircultural emission density (2013 - 2017),12.496915007024,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI150,Ballybannan,% change in agircultural emission density (2013 - 2017),-20.1914354778793,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI399,Ballygalley Head,% change in agircultural emission density (2013 - 2017),2.34104298251809,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI153,Ballykilbeg,% change in agircultural emission density (2013 - 2017),-19.5373229205221,Large decrease,0,Agricultural ammonia emissions
+SAC,UK0030319,Ballykilbeg,% change in agircultural emission density (2013 - 2017),-19.5373229205221,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI194,Ballyknock,% change in agircultural emission density (2013 - 2017),40.3817856709258,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI260,Ballymacaldrack,% change in agircultural emission density (2013 - 2017),14.3611843843336,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI257,Ballymacallion,% change in agircultural emission density (2013 - 2017),26.9982793752361,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI152,Ballynagross Lower,% change in agircultural emission density (2013 - 2017),14.6890470605733,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI010,Ballynahone Bog,% change in agircultural emission density (2013 - 2017),18.4046399642248,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016599,Ballynahone Bog,% change in agircultural emission density (2013 - 2017),18.4046399642248,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI217,Ballynanaghten,% change in agircultural emission density (2013 - 2017),152.583276607784,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI087,Ballyquintin Point,% change in agircultural emission density (2013 - 2017),-2.19126006787086,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI266,Ballyrisk More,% change in agircultural emission density (2013 - 2017),0.262009426920997,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI064,Banagher Glen,% change in agircultural emission density (2013 - 2017),23.1927397144405,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030083,Banagher Glen,% change in agircultural emission density (2013 - 2017),23.1927397144405,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI208,Bann Estuary,% change in agircultural emission density (2013 - 2017),6.01684677070446,Increase,3,Agricultural ammonia emissions
+SAC,UK0030084,Bann Estuary,% change in agircultural emission density (2013 - 2017),6.01684677070446,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI349,Baronscourt,% change in agircultural emission density (2013 - 2017),41.9866705347515,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI016,Beagh Big,% change in agircultural emission density (2013 - 2017),19.9674333938853,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI406,Belvoir,% change in agircultural emission density (2013 - 2017),7.96666857457441,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI271,Big Dog Scarps and Lakes,% change in agircultural emission density (2013 - 2017),0.252959689944972,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI212,Binevenagh,% change in agircultural emission density (2013 - 2017),6.51336724349535,Increase,3,Agricultural ammonia emissions
+SAC,UK0030089,Binevenagh,% change in agircultural emission density (2013 - 2017),6.51336724349508,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI007,Black Bog,% change in agircultural emission density (2013 - 2017),24.383225266178,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016609,Black Bog,% change in agircultural emission density (2013 - 2017),24.383225266178,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI239,Black Lough Tyrone,% change in agircultural emission density (2013 - 2017),-21.7851545858949,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI298,Blackslee,% change in agircultural emission density (2013 - 2017),50.3627739781543,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI336,Blaeberry Island Bog,% change in agircultural emission density (2013 - 2017),2.50499720063955,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI227,Bonds Glen,% change in agircultural emission density (2013 - 2017),13.7284604732804,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI339,Brackagh Bog,% change in agircultural emission density (2013 - 2017),10.0112837397491,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI161,Breen Wood,% change in agircultural emission density (2013 - 2017),-4.75629236264188,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030097,Breen Wood,% change in agircultural emission density (2013 - 2017),-4.75629236264199,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI081,Burdautien Lough,% change in agircultural emission density (2013 - 2017),47.9460380479775,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI123,Caldanagh Bog,% change in agircultural emission density (2013 - 2017),5.40283595909068,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI342,Caledon and Tynan,% change in agircultural emission density (2013 - 2017),159.792647032691,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI302,Carey Valley,% change in agircultural emission density (2013 - 2017),-4.74220712026129,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI103,Carlingford Lough,% change in agircultural emission density (2013 - 2017),10.7582018867089,Increase,3,Agricultural ammonia emissions
+SAC,UK0030110,Carn - Glenshane Pass,% change in agircultural emission density (2013 - 2017),11.6547542864961,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI167,Carn/Glenshane Pass,% change in agircultural emission density (2013 - 2017),11.6547542864962,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI215,Carrickastickan,% change in agircultural emission density (2013 - 2017),28.5872782984663,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI156,Carrowcarlin,% change in agircultural emission density (2013 - 2017),-12.9525222386526,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI189,Cashel Loughs,% change in agircultural emission density (2013 - 2017),3.17908196655288,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI157,Castle Enigan,% change in agircultural emission density (2013 - 2017),-1.21540342124113,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI259,Castle River Valley,% change in agircultural emission density (2013 - 2017),0.0394855705300844,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI350,Castlecoole,% change in agircultural emission density (2013 - 2017),-1.76109529305371,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI193,Castletown,% change in agircultural emission density (2013 - 2017),13.9509464274927,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI398,Cavan,% change in agircultural emission density (2013 - 2017),-12.6567955454064,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI026,Cleggan Valley,% change in agircultural emission density (2013 - 2017),61.856496403104,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI409,Clermont & Anglesey Mountain,% change in agircultural emission density (2013 - 2017),16.0072150670448,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI392,Cloghcor Lough,% change in agircultural emission density (2013 - 2017),38.6115596672624,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI267,Coolnasillagh,% change in agircultural emission density (2013 - 2017),1.27932342124032,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI345,Copeland Reservoir,% change in agircultural emission density (2013 - 2017),128.291031794992,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI155,Corbally,% change in agircultural emission density (2013 - 2017),-13.1056583994585,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI197,Corbylin Wood,% change in agircultural emission density (2013 - 2017),4.82749650588862,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI048,Corraslough Point,% change in agircultural emission density (2013 - 2017),39.259266494467,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI164,Craigantlet Woods,% change in agircultural emission density (2013 - 2017),-37.4647481837968,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI372,Craigs,% change in agircultural emission density (2013 - 2017),-22.6873924025578,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI124,Cranny Bogs,% change in agircultural emission density (2013 - 2017),-6.13232483219107,Decrease,1,Agricultural ammonia emissions
+SAC,UK0030321,Cranny Bogs,% change in agircultural emission density (2013 - 2017),-6.13232483219103,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI408,Cranny Falls,% change in agircultural emission density (2013 - 2017),69.9133206372684,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI378,Croagh Bog,% change in agircultural emission density (2013 - 2017),33.7723979800995,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI055,Crockaghole Wood,% change in agircultural emission density (2013 - 2017),17.2321456650142,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI183,Crossbane Lough,% change in agircultural emission density (2013 - 2017),12.5897460252235,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI263,Cruninish Island,% change in agircultural emission density (2013 - 2017),-42.1223276980151,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI069,Cuilcagh Mountain,% change in agircultural emission density (2013 - 2017),9.57759554849837,Increase,3,Agricultural ammonia emissions
+SAC,UK0016603,Cuilcagh Mountain,% change in agircultural emission density (2013 - 2017),9.57759554849837,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI223,Cullentra Lough,% change in agircultural emission density (2013 - 2017),5.34141133748479,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI074,Curran Bog,% change in agircultural emission density (2013 - 2017),6.60485280545391,Increase,3,Agricultural ammonia emissions
+SAC,UK0030322,Curran Bog,% change in agircultural emission density (2013 - 2017),6.60485280545393,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI125,Dead Island Bog,% change in agircultural emission density (2013 - 2017),-3.5574992444341,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030323,Dead Island Bog,% change in agircultural emission density (2013 - 2017),-3.5574992444341,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI035,Deroran Bog,% change in agircultural emission density (2013 - 2017),44.4078280669892,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030324,Deroran Bog,% change in agircultural emission density (2013 - 2017),44.4078280669892,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI237,Derrycloony Lough,% change in agircultural emission density (2013 - 2017),82.230702632371,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI079,Derryleckagh,% change in agircultural emission density (2013 - 2017),14.0544919629741,Increase,3,Agricultural ammonia emissions
+SAC,UK0016620,Derryleckagh,% change in agircultural emission density (2013 - 2017),14.0544919629741,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI221,Derryvore,% change in agircultural emission density (2013 - 2017),6.75992407149782,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI269,Devenish Island,% change in agircultural emission density (2013 - 2017),-27.5673284196349,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI122,Drumacrittin Lough,% change in agircultural emission density (2013 - 2017),-5.16970558207935,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI322,Drumbegger,% change in agircultural emission density (2013 - 2017),9.71263011842413,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI182,Drumcarn,% change in agircultural emission density (2013 - 2017),11.2310452181022,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI240,Drumcrow,% change in agircultural emission density (2013 - 2017),-14.9906967095102,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI402,Drumcully,% change in agircultural emission density (2013 - 2017),-14.3318507662425,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI056,Drumlea and Mullan Woods,% change in agircultural emission density (2013 - 2017),13.9814821930441,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI020,Drumlisaleen,% change in agircultural emission density (2013 - 2017),-12.6242575778558,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI205,Drumlougher Lough,% change in agircultural emission density (2013 - 2017),13.4333674590984,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI401,Drumowen,% change in agircultural emission density (2013 - 2017),-1.52885967393514,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI274,Dunaree Hill,% change in agircultural emission density (2013 - 2017),0.503610782156236,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI009,Dunloy Bog,% change in agircultural emission density (2013 - 2017),8.45295307914424,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI095,Eastern Mournes,% change in agircultural emission density (2013 - 2017),16.8529729541482,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016615,Eastern Mournes,% change in agircultural emission density (2013 - 2017),16.8529729541484,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI256,Errigal Glen,% change in agircultural emission density (2013 - 2017),0.723859477441136,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI061,Ervey Wood,% change in agircultural emission density (2013 - 2017),24.8206314226612,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI134,Essan Burn and Mullyfamore,% change in agircultural emission density (2013 - 2017),24.9151423520367,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI330,Fair Head and Murlough Bay,% change in agircultural emission density (2013 - 2017),-6.45843191796301,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI008,Fairy Water Bogs,% change in agircultural emission density (2013 - 2017),36.7638786678017,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016611,Fairy Water Bogs,% change in agircultural emission density (2013 - 2017),36.7638786678017,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI238,Fathom Upper,% change in agircultural emission density (2013 - 2017),20.5600527197247,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI110,Finn Floods,% change in agircultural emission density (2013 - 2017),-4.33004298770631,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI376,Florence Court,% change in agircultural emission density (2013 - 2017),11.7028117462939,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI400,Frevagh,% change in agircultural emission density (2013 - 2017),14.0373846033238,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI126,Frosses Bog,% change in agircultural emission density (2013 - 2017),13.0266683498155,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI224,Fymore Lough,% change in agircultural emission density (2013 - 2017),79.4720174852639,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI333,Galboly,% change in agircultural emission density (2013 - 2017),-2.81784401529334,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI067,Garron Plateau,% change in agircultural emission density (2013 - 2017),24.062747680195,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016606,Garron Plateau,% change in agircultural emission density (2013 - 2017),24.0627476801952,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI004,Garry Bog,% change in agircultural emission density (2013 - 2017),0.1860411362994,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0016610,Garry Bog,% change in agircultural emission density (2013 - 2017),-5.33597935674493,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI127,Garry Bog Part II,% change in agircultural emission density (2013 - 2017),-10.3566138576069,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI017,Garvros,% change in agircultural emission density (2013 - 2017),14.1369817391575,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI202,Giant's Causeway and Dunseverick,% change in agircultural emission density (2013 - 2017),0.867625299138516,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI024,Glen Burn,% change in agircultural emission density (2013 - 2017),9.8404576026864,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI331,Glen East,% change in agircultural emission density (2013 - 2017),-30.4069424665261,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI025,Glenariff,% change in agircultural emission density (2013 - 2017),72.7574921053522,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI355,Glenariff Glen,% change in agircultural emission density (2013 - 2017),7.26532298765396,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI023,Glenarm Woods,% change in agircultural emission density (2013 - 2017),29.9266963525888,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI057,Glenmore Wood,% change in agircultural emission density (2013 - 2017),14.4369212645222,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI168,Glennasheevar,% change in agircultural emission density (2013 - 2017),53.9349199654266,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI371,Gortcorbies,% change in agircultural emission density (2013 - 2017),17.2782180053944,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI196,Grange Wood,% change in agircultural emission density (2013 - 2017),7.42080676129881,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI160,Greenan,% change in agircultural emission density (2013 - 2017),26.025216556554,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI158,Greenan Lough,% change in agircultural emission density (2013 - 2017),25.6158649762945,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI264,Hare Island,% change in agircultural emission density (2013 - 2017),8.5585415173858,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI132,Heron and Carrigullian Loughs,% change in agircultural emission density (2013 - 2017),-1.87867213527935,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI211,Hollymount,% change in agircultural emission density (2013 - 2017),-35.4525050819266,Large decrease,0,Agricultural ammonia emissions
+SAC,UK0030169,Hollymount,% change in agircultural emission density (2013 - 2017),-35.4525050819266,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI054,Inishroosk,% change in agircultural emission density (2013 - 2017),3.54748077679796,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI324,Keadew,% change in agircultural emission density (2013 - 2017),10.7652407204033,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI086,Killard,% change in agircultural emission density (2013 - 2017),14.423555700299,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI225,Killough Bay and Strand Lough,% change in agircultural emission density (2013 - 2017),-0.223392082851341,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI207,Kilnameel,% change in agircultural emission density (2013 - 2017),-41.9789845620854,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI078,Kilroosky Lough,% change in agircultural emission density (2013 - 2017),50.3159109977674,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI031,Kiltubbrid Loughs,% change in agircultural emission density (2013 - 2017),20.2550342975303,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI275,Kirlish,% change in agircultural emission density (2013 - 2017),5.7689924115206,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI391,Knock Dhu Sallagh Braes,% change in agircultural emission density (2013 - 2017),5.05804688272482,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI410,Knockadoo Wood,% change in agircultural emission density (2013 - 2017),-18.5597470719846,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI014,Knockballymore Lough,% change in agircultural emission density (2013 - 2017),40.3747604153376,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI307,Knocknacloy,% change in agircultural emission density (2013 - 2017),5.55508263616877,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI297,Knocknashangan,% change in agircultural emission density (2013 - 2017),11.0779841082508,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI166,Knockninny Hill,% change in agircultural emission density (2013 - 2017),12.1737461608012,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI037,Lackan Bog,% change in agircultural emission density (2013 - 2017),10.6053516234684,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI111,Largalinny,% change in agircultural emission density (2013 - 2017),29.5447259712,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030045,Largalinny,% change in agircultural emission density (2013 - 2017),29.5447259712,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI106,Larne Lough,% change in agircultural emission density (2013 - 2017),11.8948132898006,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI169,Leathemstown,% change in agircultural emission density (2013 - 2017),-9.74082826796236,Decrease,1,Agricultural ammonia emissions
+SAC,UK0030180,Lecale Fens,% change in agircultural emission density (2013 - 2017),-5.54514195845269,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI019,Lergan,% change in agircultural emission density (2013 - 2017),-8.21351052342381,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI214,Levallymore,% change in agircultural emission density (2013 - 2017),23.2991334600501,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI323,Little Deer Park,% change in agircultural emission density (2013 - 2017),70.9153807687332,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI353,Lough Anierin,% change in agircultural emission density (2013 - 2017),-9.79681082395579,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI027,Lough Beg,% change in agircultural emission density (2013 - 2017),-0.40779798202057,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI294,Lough Corr,% change in agircultural emission density (2013 - 2017),40.1900111816093,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI354,Lough Cowey,% change in agircultural emission density (2013 - 2017),34.8230263737497,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI051,Lough Foyle,% change in agircultural emission density (2013 - 2017),-5.33317551810946,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI295,Lough Gullion,% change in agircultural emission density (2013 - 2017),7.82925048336247,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI407,Lough Lark,% change in agircultural emission density (2013 - 2017),-17.9695753893115,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI348,Lough Macrory,% change in agircultural emission density (2013 - 2017),1.69969909812918,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI261,Lough McCall,% change in agircultural emission density (2013 - 2017),37.5723921139062,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI140,Lough Melvin,% change in agircultural emission density (2013 - 2017),20.2945176269263,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030047,Lough Melvin,% change in agircultural emission density (2013 - 2017),19.8451703054873,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI359,Lough Naman Bog and Lake,% change in agircultural emission density (2013 - 2017),38.2292045405251,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI270,Lough Navar Scarps and Lakes,% change in agircultural emission density (2013 - 2017),33.4717703038786,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI030,Lough Neagh,% change in agircultural emission density (2013 - 2017),14.4369272508812,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI262,Lough na blaney bane,% change in agircultural emission density (2013 - 2017),-10.9732601634452,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI206,Loughaveely,% change in agircultural emission density (2013 - 2017),18.6465175909559,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI039,Loughkeelan,% change in agircultural emission density (2013 - 2017),5.27065997501864,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI159,Loughmoney,% change in agircultural emission density (2013 - 2017),-32.0705176892695,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI204,Lurgan Lough,% change in agircultural emission density (2013 - 2017),5.48524090345676,Increase,3,Agricultural ammonia emissions
+SAC,UK0016621,Magheraveely Marl Loughs,% change in agircultural emission density (2013 - 2017),3.50474187710396,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI068,Magilligan,% change in agircultural emission density (2013 - 2017),-8.89449322033586,Decrease,1,Agricultural ammonia emissions
+SAC,UK0016613,Magilligan,% change in agircultural emission density (2013 - 2017),-8.89449322033607,Decrease,1,Agricultural ammonia emissions
+SAC,UK0030199,Main Valley Bogs,% change in agircultural emission density (2013 - 2017),9.68869400373541,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI375,Marlbank,% change in agircultural emission density (2013 - 2017),13.2063230548219,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI128,McKean's Moss,% change in agircultural emission density (2013 - 2017),3.51470239018143,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI165,McKean's Moss Part II,% change in agircultural emission density (2013 - 2017),5.80821496504203,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI013,Monawilkin,% change in agircultural emission density (2013 - 2017),23.9734161212087,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016619,Monawilkin,% change in agircultural emission density (2013 - 2017),23.9734161212086,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI018,Moneendogue,% change in agircultural emission density (2013 - 2017),11.6290552643061,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI005,Moneygal Bog,% change in agircultural emission density (2013 - 2017),17.5454205518246,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030211,Moneygal Bog,% change in agircultural emission density (2013 - 2017),24.0694463411063,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI209,Moneygal Bog Part II,% change in agircultural emission density (2013 - 2017),24.0694463411065,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI305,Moneystaghan Bog,% change in agircultural emission density (2013 - 2017),4.08678803003629,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI015,Moninea Bog,% change in agircultural emission density (2013 - 2017),-3.19898748230796,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030212,Moninea Bog,% change in agircultural emission density (2013 - 2017),-3.19898748230779,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030214,Montiaghs Moss,% change in agircultural emission density (2013 - 2017),6.86683226386367,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI379,Mournes Coast,% change in agircultural emission density (2013 - 2017),11.4651124562062,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI180,Moyrourkan Lough,% change in agircultural emission density (2013 - 2017),11.3937614516953,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI309,Mullaghcarn,% change in agircultural emission density (2013 - 2017),1.30165241440525,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI089,Murlough,% change in agircultural emission density (2013 - 2017),15.9144113241634,Large increase,4,Agricultural ammonia emissions
+SAC,UK0016612,Murlough,% change in agircultural emission density (2013 - 2017),14.3927622075561,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI060,Ness Wood,% change in agircultural emission density (2013 - 2017),4.68254223875626,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI241,Newlands,% change in agircultural emission density (2013 - 2017),21.4904212664094,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030224,North Antrim Coast,% change in agircultural emission density (2013 - 2017),0.979425198848468,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI022,North Woodburn Glen,% change in agircultural emission density (2013 - 2017),2.08500428182072,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI343,North Woodburn Reservoir,% change in agircultural emission density (2013 - 2017),24.6187092692901,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI105,Outer Ards,% change in agircultural emission density (2013 - 2017),0.947003882081557,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI104,Outer Belfast Lough,% change in agircultural emission density (2013 - 2017),16.5694345430084,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI213,Owenkillew River,% change in agircultural emission density (2013 - 2017),14.1078948404035,Increase,3,Agricultural ammonia emissions
+SAC,UK0030233,Owenkillew River,% change in agircultural emission density (2013 - 2017),14.1916199140974,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI062,Owenkillew and Glenelly Woods,% change in agircultural emission density (2013 - 2017),24.851417441466,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI210,Peatlands Park,% change in agircultural emission density (2013 - 2017),-3.50193199326805,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030236,Peatlands Park,% change in agircultural emission density (2013 - 2017),-3.50193199326805,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI065,Pettigoe Plateau,% change in agircultural emission density (2013 - 2017),-19.9050576038825,Large decrease,0,Agricultural ammonia emissions
+SAC,UK0016607,Pettigoe Plateau,% change in agircultural emission density (2013 - 2017),-19.9050576038825,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI390,Prolusk,% change in agircultural emission density (2013 - 2017),-12.4878908320138,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI170,Quoile,% change in agircultural emission density (2013 - 2017),5.70351182802358,Increase,3,Agricultural ammonia emissions
+SAC,UK0030055,Rathlin Island,% change in agircultural emission density (2013 - 2017),-4.63302713766268,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI033,Rathlin Island - Coast,% change in agircultural emission density (2013 - 2017),-4.63302713766267,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI265,Rathsherry,% change in agircultural emission density (2013 - 2017),19.6262015240875,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI296,River Faughan and Tributaries,% change in agircultural emission density (2013 - 2017),5.73171787020426,Increase,3,Agricultural ammonia emissions
+SAC,UK0030361,River Faughan and Tributaries,% change in agircultural emission density (2013 - 2017),8.63303962560035,Increase,3,Agricultural ammonia emissions
+SAC,UK0030360,River Roe and Tributaries,% change in agircultural emission density (2013 - 2017),11.1270127643125,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI397,Roeveagh,% change in agircultural emission density (2013 - 2017),-26.571912602246,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI299,Ross,% change in agircultural emission density (2013 - 2017),-4.52940914042285,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI178,Rostrevor Wood,% change in agircultural emission density (2013 - 2017),-46.9363481771179,Large decrease,0,Agricultural ammonia emissions
+SAC,UK0030268,Rostrevor Wood,% change in agircultural emission density (2013 - 2017),-46.9363481771179,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI268,Round Lough and Lough Fadda,% change in agircultural emission density (2013 - 2017),5.50815618711413,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI403,Rushy Hill,% change in agircultural emission density (2013 - 2017),5.15565225230076,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI300,Scraghy,% change in agircultural emission density (2013 - 2017),16.7714072845162,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI222,Selshion,% change in agircultural emission density (2013 - 2017),64.4978258699403,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI377,Shane's Castle,% change in agircultural emission density (2013 - 2017),61.5303571997305,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI273,Sheepland Coast,% change in agircultural emission density (2013 - 2017),11.3137050985408,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI195,Silverbrook Wood,% change in agircultural emission density (2013 - 2017),9.11947412081428,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI077,Slieve Beagh,% change in agircultural emission density (2013 - 2017),10.925889122652,Increase,3,Agricultural ammonia emissions
+SAC,UK0016622,Slieve Beagh,% change in agircultural emission density (2013 - 2017),10.9258891226521,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI198,Slieve Gullion,% change in agircultural emission density (2013 - 2017),11.9688106330519,Increase,3,Agricultural ammonia emissions
+SAC,UK0030277,Slieve Gullion,% change in agircultural emission density (2013 - 2017),11.968810633052,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI303,Slieveanorra and Croaghan,% change in agircultural emission density (2013 - 2017),13.4574889168946,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI063,Slievenacloy,% change in agircultural emission density (2013 - 2017),13.5885085193708,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI276,Sloughan and Willmount Glens,% change in agircultural emission density (2013 - 2017),5.47199366016482,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI258,Smulgedon,% change in agircultural emission density (2013 - 2017),13.8561737932237,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI344,South Woodburn,% change in agircultural emission density (2013 - 2017),8.38548155727172,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI386,St. John's Point,% change in agircultural emission density (2013 - 2017),11.1560111870111,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI058,Strabane Glen,% change in agircultural emission density (2013 - 2017),25.7642320900416,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI179,Straghans Lough,% change in agircultural emission density (2013 - 2017),1.53772909687402,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI162,Straidkilly Wood,% change in agircultural emission density (2013 - 2017),60.9361917074778,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI385,Stranacally,% change in agircultural emission density (2013 - 2017),-11.921904005114,Decrease,1,Agricultural ammonia emissions
+SAC,UK0016618,Strangford Lough,% change in agircultural emission density (2013 - 2017),-7.3360916997918,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI006,Strangford Lough Part 1,% change in agircultural emission density (2013 - 2017),35.1219571760532,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI032,Strangford Lough Part 2,% change in agircultural emission density (2013 - 2017),-25.1511299845676,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI034,Strangford Lough Part 3,% change in agircultural emission density (2013 - 2017),-15.7802105051115,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI080,Summerhill Lough,% change in agircultural emission density (2013 - 2017),44.6700218398712,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI415,Tamnyrankin,% change in agircultural emission density (2013 - 2017),-9.56259425905979,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI070,Tattenamona Bog,% change in agircultural emission density (2013 - 2017),1.04190604373225,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0016608,Teal Lough,% change in agircultural emission density (2013 - 2017),-2.34496667105952,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI088,Teal Lough Part II,% change in agircultural emission density (2013 - 2017),-4.3805738097289,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,% change in agircultural emission density (2013 - 2017),-0.97018553391286,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI364,Tempo River,% change in agircultural emission density (2013 - 2017),7.46108950103182,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI191,The Cliffs of Magho,% change in agircultural emission density (2013 - 2017),23.8206958712574,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI129,Tonnagh Beg Bog,% change in agircultural emission density (2013 - 2017),61.4431026064764,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030325,Tonnagh Beg Bog,% change in agircultural emission density (2013 - 2017),61.4431026064764,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI163,Tow River Wood,% change in agircultural emission density (2013 - 2017),-10.5475985967792,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI332,Tower More,% change in agircultural emission density (2013 - 2017),-3.07100794711264,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI130,Tully Bog,% change in agircultural emission density (2013 - 2017),12.4585575337919,Increase,3,Agricultural ammonia emissions
+SAC,UK0030326,Tully Bog,% change in agircultural emission density (2013 - 2017),12.4585575337918,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI216,Tullyard,% change in agircultural emission density (2013 - 2017),18.6006181866285,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI146,Tullybrick Lough,% change in agircultural emission density (2013 - 2017),-4.87419085451577,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI321,Tullyratty,% change in agircultural emission density (2013 - 2017),-12.7611103401041,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI190,Tullysranadeega,% change in agircultural emission density (2013 - 2017),-18.3903802647281,Large decrease,0,Agricultural ammonia emissions
+ASSI,ASSI148,Turmennan,% change in agircultural emission density (2013 - 2017),181.897240993328,Large increase,4,Agricultural ammonia emissions
+SAC,UK0030291,Turmennan,% change in agircultural emission density (2013 - 2017),181.897240993328,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI358,Tyrella and Minerstown,% change in agircultural emission density (2013 - 2017),12.0388935680314,Increase,3,Agricultural ammonia emissions
+SAC,UK0030296,Upper Ballinderry River,% change in agircultural emission density (2013 - 2017),-1.6652123173861,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0016614,Upper Lough Erne,% change in agircultural emission density (2013 - 2017),14.571481395511,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI093,Upper Lough Erne - Belleisle,% change in agircultural emission density (2013 - 2017),4.34037027728443,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI071,Upper Lough Erne - Crom,% change in agircultural emission density (2013 - 2017),28.5468394697596,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI090,Upper Lough Erne - Galloon,% change in agircultural emission density (2013 - 2017),35.1527514793867,Large increase,4,Agricultural ammonia emissions
+ASSI,ASSI094,Upper Lough Erne - Trannish,% change in agircultural emission density (2013 - 2017),12.5449279863679,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI201,West Fermanagh Scarplands,% change in agircultural emission density (2013 - 2017),5.79201476381533,Increase,3,Agricultural ammonia emissions
+SAC,UK0030300,West Fermanagh Scarplands,% change in agircultural emission density (2013 - 2017),5.79201476381522,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI351,Western Mournes and Kilfeaghan Upper,% change in agircultural emission density (2013 - 2017),4.07374035998135,Minor changes,2,Agricultural ammonia emissions
+ASSI,ASSI107,White Park Bay,% change in agircultural emission density (2013 - 2017),-7.30426537378742,Decrease,1,Agricultural ammonia emissions
+ASSI,ASSI352,White Water River,% change in agircultural emission density (2013 - 2017),12.1287791743754,Increase,3,Agricultural ammonia emissions
+ASSI,ASSI131,Wolf Island Bog,% change in agircultural emission density (2013 - 2017),2.0673557080585,Minor changes,2,Agricultural ammonia emissions
+SAC,UK0030303,Wolf Island Bog,% change in agircultural emission density (2013 - 2017),2.06735570805857,Minor changes,2,Agricultural ammonia emissions
