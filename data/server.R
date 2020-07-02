@@ -66,6 +66,15 @@ svr <- function(input,output,session){
       }
     })
   
+   output$downloadData <- downloadHandler(
+   filename = function() {
+     paste0(site_sel()$ID,"-",Sys.Date(),'.csv')
+   },
+   content = function(con) {
+     fwrite(table_data()[SITECODE==site_sel,], con)
+   }
+ )
+  
   output$cl_opt <- renderUI({
  
    if(!input$cl_filt){
@@ -90,6 +99,11 @@ svr <- function(input,output,session){
   output$dep_sel <- renderUI({if(!input$sa_filt&!input$cl_filt){return()}else{
     tagList(radioButtons("sa_dep", "Designated feature type",
                                      unique(sa$Dep_typ),NULL))}
+    })
+  
+   output$map_dep_sel <- renderUI({if(input$rast!="TotN_dep"){return()}else{
+    tagList(radioButtons("map_dep_typ", "Designated feature type:",
+                                     unique(sa$Dep_typ),"Woodland"))}
     })
   
   output$cle_opt <- renderUI({
@@ -119,8 +133,8 @@ svr <- function(input,output,session){
 ############################################################################
 table_data <- reactive({
   
-  if(!input$cl_filt){ids <- unique(ag[SITE_TYPE==input$site_typ,SITECODE])}
-  if(input$cl_filt){ids <- unique(cl_stat[SITE_TYPE==input$site_typ&DepType==input$sa_dep,SITECODE])}
+  if(!input$cl_filt){ids <- unique(ag[SITE_TYPE %in% input$site_typ,SITECODE])}
+  if(input$cl_filt){ids <- unique(cl_stat[SITE_TYPE %in% input$site_typ&DepType %in% input$sa_dep,SITECODE])}
   
         x0 <- ag[0,.(SITECODE,NAME,DATA_SRCE,VARIABLE,VALUE,SCORE,LABEL)]
         vars <-c()  
@@ -144,11 +158,11 @@ table_data <- reactive({
         
         
         if(input$cle_filt&!is.null(input$nh3_var)){vars <-c(vars,input$nh3_var) 
-          x0 <- rbind(x0, nh3[SITECODE %in% ids &cle == input$nh3_cle & 
+          x0 <- rbind(x0, nh3[SITECODE %in% ids & cle %in% input$nh3_cle & 
                                                         VARIABLE %in% input$nh3_var,
                           .(SITECODE,NAME,DATA_SRCE,VARIABLE,VALUE=round(VALUE,1),SCORE,LABEL)])}
         
-        #x0[,VARIABLE:=factor(VARIABLE,levels=vars)]
+        x0[,VARIABLE:=factor(VARIABLE,levels=vars)]
         x0[,N_IND := length(c(input$ag_var,input$nh3_var,input$sa_var))]
         x0[order(-SCORE,NAME),]
         })
@@ -184,7 +198,7 @@ output$n_sites_pv <- renderText({if(nrow(table_data())==0){return()}else{
 ############################################################################
 ############################################################################
 output$sel_tab <- DT::renderDataTable({
-  if(is.null(input$tab_rows_selected)){return()}else{
+  if(is.null(row())){return()}else{
   
     y <- datatable(table_data()[SITECODE == site_sel()$ID,.(`Indicator Score`=SCORE,
                                                                     
@@ -200,15 +214,24 @@ output$sel_tab <- DT::renderDataTable({
 # Sitename
 ############################################################################
 ############################################################################
-site_sel<-eventReactive(input$tab_rows_selected,{
-   if(is.null(input$tab_rows_selected)){list(ID = NA, NAME = "Please select a site using the site selection tab")}
-    if(!is.null(input$tab_rows_selected)){
+
+  row <- reactiveVal()
+  
+    observeEvent(input$tab_rows_selected, {
+    row(input$tab_rows_selected)})
+  
+  observeEvent(input$piv_tab_rows_selected, {
+    row(input$piv_tab_rows_selected)})
+
+site_sel<-eventReactive(row(),{
+   if(is.null(row())){list(ID = NA, NAME = "Please select a site using the site selection tab")}
+    if(!is.null(row())){
     x <- table_data()
     x[,rnk:=frank(VALUE,ties.method="dense")]
     x <- x[,.(Rank=mean(rnk),`Average Score`=round(sum(SCORE/N_IND),2),`Total Score`=sum(SCORE)),by=.(ID=SITECODE,`Site Name`=NAME)]
     x <- x[order(-`Total Score`,-Rank),]
-    ID <- x[input$tab_rows_selected,ID]
-    NAME <- x[input$tab_rows_selected,`Site Name`]
+    ID <- x[row(),ID]
+    NAME <- x[row(),`Site Name`]
     list(ID = ID, NAME = NAME)
     }
   })
@@ -217,7 +240,7 @@ output$sel_site_tab <- renderText(site_sel()$NAME)
 output$sel_site_map <- renderText(site_sel()$NAME)
 
 output$piv_tab <- DT::renderDataTable({
-  if(nrow(table_data())==0){return()}else{
+  suppressWarnings(if(nrow(table_data())==0){return()}else{
   x <- table_data()
   x[,rnk:=frank(VALUE,ties.method="dense")]
 
@@ -234,10 +257,12 @@ output$piv_tab <- DT::renderDataTable({
   
   labs <- labs[order(match(SITECODE, x)),]
   vals <- vals[order(match(SITECODE, x)),]
-  labs<-labs[,c("SITECODE","NAME",unique(y$VARIABLE)),with=F]                                  
-  
-  vs <- names(labs)[unique(3:ncol(labs))]
+  vs <- levels(y$VARIABLE)
   vs <- vs[!is.na(vs)]
+  labs<-labs[,c("SITECODE","NAME",vs),with=F]                                  
+  
+  #vs <- names(labs)[unique(3:ncol(labs))]
+ 
   cls<-unique(3:ncol(labs))
   vals <- suppressWarnings(vals[,lapply(.SD,function(x){ifelse(x==0,"#B0D6FF",
                                        ifelse(x==1,"#FDFF99",
@@ -245,7 +270,7 @@ output$piv_tab <- DT::renderDataTable({
                                                      ifelse(x==3,"#FFBE3B",
                                                             ifelse(x==4,"#EB4034","#000000")))))}),.SDcols=cls])
   
-  labs_XX <- datatable(labs)
+  labs_XX <- datatable(labs,selection = 'single')
   
   for(i in 1:length(vs)){
   
@@ -256,7 +281,7 @@ output$piv_tab <- DT::renderDataTable({
       as.vector(vals[,vs[i],with=F])[[1]]))}
   
   labs_XX
-  }
+  })
 })
 
 ####################################
@@ -269,6 +294,8 @@ output$piv_tab <- DT::renderDataTable({
 ############################################################################
 ############################################################################
 rast<-reactive({
+ if(input$rast == "TotN_dep"&is.null(input$map_dep_typ)){return()}else{
+  
   if(input$rast == "NH3_conc"){
     r <- nh3_r[,.(x,y,z=z)]
      cols <- c("#91e4ff","#fff200","#ffbb00","#ff0000","#cc0066")
@@ -279,7 +306,7 @@ rast<-reactive({
     
     
   if(input$rast == "TotN_dep"){
-    r <- dep_r[Dep_typ==input$sa_dep,.(x,y,z)]
+    r <- dep_r[Dep_typ %in% input$map_dep_typ,.(x,y,z)]
     cols <- c("#F1EEF6","#D7B5D8","#DF65B0","#DD1C77","#980043")
     brks<-c(-1,1,5,10,25,5000)
     lgnd <- "kg N ha<SUP>-1</SUP> yr<SUP>-1</SUP>"
@@ -297,7 +324,7 @@ rast<-reactive({
          brks = brks,
          lgnd = lgnd,
          pal = colorBin(palette=cols, domain=values(r),bins = brks, 
-                    na.color = "transparent",right=F))
+                    na.color = "transparent",right=F))}
   
     })
 
@@ -327,10 +354,10 @@ leafletProxy("map")%>% setView(lng = -6, lat= 55,zoom = 6)})
 # Raster
 ############################################################################
 ############################################################################
-observeEvent(input$rast, {
-  if(input$rast=="None"){leafletProxy("map")%>%clearImages()%>%
-clearControls()}
-   if(input$rast!="None"){leafletProxy("map")%>% removeTiles(layerId="ras")%>%
+observeEvent(c(input$rast,input$map_dep_typ),{
+  if(input$rast=="None"|(is.null(input$map_dep_typ)&input$rast=="TotN_dep")){leafletProxy("map")%>%clearImages()%>%
+clearControls()}else{
+   leafletProxy("map")%>% removeTiles(layerId="ras")%>%
 clearControls()%>%
     addLegend(colors=rast()$cols,values = values(rast()$r),labels = rast()$lab,
                     position = "bottomleft",
@@ -359,7 +386,7 @@ clearControls()%>%
 ############################################################################
 ############################################################################
 output$map <- renderLeaflet({
-  if(is.null(input$tab_rows_selected)){return()}else{
+  if(is.null(row())){return()}else{
 
   sel_sf <- sp_wgs84[sp_wgs84$SITECODE== site_sel()$ID,]
                       bbx <- bbox(sel_sf)
