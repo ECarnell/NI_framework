@@ -82,7 +82,7 @@ svr <- function(input,output,session){
   msg2 <- paste0(" ",id_sub," sites with designated features")
   
    tagList(p(class = cls, msg),
-           p(class = cls, msg2),
+           p(class = "cl", msg2),
            checkboxGroupInput("cl_var",p(class = "cl","Select indicators:"),
                                       unique(cl_stat$VARIABLE),NULL))}
   })
@@ -130,17 +130,17 @@ table_data <- reactive({
           x0 <- rbind(x0, ag[SITECODE %in% ids & VARIABLE %in% input$ag_var,
                                           .(SITECODE,NAME,DATA_SRCE,VARIABLE,VALUE=round(VALUE,1),SCORE,LABEL)])}
         
-        if(input$sa_filt & !is.null(input$sa_var)){x1<-sa[ID %in% ids,] 
+        if(input$sa_filt & !is.null(input$sa_dep) & !is.null(input$sa_var)){x1<-sa[ID %in% ids,] 
                                                    x1<-x1[Dep_typ %in% input$sa_dep,] 
                                                    x1<-x1[VARIABLE %in% input$sa_var,]
                                                    vars <-c(vars,input$sa_var) 
         x0 <- rbind(x0,x1[,.(SITECODE = ID,NAME,DATA_SRCE,VARIABLE,VALUE=round(VALUE,1),SCORE,LABEL)])}
         
-        if(input$cl_filt & !is.null(input$cl_var)){x2<-cl_stat[SITECODE %in% ids,] 
+        if(input$cl_filt & !is.null(input$sa_dep) & !is.null(input$cl_var)){x2<-cl_stat[SITECODE %in% ids,] 
                                                    x2<-x2[DepType %in% input$sa_dep,] 
                                                    x2<-x2[VARIABLE %in% input$cl_var,]
                                                    vars <-c(vars,input$cl_var) 
-        x0 <- rbind(x0,x2[,.(SITECODE = ID,NAME,DATA_SRCE,VARIABLE,VALUE=round(VALUE,1),SCORE,LABEL)])}
+        x0 <- rbind(x0,x2[,.(SITECODE,NAME,DATA_SRCE,VARIABLE,VALUE=round(VALUE,1),SCORE,LABEL)])}
         
         
         if(input$cle_filt&!is.null(input$nh3_var)){vars <-c(vars,input$nh3_var) 
@@ -226,11 +226,12 @@ output$piv_tab <- DT::renderDataTable({
             `Total Score`=sum(SCORE)), by=.(ID=SITECODE,`Site Name` = NAME)]
   x <- x[order(-`Total Score`,-Rank),ID]
 
-  y <- table_data()
+  y <- copy(table_data())
   y[,LABEL:=paste0(SCORE," - ",LABEL)]
   
   labs <- dcast.data.table(y,SITECODE+NAME~VARIABLE,value.var = "LABEL")
   vals <- dcast.data.table(y,SITECODE+NAME~VARIABLE,value.var = "SCORE")
+  
   labs <- labs[order(match(SITECODE, x)),]
   vals <- vals[order(match(SITECODE, x)),]
   labs<-labs[,c("SITECODE","NAME",unique(y$VARIABLE)),with=F]                                  
@@ -241,7 +242,7 @@ output$piv_tab <- DT::renderDataTable({
   vals <- suppressWarnings(vals[,lapply(.SD,function(x){ifelse(x==0,"#B0D6FF",
                                        ifelse(x==1,"#FDFF99",
                                               ifelse(x==2,"#FFF757",
-                                                     ifelse(x==3,"#FFF757",
+                                                     ifelse(x==3,"#FFBE3B",
                                                             ifelse(x==4,"#EB4034","#000000")))))}),.SDcols=cls])
   
   labs_XX <- datatable(labs)
