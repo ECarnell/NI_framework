@@ -101,10 +101,11 @@ svr <- function(input,output,session){
                                      unique(sa$Dep_typ),NULL))}
     })
   
-   output$map_dep_sel <- renderUI({if(input$rast!="TotN_dep"){return()}else{
-    tagList(radioButtons("map_dep_typ", "Designated feature type:",
-                                     unique(sa$Dep_typ),"Woodland"))}
-    })
+   #output$map_dep_sel <- renderUI({if(input$rast!="TotN_dep"){return()}else{
+    #tagList(radioButtons("map_dep_typ", "Designated feature type:",
+     #                                unique(sa$Dep_typ),"Woodland"))
+     #}
+    #})
   
   output$cle_opt <- renderUI({
   if(!input$cle_filt){return()}else{
@@ -126,6 +127,44 @@ svr <- function(input,output,session){
                                       p(class = "sa","Select indicators:"),
                                       unique(sa$VARIABLE),NULL))}
   })
+ 
+    output$dep_typ <- renderUI({
+      if(input$rast!="TotN_dep"){return()}else{
+      tagList(radioButtons("map_dep_typ", "Designated feature type:",
+                                     unique(sa$Dep_typ),"Woodland"))}
+      })   
+  
+   output$mapcontrols <- renderUI({
+    if(is.null(row_sel())){tagList(h5("Please select a site from the \'Comparison Table\' or \'Combined Scores\'"))}else
+    if(!is.null(row_sel())){
+    #if(is.null(input$rast)|input$rast!="TotN_dep"){ 
+    tagList(h5(textOutput("sel_site_map")),
+             leafletOutput("map"),
+             fixedPanel(id="controls",class = "panel panel-default", draggable = T,
+            bottom = 5, left = 450,
+            style="padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px",
+             width = 250, 
+             height = "auto",
+             style = "opacity: 0.4",
+             h3("Map Controls"),
+                
+                        
+              radioButtons("basemap","Basemap:",c("Map" = "CartoDB.Positron", "Satellite" = "Esri.WorldImagery"), 
+                          selected =c("Map" = "CartoDB.Positron")),#,
+                        
+              actionButton("re_cntr", label = "Zoom in to site"),
+              actionButton("ni_cntr", label = "Zoom out to NI"),
+                        
+              radioButtons("rast", "Raster layer:",c("Basemap only" = "None","Ammonia concentration" = "NH3_conc",
+                                                  "Total N Deposition" = "TotN_dep")),
+                                     selected = c("Basemap only" = "None"),
+            uiOutput("dep_typ"))#,
+   
+    )
+    }
+          
+    
+     })
     
   
 # table creation
@@ -198,7 +237,7 @@ output$n_sites_pv <- renderText({if(nrow(table_data())==0){return()}else{
 ############################################################################
 ############################################################################
 output$sel_tab <- DT::renderDataTable({
-  if(is.null(row())){return()}else{
+  if(is.null(row_sel())){return()}else{
   
     y <- datatable(table_data()[SITECODE == site_sel()$ID,.(`Indicator Score`=SCORE,
                                                                     
@@ -215,23 +254,23 @@ output$sel_tab <- DT::renderDataTable({
 ############################################################################
 ############################################################################
 
-  row <- reactiveVal()
+  row_sel <- reactiveVal()
   
     observeEvent(input$tab_rows_selected, {
-    row(input$tab_rows_selected)})
+    row_sel(input$tab_rows_selected)})
   
   observeEvent(input$piv_tab_rows_selected, {
-    row(input$piv_tab_rows_selected)})
+    row_sel(input$piv_tab_rows_selected)})
 
-site_sel<-eventReactive(row(),{
-   if(is.null(row())){list(ID = NA, NAME = "Please select a site using the site selection tab")}
-    if(!is.null(row())){
+site_sel<-eventReactive(row_sel(),{
+   if(is.null(row_sel())){list(ID = NA, NAME = "Please select a site using the site selection tab")}
+    if(!is.null(row_sel())){
     x <- table_data()
     x[,rnk:=frank(VALUE,ties.method="dense")]
     x <- x[,.(Rank=mean(rnk),`Average Score`=round(sum(SCORE/N_IND),2),`Total Score`=sum(SCORE)),by=.(ID=SITECODE,`Site Name`=NAME)]
     x <- x[order(-`Total Score`,-Rank),]
-    ID <- x[row(),ID]
-    NAME <- x[row(),`Site Name`]
+    ID <- x[row_sel(),ID]
+    NAME <- x[row_sel(),`Site Name`]
     list(ID = ID, NAME = NAME)
     }
   })
@@ -355,12 +394,13 @@ leafletProxy("map")%>% setView(lng = -6, lat= 55,zoom = 6)})
 ############################################################################
 ############################################################################
 observeEvent(c(input$rast,input$map_dep_typ),{
-  if(input$rast=="None"|(is.null(input$map_dep_typ)&input$rast=="TotN_dep")){leafletProxy("map")%>%clearImages()%>%
+  if(input$rast=="None"|(is.null(input$map_dep_typ)&input$rast=="TotN_dep")){
+    leafletProxy("map")%>%clearImages()%>%
 clearControls()}else{
    leafletProxy("map")%>% removeTiles(layerId="ras")%>%
 clearControls()%>%
     addLegend(colors=rast()$cols,values = values(rast()$r),labels = rast()$lab,
-                    position = "bottomleft",
+                    position = "bottomright",
                     title = rast()$lgnd)%>%
     addRasterImage(rast()$r,colors = rast()$pal,layerId="ras",
                          opacity = 0.7,project = F)}
@@ -386,7 +426,7 @@ clearControls()%>%
 ############################################################################
 ############################################################################
 output$map <- renderLeaflet({
-  if(is.null(row())){return()}else{
+  if(is.null(row_sel())){return()}else{
 
   sel_sf <- sp_wgs84[sp_wgs84$SITECODE== site_sel()$ID,]
                       bbx <- bbox(sel_sf)
@@ -405,6 +445,7 @@ output$map <- renderLeaflet({
         setView(lng = s_lng, lat= s_lat,zoom = zm)%>%
     addPolygons(data = sp_wgs84[sp_wgs84$SITECODE== site_sel()$ID,], color = "black",fillColor="white",
                fillOpacity = 0.2)
+    
     
 }}
   )

@@ -82,35 +82,19 @@ fluidPage(
                            DT::dataTableOutput("tab")),
                            
                  tabPanel("Results for selected site",
-                          #downloadButton("downloadData", label = "Download"),
                           h3(textOutput("sel_site_tab")),
                           DT::dataTableOutput("sel_tab")),
                  
-                 tabPanel("Location of selected site",
-                        h3(textOutput("sel_site_map")),
-                        absolutePanel(class = "panel panel-default", fixed = F,draggable = F,
-                        bottom = 30, right = 20,
-                        style="padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px",
-                        width = "auto", height = "auto",
-                        style = "opacity: 0.5",
-                        h3("Map Controls"),
-                
-                        
-                        radioButtons("basemap","Basemap:",c("Map" = "CartoDB.Positron", "Satellite" = "Esri.WorldImagery"), 
-                                     selected =c("Map" = "CartoDB.Positron")),
-                        
-                        actionButton("re_cntr", label = "Zoom in to site"),
-                        actionButton("ni_cntr", label = "Zoom out to NI"),
-                        
-                        radioButtons("rast", "Raster layer:",c("Basemap only" = "None","Ammonia concentration" = "NH3_conc",
-                                                            "Total N Deposition" = "TotN_dep"),
-                                     selected = c("Basemap only" = "None")),
-                        uiOutput("map_dep_sel")),
                  
-              leafletOutput("map",width="100%",height="100%")  
+                tabPanel("Location of selected site",
+                                 uiOutput("mapcontrols"))
+                        
+                 
+                
       )
 )
     
   )
-))
+)
+#)
 
