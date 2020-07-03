@@ -1,0 +1,60 @@
+---
+title: ""
+output: html_document
+params:
+  n: NA
+  new_title: NA
+  xx: NA
+  svr_v: NA
+  ID: NA
+  img: NA
+---
+
+### `r params$new_title`
+#### Report generated on: `r format(Sys.Date(),c("%d/%m/%Y"))`
+
+```{r,tab,echo=F,include=T}
+  svr_v<-params$svr_v
+  if(svr_v == T){lib<-"/home/edcarn/R/x86_64-pc-linux-gnu-library/3.4"
+  }
+  
+  if(svr_v == F){lib<-NULL
+  pth<-paste0("C:/Shiny_dev/")
+  setwd(pth)}
+  
+  
+  require(shiny,lib.loc = lib)
+  require(shinyjs,lib.loc = lib)
+  require(markdown,lib.loc = lib)
+  require(data.table,lib.loc = lib)
+  require(DT,lib.loc = lib)
+  require(png,lib.loc = lib)
+  require(grid,lib.loc = lib)
+  require(leaflet,lib.loc = lib)
+  require(raster,lib.loc = lib)
+  require(sp,lib.loc = lib)
+  require(rgdal,lib.loc = lib)
+# The `params` object is available in the document.
+
+tab <-params$xx 
+
+y <- datatable(tab[SITECODE == params$ID,.(`Indicator Score`=SCORE,`Indicator description`=LABEL,
+                                                                    
+                                                                    `Indicator`=VARIABLE,
+                                                                    
+                                                                    Value = VALUE,
+                                                                    `Inicator source`=DATA_SRCE)],rownames=F)                                                                  
+                      
+                      y %>% formatStyle("Indicator Score",backgroundColor = styleEqual(c(0,1,2,3,4),
+                                  c("#B0D6FF", "#FDFF99","#FFF757","#FFBE3B","#EB4034")))
+
+```
+
+#### Contact: Ed Carnell[ (edcarn@ceh.ac.uk) ](mailto:edcarn@ceh.ac.uk)
+
+
+```{r, out.width = "262px",out.height="70px",echo=F}
+knitr::include_graphics(params$img)
+```
+
+

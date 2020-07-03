@@ -3,11 +3,11 @@ SSSI,ASSI140,Lough Melvin,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia C
 SAC,UK0030047,Lough Melvin,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI017,Garvros,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI018,Moneendogue,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI020,Drumlisaleen,Mean CLe exceedance,1,0.16844,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI403,Rushy Hill,Mean CLe exceedance,1,0.0824594405594405,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI297,Knocknashangan,Mean CLe exceedance,1,0.0121444827586208,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI020,Drumlisaleen,Mean CLe exceedance,1,0.16844,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI403,Rushy Hill,Mean CLe exceedance,1,0.0824594405594405,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI297,Knocknashangan,Mean CLe exceedance,1,0.0121444827586208,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI299,Ross,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI400,Frevagh,Mean CLe exceedance,1,0.0793999999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI400,Frevagh,Mean CLe exceedance,1,0.0793999999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI332,Tower More,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI353,Lough Anierin,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI190,Tullysranadeega,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
@@ -28,276 +28,276 @@ SAC,UK0030300,West Fermanagh Scarplands,Mean CLe exceedance,1,0,0,No exceedance,
 SSSI,ASSI393,Lough Alaban,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI111,Largalinny,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030045,Largalinny,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI375,Marlbank,Mean CLe exceedance,1,0.0492672447368234,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI375,Marlbank,Mean CLe exceedance,1,0.0492672447368234,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI069,Cuilcagh Mountain,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016603,Cuilcagh Mountain,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI207,Kilnameel,Mean CLe exceedance,1,0.26875,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI207,Kilnameel,Mean CLe exceedance,1,0.26875,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI013,Monawilkin,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016619,Monawilkin,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI357,Killeter Forest and Bogs and Lakes,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI324,Keadew,Mean CLe exceedance,1,0.21954,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI324,Keadew,Mean CLe exceedance,1,0.21954,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI298,Blackslee,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI322,Drumbegger,Mean CLe exceedance,1,0.20813,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI016,Beagh Big,Mean CLe exceedance,1,0.72256,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI322,Drumbegger,Mean CLe exceedance,1,0.20813,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI016,Beagh Big,Mean CLe exceedance,1,0.72256,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI263,Cruninish Island,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI134,Essan Burn and Mullyfamore,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI378,Croagh Bog,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI376,Florence Court,Mean CLe exceedance,1,0.122264229888816,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI376,Florence Court,Mean CLe exceedance,1,0.122264229888816,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI264,Hare Island,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI070,Tattenamona Bog,Mean CLe exceedance,1,0.725734421906694,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI269,Devenish Island,Mean CLe exceedance,1,0.278231895292838,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016614,Upper Lough Erne,Mean CLe exceedance,1,0.558133345521564,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI070,Tattenamona Bog,Mean CLe exceedance,1,0.725734421906694,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI269,Devenish Island,Mean CLe exceedance,1,0.278231895292838,1,Low,2017 Ammonia Concentrations
+SAC,UK0016614,Upper Lough Erne,Mean CLe exceedance,1,0.558133345521564,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI300,Scraghy,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI093,Upper Lough Erne - Belleisle,Mean CLe exceedance,1,0.404883157626254,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI166,Knockninny Hill,Mean CLe exceedance,1,0.749747467646589,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI048,Corraslough Point,Mean CLe exceedance,1,0.340543299242424,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI094,Upper Lough Erne - Trannish,Mean CLe exceedance,1,0.534562004708256,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI350,Castlecoole,Mean CLe exceedance,1,0.839712471383341,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI015,Moninea Bog,Mean CLe exceedance,1,1.72889975479269,1,Low,2017 Ammonia Concentrations
-SAC,UK0030212,Moninea Bog,Mean CLe exceedance,1,1.72889975479269,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI005,Moneygal Bog,Mean CLe exceedance,1,0.91389760263558,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI209,Moneygal Bog Part II,Mean CLe exceedance,1,1.15600170505692,1,Low,2017 Ammonia Concentrations
-SAC,UK0030211,Moneygal Bog,Mean CLe exceedance,1,0.972483842853483,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI071,Upper Lough Erne - Crom,Mean CLe exceedance,1,0.583892826923077,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI054,Inishroosk,Mean CLe exceedance,1,0.471398921478549,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI276,Sloughan and Willmount Glens,Mean CLe exceedance,1,0.149258529524785,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI401,Drumowen,Mean CLe exceedance,1,0.11545,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI294,Lough Corr,Mean CLe exceedance,1,0.124548144329897,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI364,Tempo River,Mean CLe exceedance,1,1.64922496082621,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI274,Dunaree Hill,Mean CLe exceedance,1,0.206973534315626,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI008,Fairy Water Bogs,Mean CLe exceedance,1,0.99031534351145,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016611,Fairy Water Bogs,Mean CLe exceedance,1,0.99031534351145,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI275,Kirlish,Mean CLe exceedance,1,1.14319,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI090,Upper Lough Erne - Galloon,Mean CLe exceedance,1,0.928884865121614,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI349,Baronscourt,Mean CLe exceedance,1,0.864118421760861,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI058,Strabane Glen,Mean CLe exceedance,1,1.98200767423649,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI128,McKean's Moss,Mean CLe exceedance,1,1.68765505628518,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI165,McKean's Moss Part II,Mean CLe exceedance,1,1.72244295774648,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI129,Tonnagh Beg Bog,Mean CLe exceedance,1,1.93417923850575,1,Low,2017 Ammonia Concentrations
-SAC,UK0030325,Tonnagh Beg Bog,Mean CLe exceedance,1,1.93417923850575,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI124,Cranny Bogs,Mean CLe exceedance,1,2.73427070705793,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030321,Cranny Bogs,Mean CLe exceedance,1,2.73427070705793,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI110,Finn Floods,Mean CLe exceedance,1,2.07947529080119,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI268,Round Lough and Lough Fadda,Mean CLe exceedance,1,1.98338718246293,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI130,Tully Bog,Mean CLe exceedance,1,2.00198687378641,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030326,Tully Bog,Mean CLe exceedance,1,2.00198687378641,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI196,Grange Wood,Mean CLe exceedance,1,1.41947585526316,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI213,Owenkillew River,Mean CLe exceedance,1,0.737220561612951,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030233,Owenkillew River,Mean CLe exceedance,1,0.766383495298721,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI014,Knockballymore Lough,Mean CLe exceedance,1,1.79835068686869,1,Low,2017 Ammonia Concentrations
-SAC,UK0016621,Magheraveely Marl Loughs,Mean CLe exceedance,1,2.94619238406659,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI081,Burdautien Lough,Mean CLe exceedance,1,3.28552378594249,3,High,2017 Ammonia Concentrations
-SSSI,ASSI078,Kilroosky Lough,Mean CLe exceedance,1,3.10591226489028,3,High,2017 Ammonia Concentrations
-SSSI,ASSI080,Summerhill Lough,Mean CLe exceedance,1,2.0394,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI223,Cullentra Lough,Mean CLe exceedance,1,2.1835046260069,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI197,Corbylin Wood,Mean CLe exceedance,1,1.26631989624506,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI062,Owenkillew and Glenelly Woods,Mean CLe exceedance,1,1.02879564553537,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI077,Slieve Beagh,Mean CLe exceedance,1,0.556700944088721,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016622,Slieve Beagh,Mean CLe exceedance,1,0.556700944088721,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI195,Silverbrook Wood,Mean CLe exceedance,1,1.04615999138674,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI121,Annachullion Lough,Mean CLe exceedance,1,3.7260513830955,3,High,2017 Ammonia Concentrations
-SSSI,ASSI309,Mullaghcarn,Mean CLe exceedance,1,0.332442787544587,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI296,River Faughan and Tributaries,Mean CLe exceedance,1,0.780858449472618,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030361,River Faughan and Tributaries,Mean CLe exceedance,1,0.758012116358938,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI122,Drumacrittin Lough,Mean CLe exceedance,1,3.85553987421384,3,High,2017 Ammonia Concentrations
-SSSI,ASSI392,Cloghcor Lough,Mean CLe exceedance,1,1.91546789528796,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI308,Annaghagh Bog,Mean CLe exceedance,1,2.04822567955716,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI227,Bonds Glen,Mean CLe exceedance,1,0.810637448194198,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI261,Lough McCall,Mean CLe exceedance,1,1.12975,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI035,Deroran Bog,Mean CLe exceedance,1,1.42094508593337,1,Low,2017 Ammonia Concentrations
-SAC,UK0030324,Deroran Bog,Mean CLe exceedance,1,1.42094508593337,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI093,Upper Lough Erne - Belleisle,Mean CLe exceedance,1,0.404883157626254,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI166,Knockninny Hill,Mean CLe exceedance,1,0.749747467646589,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI048,Corraslough Point,Mean CLe exceedance,1,0.340543299242424,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI094,Upper Lough Erne - Trannish,Mean CLe exceedance,1,0.534562004708256,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI350,Castlecoole,Mean CLe exceedance,1,0.839712471383341,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI015,Moninea Bog,Mean CLe exceedance,1,1.72889975479269,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030212,Moninea Bog,Mean CLe exceedance,1,1.72889975479269,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI005,Moneygal Bog,Mean CLe exceedance,1,0.91389760263558,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI209,Moneygal Bog Part II,Mean CLe exceedance,1,1.15600170505692,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030211,Moneygal Bog,Mean CLe exceedance,1,0.972483842853483,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI071,Upper Lough Erne - Crom,Mean CLe exceedance,1,0.583892826923077,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI054,Inishroosk,Mean CLe exceedance,1,0.47139892147855,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI276,Sloughan and Willmount Glens,Mean CLe exceedance,1,0.149258529524785,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI401,Drumowen,Mean CLe exceedance,1,0.11545,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI294,Lough Corr,Mean CLe exceedance,1,0.124548144329897,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI364,Tempo River,Mean CLe exceedance,1,1.64922496082621,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI274,Dunaree Hill,Mean CLe exceedance,1,0.206973534315626,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI008,Fairy Water Bogs,Mean CLe exceedance,1,0.99031534351145,1,Low,2017 Ammonia Concentrations
+SAC,UK0016611,Fairy Water Bogs,Mean CLe exceedance,1,0.99031534351145,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI275,Kirlish,Mean CLe exceedance,1,1.14319,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI090,Upper Lough Erne - Galloon,Mean CLe exceedance,1,0.928884865121614,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI349,Baronscourt,Mean CLe exceedance,1,0.864118421760861,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI058,Strabane Glen,Mean CLe exceedance,1,1.98200767423649,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI128,McKean's Moss,Mean CLe exceedance,1,1.68765505628518,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI165,McKean's Moss Part II,Mean CLe exceedance,1,1.72244295774648,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI129,Tonnagh Beg Bog,Mean CLe exceedance,1,1.93417923850575,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030325,Tonnagh Beg Bog,Mean CLe exceedance,1,1.93417923850575,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI124,Cranny Bogs,Mean CLe exceedance,1,2.73427070705793,3,High,2017 Ammonia Concentrations
+SAC,UK0030321,Cranny Bogs,Mean CLe exceedance,1,2.73427070705793,3,High,2017 Ammonia Concentrations
+SSSI,ASSI110,Finn Floods,Mean CLe exceedance,1,2.07947529080119,3,High,2017 Ammonia Concentrations
+SSSI,ASSI268,Round Lough and Lough Fadda,Mean CLe exceedance,1,1.98338718246293,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI130,Tully Bog,Mean CLe exceedance,1,2.00198687378641,3,High,2017 Ammonia Concentrations
+SAC,UK0030326,Tully Bog,Mean CLe exceedance,1,2.00198687378641,3,High,2017 Ammonia Concentrations
+SSSI,ASSI196,Grange Wood,Mean CLe exceedance,1,1.41947585526316,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI213,Owenkillew River,Mean CLe exceedance,1,0.737220561612951,1,Low,2017 Ammonia Concentrations
+SAC,UK0030233,Owenkillew River,Mean CLe exceedance,1,0.766383495298721,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI014,Knockballymore Lough,Mean CLe exceedance,1,1.79835068686869,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016621,Magheraveely Marl Loughs,Mean CLe exceedance,1,2.94619238406659,3,High,2017 Ammonia Concentrations
+SSSI,ASSI081,Burdautien Lough,Mean CLe exceedance,1,3.28552378594249,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI078,Kilroosky Lough,Mean CLe exceedance,1,3.10591226489028,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI080,Summerhill Lough,Mean CLe exceedance,1,2.0394,3,High,2017 Ammonia Concentrations
+SSSI,ASSI223,Cullentra Lough,Mean CLe exceedance,1,2.1835046260069,3,High,2017 Ammonia Concentrations
+SSSI,ASSI197,Corbylin Wood,Mean CLe exceedance,1,1.26631989624506,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI062,Owenkillew and Glenelly Woods,Mean CLe exceedance,1,1.02879564553537,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI077,Slieve Beagh,Mean CLe exceedance,1,0.556700944088721,1,Low,2017 Ammonia Concentrations
+SAC,UK0016622,Slieve Beagh,Mean CLe exceedance,1,0.556700944088721,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI195,Silverbrook Wood,Mean CLe exceedance,1,1.04615999138674,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI121,Annachullion Lough,Mean CLe exceedance,1,3.7260513830955,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI309,Mullaghcarn,Mean CLe exceedance,1,0.332442787544587,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI296,River Faughan and Tributaries,Mean CLe exceedance,1,0.780858449472618,1,Low,2017 Ammonia Concentrations
+SAC,UK0030361,River Faughan and Tributaries,Mean CLe exceedance,1,0.758012116358938,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI122,Drumacrittin Lough,Mean CLe exceedance,1,3.85553987421384,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI392,Cloghcor Lough,Mean CLe exceedance,1,1.91546789528796,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI308,Annaghagh Bog,Mean CLe exceedance,1,2.04822567955716,3,High,2017 Ammonia Concentrations
+SSSI,ASSI227,Bonds Glen,Mean CLe exceedance,1,0.810637448194198,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI261,Lough McCall,Mean CLe exceedance,1,1.12975,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI035,Deroran Bog,Mean CLe exceedance,1,1.42094508593337,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030324,Deroran Bog,Mean CLe exceedance,1,1.42094508593337,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI051,Lough Foyle,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI061,Ervey Wood,Mean CLe exceedance,1,0.702995043015158,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI398,Cavan,Mean CLe exceedance,1,0.912121800643087,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI056,Drumlea and Mullan Woods,Mean CLe exceedance,1,0.536320770361658,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI060,Ness Wood,Mean CLe exceedance,1,0.437298,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI262,Lough na blaney bane,Mean CLe exceedance,1,0.95055,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI237,Derrycloony Lough,Mean CLe exceedance,1,1.85966633254717,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI397,Roeveagh,Mean CLe exceedance,1,1.157792,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI224,Fymore Lough,Mean CLe exceedance,1,2.1699314159292,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI348,Lough Macrory,Mean CLe exceedance,1,0.832717877018207,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI007,Black Bog,Mean CLe exceedance,1,0.371672475770446,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016609,Black Bog,Mean CLe exceedance,1,0.371672475770446,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI057,Glenmore Wood,Mean CLe exceedance,1,2.05404333565946,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030360,River Roe and Tributaries,Mean CLe exceedance,1,0.712074585619122,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030296,Upper Ballinderry River,Mean CLe exceedance,1,2.05493452939304,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI061,Ervey Wood,Mean CLe exceedance,1,0.702995043015158,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI398,Cavan,Mean CLe exceedance,1,0.912121800643087,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI056,Drumlea and Mullan Woods,Mean CLe exceedance,1,0.536320770361658,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI060,Ness Wood,Mean CLe exceedance,1,0.437298,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI262,Lough na blaney bane,Mean CLe exceedance,1,0.95055,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI237,Derrycloony Lough,Mean CLe exceedance,1,1.85966633254717,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI397,Roeveagh,Mean CLe exceedance,1,1.157792,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI224,Fymore Lough,Mean CLe exceedance,1,2.1699314159292,3,High,2017 Ammonia Concentrations
+SSSI,ASSI348,Lough Macrory,Mean CLe exceedance,1,0.832717877018207,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI007,Black Bog,Mean CLe exceedance,1,0.371672475770446,1,Low,2017 Ammonia Concentrations
+SAC,UK0016609,Black Bog,Mean CLe exceedance,1,0.371672475770445,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI057,Glenmore Wood,Mean CLe exceedance,1,2.05404333565946,3,High,2017 Ammonia Concentrations
+SAC,UK0030360,River Roe and Tributaries,Mean CLe exceedance,1,0.712074585619122,1,Low,2017 Ammonia Concentrations
+SAC,UK0030296,Upper Ballinderry River,Mean CLe exceedance,1,2.05493452939304,3,High,2017 Ammonia Concentrations
 SSSI,ASSI407,Lough Lark,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI059,Altmover Glen,Mean CLe exceedance,1,0.814844044191496,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI239,Black Lough (Tyrone),Mean CLe exceedance,1,2.45306290964778,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI064,Banagher Glen,Mean CLe exceedance,1,0.195900075404052,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030083,Banagher Glen,Mean CLe exceedance,1,0.195900075404052,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI059,Altmover Glen,Mean CLe exceedance,1,0.814844044191496,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI239,Black Lough (Tyrone),Mean CLe exceedance,1,2.45306290964778,3,High,2017 Ammonia Concentrations
+SSSI,ASSI064,Banagher Glen,Mean CLe exceedance,1,0.195900075404052,1,Low,2017 Ammonia Concentrations
+SAC,UK0030083,Banagher Glen,Mean CLe exceedance,1,0.195900075404052,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI068,Magilligan,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016613,Magilligan,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI146,Tullybrick Lough,Mean CLe exceedance,1,6.77511,4,Very High,2017 Ammonia Concentrations
 SSSI,ASSI342,Caledon and Tynan,Mean CLe exceedance,1,11.2625484389601,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI055,Crockaghole Wood,Mean CLe exceedance,1,0.224292559055118,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Mean CLe exceedance,1,0.167293199938669,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI228,Aghanloo Wood,Mean CLe exceedance,1,0.140139413119158,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI055,Crockaghole Wood,Mean CLe exceedance,1,0.224292559055118,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Mean CLe exceedance,1,0.167293199938669,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI228,Aghanloo Wood,Mean CLe exceedance,1,0.140139413119158,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI212,Binevenagh,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030089,Binevenagh,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI031,Kiltubbrid Loughs,Mean CLe exceedance,1,4.27047323115162,4,Very High,2017 Ammonia Concentrations
-SAC,UK0016608,Teal Lough,Mean CLe exceedance,1,0.146071392079806,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI088,Teal Lough Part II,Mean CLe exceedance,1,0.161894234249714,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI031,Kiltubbrid Loughs,Mean CLe exceedance,1,4.27047323115161,4,Very High,2017 Ammonia Concentrations
+SAC,UK0016608,Teal Lough,Mean CLe exceedance,1,0.146071392079806,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI088,Teal Lough Part II,Mean CLe exceedance,1,0.161894234249713,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI307,Knocknacloy,Mean CLe exceedance,1,4.16789173553719,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI266,Ballyrisk More,Mean CLe exceedance,1,0.248057297297297,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI182,Drumcarn,Mean CLe exceedance,1,2.64312576309795,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI183,Crossbane Lough,Mean CLe exceedance,1,2.55575622133599,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI266,Ballyrisk More,Mean CLe exceedance,1,0.248057297297297,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI182,Drumcarn,Mean CLe exceedance,1,2.64312576309795,3,High,2017 Ammonia Concentrations
+SSSI,ASSI183,Crossbane Lough,Mean CLe exceedance,1,2.55575622133599,3,High,2017 Ammonia Concentrations
 SSSI,ASSI167,Carn/Glenshane Pass,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030110,Carn  Glenshane Pass,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI371,Gortcorbies,Mean CLe exceedance,1,0.254124772151899,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI371,Gortcorbies,Mean CLe exceedance,1,0.254124772151899,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI171,Altikeeragh,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI179,Straghans Lough,Mean CLe exceedance,1,2.36729735841424,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI257,Ballymacallion,Mean CLe exceedance,1,0.337584253433761,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI259,Castle River Valley,Mean CLe exceedance,1,0.725085917266187,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI258,Smulgedon,Mean CLe exceedance,1,0.41505,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI267,Coolnasillagh,Mean CLe exceedance,1,0.086912561983471,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI208,Bann Estuary,Mean CLe exceedance,1,0.198925907225077,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030084,Bann Estuary,Mean CLe exceedance,1,0.198925907225077,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI410,Knockadoo Wood,Mean CLe exceedance,1,2.92117212819589,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI216,Tullyard,Mean CLe exceedance,1,2.67808,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI194,Ballyknock,Mean CLe exceedance,1,0.846269040735874,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI205,Drumlougher Lough,Mean CLe exceedance,1,2.17484491935484,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI256,Errigal Glen,Mean CLe exceedance,1,0.5670171679029,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI240,Drumcrow,Mean CLe exceedance,1,2.31101690288714,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI010,Ballynahone Bog,Mean CLe exceedance,1,1.17100931208674,1,Low,2017 Ammonia Concentrations
-SAC,UK0016599,Ballynahone Bog,Mean CLe exceedance,1,1.17100931208674,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI038,Annacramph Meadows,Mean CLe exceedance,1,3.08863566801619,3,High,2017 Ammonia Concentrations
-SSSI,ASSI415,Tamnyrankin,Mean CLe exceedance,1,0.634266735905044,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI210,Peatlands Park,Mean CLe exceedance,1,1.63486752155692,1,Low,2017 Ammonia Concentrations
-SAC,UK0030236,Peatlands Park,Mean CLe exceedance,1,1.63486752155692,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI074,Curran Bog,Mean CLe exceedance,1,1.35388362179837,1,Low,2017 Ammonia Concentrations
-SAC,UK0030322,Curran Bog,Mean CLe exceedance,1,1.35388362179837,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI204,Lurgan Lough,Mean CLe exceedance,1,2.15435682237246,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI030,Lough Neagh,Mean CLe exceedance,1,0.561899976881592,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI206,Loughaveely,Mean CLe exceedance,1,2.04685027027027,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI189,Cashel Loughs,Mean CLe exceedance,1,1.4437313764946,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI180,Moyrourkan Lough,Mean CLe exceedance,1,2.65329567039106,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI125,Dead Island Bog,Mean CLe exceedance,1,1.40277183180987,1,Low,2017 Ammonia Concentrations
-SAC,UK0030323,Dead Island Bog,Mean CLe exceedance,1,1.40277183180987,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI131,Wolf Island Bog,Mean CLe exceedance,1,1.41438143666977,1,Low,2017 Ammonia Concentrations
-SAC,UK0030303,Wolf Island Bog,Mean CLe exceedance,1,1.41437229187817,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI214,Levallymore,Mean CLe exceedance,1,1.83535460869565,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI222,Selshion,Mean CLe exceedance,1,1.98508479959667,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI305,Moneystaghan Bog,Mean CLe exceedance,1,1.27110474277703,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI215,Carrickastickan,Mean CLe exceedance,1,1.53958357333333,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI198,Slieve Gullion,Mean CLe exceedance,1,1.0237353181247,1,Low,2017 Ammonia Concentrations
-SAC,UK0030277,Slieve Gullion,Mean CLe exceedance,1,1.02373371267256,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI027,Lough Beg,Mean CLe exceedance,1,1.33570943791556,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI127,Garry Bog Part II,Mean CLe exceedance,1,0.923708614013522,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016610,Garry Bog,Mean CLe exceedance,1,0.934279947714949,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI004,Garry Bog,Mean CLe exceedance,1,0.937090792613172,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI339,Brackagh Bog,Mean CLe exceedance,1,1.86578439576906,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI295,Lough Gullion,Mean CLe exceedance,1,1.3987050881632,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI202,Giant's Causeway and Dunseverick,Mean CLe exceedance,1,0.289645705651387,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030224,North Antrim Coast,Mean CLe exceedance,1,0.376897877171255,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI221,Derryvore,Mean CLe exceedance,1,2.06929381165919,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI372,Craigs,Mean CLe exceedance,1,1.18135113989637,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI409,Clermont & Anglesey Mountain,Mean CLe exceedance,1,0.783833075317043,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI238,Fathom Upper,Mean CLe exceedance,1,1.24409191176471,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI103,Carlingford Lough,Mean CLe exceedance,1,0.621736588198939,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI260,Ballymacaldrack,Mean CLe exceedance,1,1.08537,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI123,Caldanagh Bog,Mean CLe exceedance,1,1.49983408644401,1,Low,2017 Ammonia Concentrations
-SAC,UK0030199,Main Valley Bogs,Mean CLe exceedance,1,1.61857034727068,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI390,Prolusk,Mean CLe exceedance,1,1.06511997827661,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI158,Greenan Lough,Mean CLe exceedance,1,1.77152877202643,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI079,Derryleckagh,Mean CLe exceedance,1,1.67840584855325,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI160,Greenan,Mean CLe exceedance,1,1.87833,1,Low,2017 Ammonia Concentrations
-SAC,UK0016620,Derryleckagh,Mean CLe exceedance,1,1.67840584855325,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI009,Dunloy Bog,Mean CLe exceedance,1,1.4621358495666,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI107,White Park Bay,Mean CLe exceedance,1,0.60097018024901,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI157,Castle Enigan,Mean CLe exceedance,1,2.307145221843,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030214,Montiaghs Moss,Mean CLe exceedance,1,1.34304627334521,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI377,Shane's Castle,Mean CLe exceedance,1,1.34101701658999,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI126,Frosses Bog,Mean CLe exceedance,1,2.1028854021664,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI217,Ballynanaghten,Mean CLe exceedance,1,2.21987458333333,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI178,Rostrevor Wood,Mean CLe exceedance,1,0.292530066225166,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030268,Rostrevor Wood,Mean CLe exceedance,1,0.292530066225166,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI303,Slieveanorra and Croaghan,Mean CLe exceedance,1,0.199022764344733,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI163,Tow River Wood,Mean CLe exceedance,1,0.905923307888041,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI179,Straghans Lough,Mean CLe exceedance,1,2.36729735841424,3,High,2017 Ammonia Concentrations
+SSSI,ASSI257,Ballymacallion,Mean CLe exceedance,1,0.337584253433761,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI259,Castle River Valley,Mean CLe exceedance,1,0.725085917266187,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI258,Smulgedon,Mean CLe exceedance,1,0.41505,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI267,Coolnasillagh,Mean CLe exceedance,1,0.086912561983471,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI208,Bann Estuary,Mean CLe exceedance,1,0.198925907225077,1,Low,2017 Ammonia Concentrations
+SAC,UK0030084,Bann Estuary,Mean CLe exceedance,1,0.198925907225077,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI410,Knockadoo Wood,Mean CLe exceedance,1,2.9211721281959,3,High,2017 Ammonia Concentrations
+SSSI,ASSI216,Tullyard,Mean CLe exceedance,1,2.67808,3,High,2017 Ammonia Concentrations
+SSSI,ASSI194,Ballyknock,Mean CLe exceedance,1,0.846269040735874,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI205,Drumlougher Lough,Mean CLe exceedance,1,2.17484491935484,3,High,2017 Ammonia Concentrations
+SSSI,ASSI256,Errigal Glen,Mean CLe exceedance,1,0.5670171679029,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI240,Drumcrow,Mean CLe exceedance,1,2.31101690288714,3,High,2017 Ammonia Concentrations
+SSSI,ASSI010,Ballynahone Bog,Mean CLe exceedance,1,1.17100931208674,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016599,Ballynahone Bog,Mean CLe exceedance,1,1.17100931208674,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI038,Annacramph Meadows,Mean CLe exceedance,1,3.08863566801619,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI415,Tamnyrankin,Mean CLe exceedance,1,0.634266735905045,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI210,Peatlands Park,Mean CLe exceedance,1,1.63486752155692,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030236,Peatlands Park,Mean CLe exceedance,1,1.63486752155692,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI074,Curran Bog,Mean CLe exceedance,1,1.35388362179837,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030322,Curran Bog,Mean CLe exceedance,1,1.35388362179836,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI204,Lurgan Lough,Mean CLe exceedance,1,2.15435682237246,3,High,2017 Ammonia Concentrations
+SSSI,ASSI030,Lough Neagh,Mean CLe exceedance,1,0.561899976881593,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI206,Loughaveely,Mean CLe exceedance,1,2.04685027027027,3,High,2017 Ammonia Concentrations
+SSSI,ASSI189,Cashel Loughs,Mean CLe exceedance,1,1.4437313764946,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI180,Moyrourkan Lough,Mean CLe exceedance,1,2.65329567039106,3,High,2017 Ammonia Concentrations
+SSSI,ASSI125,Dead Island Bog,Mean CLe exceedance,1,1.40277183180987,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030323,Dead Island Bog,Mean CLe exceedance,1,1.40277183180987,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI131,Wolf Island Bog,Mean CLe exceedance,1,1.41438143666977,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030303,Wolf Island Bog,Mean CLe exceedance,1,1.41437229187817,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI214,Levallymore,Mean CLe exceedance,1,1.83535460869565,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI222,Selshion,Mean CLe exceedance,1,1.98508479959667,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI305,Moneystaghan Bog,Mean CLe exceedance,1,1.27110474277703,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI215,Carrickastickan,Mean CLe exceedance,1,1.53958357333333,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI198,Slieve Gullion,Mean CLe exceedance,1,1.0237353181247,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030277,Slieve Gullion,Mean CLe exceedance,1,1.02373371267256,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI027,Lough Beg,Mean CLe exceedance,1,1.33570943791556,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI127,Garry Bog Part II,Mean CLe exceedance,1,0.923708614013521,1,Low,2017 Ammonia Concentrations
+SAC,UK0016610,Garry Bog,Mean CLe exceedance,1,0.93427994771495,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI004,Garry Bog,Mean CLe exceedance,1,0.937090792613172,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI339,Brackagh Bog,Mean CLe exceedance,1,1.86578439576906,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI295,Lough Gullion,Mean CLe exceedance,1,1.3987050881632,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI202,Giant's Causeway and Dunseverick,Mean CLe exceedance,1,0.289645705651388,1,Low,2017 Ammonia Concentrations
+SAC,UK0030224,North Antrim Coast,Mean CLe exceedance,1,0.376897877171255,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI221,Derryvore,Mean CLe exceedance,1,2.06929381165919,3,High,2017 Ammonia Concentrations
+SSSI,ASSI372,Craigs,Mean CLe exceedance,1,1.18135113989637,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI409,Clermont & Anglesey Mountain,Mean CLe exceedance,1,0.783833075317043,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI238,Fathom Upper,Mean CLe exceedance,1,1.24409191176471,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI103,Carlingford Lough,Mean CLe exceedance,1,0.621736588198938,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI260,Ballymacaldrack,Mean CLe exceedance,1,1.08537,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI123,Caldanagh Bog,Mean CLe exceedance,1,1.49983408644401,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030199,Main Valley Bogs,Mean CLe exceedance,1,1.61857034727068,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI390,Prolusk,Mean CLe exceedance,1,1.06511997827661,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI158,Greenan Lough,Mean CLe exceedance,1,1.77152877202643,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI079,Derryleckagh,Mean CLe exceedance,1,1.67840584855325,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI160,Greenan,Mean CLe exceedance,1,1.87833,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016620,Derryleckagh,Mean CLe exceedance,1,1.67840584855325,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI009,Dunloy Bog,Mean CLe exceedance,1,1.46213584956659,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI107,White Park Bay,Mean CLe exceedance,1,0.600970180249009,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI157,Castle Enigan,Mean CLe exceedance,1,2.307145221843,3,High,2017 Ammonia Concentrations
+SAC,UK0030214,Montiaghs Moss,Mean CLe exceedance,1,1.34304627334521,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI377,Shane's Castle,Mean CLe exceedance,1,1.34101701658999,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI126,Frosses Bog,Mean CLe exceedance,1,2.1028854021664,3,High,2017 Ammonia Concentrations
+SSSI,ASSI217,Ballynanaghten,Mean CLe exceedance,1,2.21987458333333,3,High,2017 Ammonia Concentrations
+SSSI,ASSI178,Rostrevor Wood,Mean CLe exceedance,1,0.292530066225166,1,Low,2017 Ammonia Concentrations
+SAC,UK0030268,Rostrevor Wood,Mean CLe exceedance,1,0.292530066225165,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI303,Slieveanorra and Croaghan,Mean CLe exceedance,1,0.199022764344733,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI163,Tow River Wood,Mean CLe exceedance,1,0.905923307888041,1,Low,2017 Ammonia Concentrations
 SAC,UK0030055,Rathlin Island,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI033,Rathlin Island - Coast,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI351,Western Mournes and Kilfeaghan Upper,Mean CLe exceedance,1,0.318008123029159,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI161,Breen Wood,Mean CLe exceedance,1,0.23295808982534,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030097,Breen Wood,Mean CLe exceedance,1,0.23295808982534,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI351,Western Mournes and Kilfeaghan Upper,Mean CLe exceedance,1,0.318008123029158,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI161,Breen Wood,Mean CLe exceedance,1,0.232958089825339,1,Low,2017 Ammonia Concentrations
+SAC,UK0030097,Breen Wood,Mean CLe exceedance,1,0.23295808982534,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI356,Rathlin Island - Kebble,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI265,Rathsherry,Mean CLe exceedance,1,1.96209222003929,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI265,Rathsherry,Mean CLe exceedance,1,1.96209222003929,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI043,Rathlin Island - Ballygill North,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI067,Garron Plateau,Mean CLe exceedance,1,0.145936874914021,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016606,Garron Plateau,Mean CLe exceedance,1,0.14593629524307,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI037,Lackan Bog,Mean CLe exceedance,1,2.13788601965602,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI352,White Water River,Mean CLe exceedance,1,0.895337878545105,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI169,Leathemstown,Mean CLe exceedance,1,1.34050870011148,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI302,Carey Valley,Mean CLe exceedance,1,0.107664281538524,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI067,Garron Plateau,Mean CLe exceedance,1,0.145936874914021,1,Low,2017 Ammonia Concentrations
+SAC,UK0016606,Garron Plateau,Mean CLe exceedance,1,0.14593629524307,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI037,Lackan Bog,Mean CLe exceedance,1,2.13788601965602,3,High,2017 Ammonia Concentrations
+SSSI,ASSI352,White Water River,Mean CLe exceedance,1,0.895337878545105,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI169,Leathemstown,Mean CLe exceedance,1,1.34050870011148,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI302,Carey Valley,Mean CLe exceedance,1,0.107664281538523,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI045,Rathlin Island - Ballycarry,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI063,Slievenacloy,Mean CLe exceedance,1,1.740638371278,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI063,Slievenacloy,Mean CLe exceedance,1,1.740638371278,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI330,Fair Head and Murlough Bay,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI095,Eastern Mournes,Mean CLe exceedance,1,0.179097062262897,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016615,Eastern Mournes,Mean CLe exceedance,1,0.179096403427476,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI355,Glenariff Glen,Mean CLe exceedance,1,0.0909072769953052,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI026,Cleggan Valley,Mean CLe exceedance,1,0.699171107491857,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI025,Glenariff,Mean CLe exceedance,1,0.169575636531365,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI024,Glen Burn,Mean CLe exceedance,1,1.16227614014252,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI408,Cranny Falls,Mean CLe exceedance,1,0.51312,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI023,Glenarm Woods,Mean CLe exceedance,1,0.654189525282313,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI095,Eastern Mournes,Mean CLe exceedance,1,0.179097062262897,1,Low,2017 Ammonia Concentrations
+SAC,UK0016615,Eastern Mournes,Mean CLe exceedance,1,0.179096403427476,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI355,Glenariff Glen,Mean CLe exceedance,1,0.090907276995305,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI026,Cleggan Valley,Mean CLe exceedance,1,0.699171107491856,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI025,Glenariff,Mean CLe exceedance,1,0.169575636531365,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI024,Glen Burn,Mean CLe exceedance,1,1.16227614014252,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI408,Cranny Falls,Mean CLe exceedance,1,0.51312,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI023,Glenarm Woods,Mean CLe exceedance,1,0.654189525282313,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI333,Galboly,Mean CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI379,Mournes Coast,Mean CLe exceedance,1,0.477998328206342,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI406,Belvoir,Mean CLe exceedance,1,0.924021748305905,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI162,Straidkilly Wood,Mean CLe exceedance,1,0.617241947803946,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016612,Murlough,Mean CLe exceedance,1,0.200064649618499,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI089,Murlough,Mean CLe exceedance,1,0.691159382185169,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI150,Ballybannan,Mean CLe exceedance,1,1.28606,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI104,Outer Belfast Lough,Mean CLe exceedance,1,0.845901934295364,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI391,Knock Dhu Sallagh Braes,Mean CLe exceedance,1,0.519041265375556,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI323,Little Deer Park,Mean CLe exceedance,1,0.431138926348548,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI344,South Woodburn,Mean CLe exceedance,1,0.742211276129032,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI343,North Woodburn Reservoir,Mean CLe exceedance,1,0.908404153846154,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI022,North Woodburn Glen,Mean CLe exceedance,1,0.809785350318471,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI164,Craigantlet Woods,Mean CLe exceedance,1,1.25501186567164,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI399,Ballygalley Head,Mean CLe exceedance,1,0.31397,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI155,Corbally,Mean CLe exceedance,1,1.79084631991636,1,Low,2017 Ammonia Concentrations
-SAC,UK0030180,Lecale Fens,Mean CLe exceedance,1,1.41980970171149,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI153,Ballykilbeg,Mean CLe exceedance,1,1.24074017605634,1,Low,2017 Ammonia Concentrations
-SAC,UK0030319,Ballykilbeg,Mean CLe exceedance,1,1.24074017605634,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI358,Tyrella and Minerstown,Mean CLe exceedance,1,0.697813778994964,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI211,Hollymount,Mean CLe exceedance,1,0.732528468161794,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030169,Hollymount,Mean CLe exceedance,1,0.732529679551372,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI149,Aughnadarragh Lough,Mean CLe exceedance,1,1.45129887675507,1,Low,2017 Ammonia Concentrations
-SAC,UK0030318,Aughnadarragh Lough,Mean CLe exceedance,1,1.45129887675507,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI106,Larne Lough,Mean CLe exceedance,1,0.770549719498636,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI345,Copeland Reservoir,Mean CLe exceedance,1,0.603891478599222,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI241,Newlands,Mean CLe exceedance,1,1.31705236641221,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI170,Quoile,Mean CLe exceedance,1,0.741169630861323,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI148,Turmennan,Mean CLe exceedance,1,2.47687243425489,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030291,Turmennan,Mean CLe exceedance,1,2.47677570754717,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI006,Strangford Lough Part 1,Mean CLe exceedance,1,0.420347153249911,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016618,Strangford Lough,Mean CLe exceedance,1,0.439920706382592,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI034,Strangford Lough Part 3,Mean CLe exceedance,1,0.521755478245675,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI105,Outer Ards,Mean CLe exceedance,1,0.812068317190958,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI386,St. John's Point,Mean CLe exceedance,1,0.106231214972815,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI032,Strangford Lough Part 2,Mean CLe exceedance,1,0.662827162367223,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI132,Heron and Carrigullian Loughs,Mean CLe exceedance,1,0.889128678469019,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI151,Ballycam,Mean CLe exceedance,1,0.21828,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI225,Killough Bay and Strand Lough,Mean CLe exceedance,1,0.559612508960574,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI193,Castletown,Mean CLe exceedance,1,0.736464545454545,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI152,Ballynagross Lower,Mean CLe exceedance,1,1.05639,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI159,Loughmoney,Mean CLe exceedance,1,0.86739,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI273,Sheepland Coast,Mean CLe exceedance,1,0.460104306408053,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI039,Loughkeelan,Mean CLe exceedance,1,1.48012205479452,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI156,Carrowcarlin,Mean CLe exceedance,1,0.887781992337165,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI321,Tullyratty,Mean CLe exceedance,1,0.900092516556291,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI336,Blaeberry Island Bog,Mean CLe exceedance,1,1.53837455804481,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI086,Killard,Mean CLe exceedance,1,0.468448424864212,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI354,Lough Cowey,Mean CLe exceedance,1,0.718260335436732,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI087,Ballyquintin Point,Mean CLe exceedance,1,0.276110064935065,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI379,Mournes Coast,Mean CLe exceedance,1,0.477998328206341,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI406,Belvoir,Mean CLe exceedance,1,0.924021748305905,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI162,Straidkilly Wood,Mean CLe exceedance,1,0.617241947803947,1,Low,2017 Ammonia Concentrations
+SAC,UK0016612,Murlough,Mean CLe exceedance,1,0.200064649618499,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI089,Murlough,Mean CLe exceedance,1,0.691159382185169,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI150,Ballybannan,Mean CLe exceedance,1,1.28606,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI104,Outer Belfast Lough,Mean CLe exceedance,1,0.845901934295364,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI391,Knock Dhu Sallagh Braes,Mean CLe exceedance,1,0.519041265375556,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI323,Little Deer Park,Mean CLe exceedance,1,0.431138926348548,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI344,South Woodburn,Mean CLe exceedance,1,0.742211276129032,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI343,North Woodburn Reservoir,Mean CLe exceedance,1,0.908404153846154,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI022,North Woodburn Glen,Mean CLe exceedance,1,0.809785350318471,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI164,Craigantlet Woods,Mean CLe exceedance,1,1.25501186567164,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI399,Ballygalley Head,Mean CLe exceedance,1,0.31397,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI155,Corbally,Mean CLe exceedance,1,1.79084631991636,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030180,Lecale Fens,Mean CLe exceedance,1,1.41980970171149,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI153,Ballykilbeg,Mean CLe exceedance,1,1.24074017605634,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030319,Ballykilbeg,Mean CLe exceedance,1,1.24074017605634,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI358,Tyrella and Minerstown,Mean CLe exceedance,1,0.697813778994964,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI211,Hollymount,Mean CLe exceedance,1,0.732528468161794,1,Low,2017 Ammonia Concentrations
+SAC,UK0030169,Hollymount,Mean CLe exceedance,1,0.732529679551372,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI149,Aughnadarragh Lough,Mean CLe exceedance,1,1.45129887675507,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030318,Aughnadarragh Lough,Mean CLe exceedance,1,1.45129887675507,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI106,Larne Lough,Mean CLe exceedance,1,0.770549719498635,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI345,Copeland Reservoir,Mean CLe exceedance,1,0.603891478599222,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI241,Newlands,Mean CLe exceedance,1,1.31705236641221,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI170,Quoile,Mean CLe exceedance,1,0.741169630861324,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI148,Turmennan,Mean CLe exceedance,1,2.47687243425489,3,High,2017 Ammonia Concentrations
+SAC,UK0030291,Turmennan,Mean CLe exceedance,1,2.47677570754717,3,High,2017 Ammonia Concentrations
+SSSI,ASSI006,Strangford Lough Part 1,Mean CLe exceedance,1,0.420347153249911,1,Low,2017 Ammonia Concentrations
+SAC,UK0016618,Strangford Lough,Mean CLe exceedance,1,0.439920706382591,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI034,Strangford Lough Part 3,Mean CLe exceedance,1,0.521755478245675,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI105,Outer Ards,Mean CLe exceedance,1,0.812068317190958,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI386,St. John's Point,Mean CLe exceedance,1,0.106231214972814,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI032,Strangford Lough Part 2,Mean CLe exceedance,1,0.662827162367223,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI132,Heron and Carrigullian Loughs,Mean CLe exceedance,1,0.889128678469019,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI151,Ballycam,Mean CLe exceedance,1,0.21828,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI225,Killough Bay and Strand Lough,Mean CLe exceedance,1,0.559612508960573,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI193,Castletown,Mean CLe exceedance,1,0.736464545454545,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI152,Ballynagross Lower,Mean CLe exceedance,1,1.05639,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI159,Loughmoney,Mean CLe exceedance,1,0.86739,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI273,Sheepland Coast,Mean CLe exceedance,1,0.460104306408053,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI039,Loughkeelan,Mean CLe exceedance,1,1.48012205479452,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI156,Carrowcarlin,Mean CLe exceedance,1,0.887781992337164,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI321,Tullyratty,Mean CLe exceedance,1,0.900092516556291,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI336,Blaeberry Island Bog,Mean CLe exceedance,1,1.53837455804481,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI086,Killard,Mean CLe exceedance,1,0.468448424864212,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI354,Lough Cowey,Mean CLe exceedance,1,0.718260335436732,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI087,Ballyquintin Point,Mean CLe exceedance,1,0.276110064935065,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI140,Lough Melvin,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030047,Lough Melvin,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI017,Garvros,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI018,Moneendogue,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI020,Drumlisaleen,Maximum CLe exceedance,1,0.16844,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI403,Rushy Hill,Maximum CLe exceedance,1,0.09809,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI297,Knocknashangan,Maximum CLe exceedance,1,0.0458699999999999,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI299,Ross,Maximum CLe exceedance,1,0.0793999999999999,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI400,Frevagh,Maximum CLe exceedance,1,0.0793999999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI020,Drumlisaleen,Maximum CLe exceedance,1,0.16844,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI403,Rushy Hill,Maximum CLe exceedance,1,0.09809,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI297,Knocknashangan,Maximum CLe exceedance,1,0.0458699999999999,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI299,Ross,Maximum CLe exceedance,1,0.0793999999999999,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI400,Frevagh,Maximum CLe exceedance,1,0.0793999999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI332,Tower More,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI353,Lough Anierin,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI190,Tullysranadeega,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
@@ -313,272 +313,272 @@ SSSI,ASSI359,Lough Naman Bog and Lake,Maximum CLe exceedance,1,0,0,No exceedance
 SSSI,ASSI168,Glennasheevar,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI191,The Cliffs of Magho,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI380,Lough Formal,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI201,West Fermanagh Scarplands,Maximum CLe exceedance,1,0.20813,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030300,West Fermanagh Scarplands,Maximum CLe exceedance,1,0.20813,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI201,West Fermanagh Scarplands,Maximum CLe exceedance,1,0.20813,1,Low,2017 Ammonia Concentrations
+SAC,UK0030300,West Fermanagh Scarplands,Maximum CLe exceedance,1,0.20813,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI393,Lough Alaban,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI111,Largalinny,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030045,Largalinny,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI375,Marlbank,Maximum CLe exceedance,1,0.54266,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI069,Cuilcagh Mountain,Maximum CLe exceedance,1,0.17992,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016603,Cuilcagh Mountain,Maximum CLe exceedance,1,0.17992,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI207,Kilnameel,Maximum CLe exceedance,1,0.26875,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI013,Monawilkin,Maximum CLe exceedance,1,0.47441,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016619,Monawilkin,Maximum CLe exceedance,1,0.47441,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI375,Marlbank,Maximum CLe exceedance,1,0.54266,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI069,Cuilcagh Mountain,Maximum CLe exceedance,1,0.17992,1,Low,2017 Ammonia Concentrations
+SAC,UK0016603,Cuilcagh Mountain,Maximum CLe exceedance,1,0.17992,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI207,Kilnameel,Maximum CLe exceedance,1,0.26875,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI013,Monawilkin,Maximum CLe exceedance,1,0.47441,1,Low,2017 Ammonia Concentrations
+SAC,UK0016619,Monawilkin,Maximum CLe exceedance,1,0.47441,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI357,Killeter Forest and Bogs and Lakes,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI324,Keadew,Maximum CLe exceedance,1,0.21954,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI298,Blackslee,Maximum CLe exceedance,1,0.3055,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI322,Drumbegger,Maximum CLe exceedance,1,0.20813,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI016,Beagh Big,Maximum CLe exceedance,1,0.72256,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI324,Keadew,Maximum CLe exceedance,1,0.21954,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI298,Blackslee,Maximum CLe exceedance,1,0.3055,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI322,Drumbegger,Maximum CLe exceedance,1,0.20813,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI016,Beagh Big,Maximum CLe exceedance,1,0.72256,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI263,Cruninish Island,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI134,Essan Burn and Mullyfamore,Maximum CLe exceedance,1,0.09795,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI134,Essan Burn and Mullyfamore,Maximum CLe exceedance,1,0.09795,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI378,Croagh Bog,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI376,Florence Court,Maximum CLe exceedance,1,0.48505,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI376,Florence Court,Maximum CLe exceedance,1,0.48505,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI264,Hare Island,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI070,Tattenamona Bog,Maximum CLe exceedance,1,0.78171,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI269,Devenish Island,Maximum CLe exceedance,1,0.51032,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016614,Upper Lough Erne,Maximum CLe exceedance,1,2.2767,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI300,Scraghy,Maximum CLe exceedance,1,0.0323599999999999,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI093,Upper Lough Erne - Belleisle,Maximum CLe exceedance,1,0.981,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI166,Knockninny Hill,Maximum CLe exceedance,1,1.03833,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI048,Corraslough Point,Maximum CLe exceedance,1,0.46468,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI094,Upper Lough Erne - Trannish,Maximum CLe exceedance,1,2.2767,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI350,Castlecoole,Maximum CLe exceedance,1,1.12331,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI070,Tattenamona Bog,Maximum CLe exceedance,1,0.78171,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI269,Devenish Island,Maximum CLe exceedance,1,0.51032,1,Low,2017 Ammonia Concentrations
+SAC,UK0016614,Upper Lough Erne,Maximum CLe exceedance,1,2.2767,3,High,2017 Ammonia Concentrations
+SSSI,ASSI300,Scraghy,Maximum CLe exceedance,1,0.0323599999999999,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI093,Upper Lough Erne - Belleisle,Maximum CLe exceedance,1,0.981,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI166,Knockninny Hill,Maximum CLe exceedance,1,1.03833,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI048,Corraslough Point,Maximum CLe exceedance,1,0.46468,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI094,Upper Lough Erne - Trannish,Maximum CLe exceedance,1,2.2767,3,High,2017 Ammonia Concentrations
+SSSI,ASSI350,Castlecoole,Maximum CLe exceedance,1,1.12331,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI015,Moninea Bog,Maximum CLe exceedance,1,6.21532,4,Very High,2017 Ammonia Concentrations
 SAC,UK0030212,Moninea Bog,Maximum CLe exceedance,1,6.21532,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI005,Moneygal Bog,Maximum CLe exceedance,1,1.36943,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI209,Moneygal Bog Part II,Maximum CLe exceedance,1,1.36943,1,Low,2017 Ammonia Concentrations
-SAC,UK0030211,Moneygal Bog,Maximum CLe exceedance,1,1.36943,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI071,Upper Lough Erne - Crom,Maximum CLe exceedance,1,1.09832,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI054,Inishroosk,Maximum CLe exceedance,1,1.00543,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI276,Sloughan and Willmount Glens,Maximum CLe exceedance,1,0.28023,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI401,Drumowen,Maximum CLe exceedance,1,0.11545,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI294,Lough Corr,Maximum CLe exceedance,1,0.29591,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI364,Tempo River,Maximum CLe exceedance,1,1.90563,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI274,Dunaree Hill,Maximum CLe exceedance,1,0.33728,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI008,Fairy Water Bogs,Maximum CLe exceedance,1,1.52595,1,Low,2017 Ammonia Concentrations
-SAC,UK0016611,Fairy Water Bogs,Maximum CLe exceedance,1,1.52595,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI275,Kirlish,Maximum CLe exceedance,1,1.14319,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI090,Upper Lough Erne - Galloon,Maximum CLe exceedance,1,1.76038,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI349,Baronscourt,Maximum CLe exceedance,1,0.95923,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI058,Strabane Glen,Maximum CLe exceedance,1,2.32941,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI128,McKean's Moss,Maximum CLe exceedance,1,1.73301,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI165,McKean's Moss Part II,Maximum CLe exceedance,1,1.73301,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI129,Tonnagh Beg Bog,Maximum CLe exceedance,1,2.22742,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030325,Tonnagh Beg Bog,Maximum CLe exceedance,1,2.22742,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI124,Cranny Bogs,Maximum CLe exceedance,1,3.13966,3,High,2017 Ammonia Concentrations
-SAC,UK0030321,Cranny Bogs,Maximum CLe exceedance,1,3.13966,3,High,2017 Ammonia Concentrations
-SSSI,ASSI110,Finn Floods,Maximum CLe exceedance,1,2.36854,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI268,Round Lough and Lough Fadda,Maximum CLe exceedance,1,2.15952,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI130,Tully Bog,Maximum CLe exceedance,1,2.06719,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030326,Tully Bog,Maximum CLe exceedance,1,2.06719,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI196,Grange Wood,Maximum CLe exceedance,1,1.45042,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI213,Owenkillew River,Maximum CLe exceedance,1,1.5725,1,Low,2017 Ammonia Concentrations
-SAC,UK0030233,Owenkillew River,Maximum CLe exceedance,1,1.5725,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI014,Knockballymore Lough,Maximum CLe exceedance,1,1.97129,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI005,Moneygal Bog,Maximum CLe exceedance,1,1.36943,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI209,Moneygal Bog Part II,Maximum CLe exceedance,1,1.36943,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030211,Moneygal Bog,Maximum CLe exceedance,1,1.36943,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI071,Upper Lough Erne - Crom,Maximum CLe exceedance,1,1.09832,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI054,Inishroosk,Maximum CLe exceedance,1,1.00543,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI276,Sloughan and Willmount Glens,Maximum CLe exceedance,1,0.28023,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI401,Drumowen,Maximum CLe exceedance,1,0.11545,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI294,Lough Corr,Maximum CLe exceedance,1,0.29591,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI364,Tempo River,Maximum CLe exceedance,1,1.90563,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI274,Dunaree Hill,Maximum CLe exceedance,1,0.33728,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI008,Fairy Water Bogs,Maximum CLe exceedance,1,1.52595,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016611,Fairy Water Bogs,Maximum CLe exceedance,1,1.52595,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI275,Kirlish,Maximum CLe exceedance,1,1.14319,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI090,Upper Lough Erne - Galloon,Maximum CLe exceedance,1,1.76038,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI349,Baronscourt,Maximum CLe exceedance,1,0.95923,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI058,Strabane Glen,Maximum CLe exceedance,1,2.32941,3,High,2017 Ammonia Concentrations
+SSSI,ASSI128,McKean's Moss,Maximum CLe exceedance,1,1.73301,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI165,McKean's Moss Part II,Maximum CLe exceedance,1,1.73301,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI129,Tonnagh Beg Bog,Maximum CLe exceedance,1,2.22742,3,High,2017 Ammonia Concentrations
+SAC,UK0030325,Tonnagh Beg Bog,Maximum CLe exceedance,1,2.22742,3,High,2017 Ammonia Concentrations
+SSSI,ASSI124,Cranny Bogs,Maximum CLe exceedance,1,3.13966,4,Very High,2017 Ammonia Concentrations
+SAC,UK0030321,Cranny Bogs,Maximum CLe exceedance,1,3.13966,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI110,Finn Floods,Maximum CLe exceedance,1,2.36854,3,High,2017 Ammonia Concentrations
+SSSI,ASSI268,Round Lough and Lough Fadda,Maximum CLe exceedance,1,2.15952,3,High,2017 Ammonia Concentrations
+SSSI,ASSI130,Tully Bog,Maximum CLe exceedance,1,2.06719,3,High,2017 Ammonia Concentrations
+SAC,UK0030326,Tully Bog,Maximum CLe exceedance,1,2.06719,3,High,2017 Ammonia Concentrations
+SSSI,ASSI196,Grange Wood,Maximum CLe exceedance,1,1.45042,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI213,Owenkillew River,Maximum CLe exceedance,1,1.5725,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030233,Owenkillew River,Maximum CLe exceedance,1,1.5725,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI014,Knockballymore Lough,Maximum CLe exceedance,1,1.97129,2,Moderate,2017 Ammonia Concentrations
 SAC,UK0016621,Magheraveely Marl Loughs,Maximum CLe exceedance,1,4.61939,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI081,Burdautien Lough,Maximum CLe exceedance,1,3.29135,3,High,2017 Ammonia Concentrations
-SSSI,ASSI078,Kilroosky Lough,Maximum CLe exceedance,1,3.29135,3,High,2017 Ammonia Concentrations
-SSSI,ASSI080,Summerhill Lough,Maximum CLe exceedance,1,2.0394,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI223,Cullentra Lough,Maximum CLe exceedance,1,2.21342,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI197,Corbylin Wood,Maximum CLe exceedance,1,1.39988,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI062,Owenkillew and Glenelly Woods,Maximum CLe exceedance,1,1.2617,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI077,Slieve Beagh,Maximum CLe exceedance,1,1.10497,1,Low,2017 Ammonia Concentrations
-SAC,UK0016622,Slieve Beagh,Maximum CLe exceedance,1,1.10497,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI195,Silverbrook Wood,Maximum CLe exceedance,1,1.21711,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI081,Burdautien Lough,Maximum CLe exceedance,1,3.29135,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI078,Kilroosky Lough,Maximum CLe exceedance,1,3.29135,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI080,Summerhill Lough,Maximum CLe exceedance,1,2.0394,3,High,2017 Ammonia Concentrations
+SSSI,ASSI223,Cullentra Lough,Maximum CLe exceedance,1,2.21342,3,High,2017 Ammonia Concentrations
+SSSI,ASSI197,Corbylin Wood,Maximum CLe exceedance,1,1.39988,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI062,Owenkillew and Glenelly Woods,Maximum CLe exceedance,1,1.2617,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI077,Slieve Beagh,Maximum CLe exceedance,1,1.10497,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016622,Slieve Beagh,Maximum CLe exceedance,1,1.10497,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI195,Silverbrook Wood,Maximum CLe exceedance,1,1.21711,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI121,Annachullion Lough,Maximum CLe exceedance,1,4.24391,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI309,Mullaghcarn,Maximum CLe exceedance,1,1.02384,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI296,River Faughan and Tributaries,Maximum CLe exceedance,1,1.42361,1,Low,2017 Ammonia Concentrations
-SAC,UK0030361,River Faughan and Tributaries,Maximum CLe exceedance,1,1.42361,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI309,Mullaghcarn,Maximum CLe exceedance,1,1.02384,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI296,River Faughan and Tributaries,Maximum CLe exceedance,1,1.42361,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030361,River Faughan and Tributaries,Maximum CLe exceedance,1,1.42361,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI122,Drumacrittin Lough,Maximum CLe exceedance,1,4.61939,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI392,Cloghcor Lough,Maximum CLe exceedance,1,1.98634,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI308,Annaghagh Bog,Maximum CLe exceedance,1,2.6253,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI227,Bonds Glen,Maximum CLe exceedance,1,0.97183,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI261,Lough McCall,Maximum CLe exceedance,1,1.12975,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI035,Deroran Bog,Maximum CLe exceedance,1,1.4885,1,Low,2017 Ammonia Concentrations
-SAC,UK0030324,Deroran Bog,Maximum CLe exceedance,1,1.4885,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI051,Lough Foyle,Maximum CLe exceedance,1,0.83638,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI061,Ervey Wood,Maximum CLe exceedance,1,0.74622,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI398,Cavan,Maximum CLe exceedance,1,0.95055,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI056,Drumlea and Mullan Woods,Maximum CLe exceedance,1,0.73187,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI060,Ness Wood,Maximum CLe exceedance,1,0.65858,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI262,Lough na blaney bane,Maximum CLe exceedance,1,0.95055,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI237,Derrycloony Lough,Maximum CLe exceedance,1,2.21573,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI397,Roeveagh,Maximum CLe exceedance,1,1.16279,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI224,Fymore Lough,Maximum CLe exceedance,1,2.21573,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI348,Lough Macrory,Maximum CLe exceedance,1,0.96434,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI007,Black Bog,Maximum CLe exceedance,1,0.53356,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016609,Black Bog,Maximum CLe exceedance,1,0.53356,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI057,Glenmore Wood,Maximum CLe exceedance,1,2.48922,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030360,River Roe and Tributaries,Maximum CLe exceedance,1,1.62353,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI392,Cloghcor Lough,Maximum CLe exceedance,1,1.98634,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI308,Annaghagh Bog,Maximum CLe exceedance,1,2.6253,3,High,2017 Ammonia Concentrations
+SSSI,ASSI227,Bonds Glen,Maximum CLe exceedance,1,0.97183,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI261,Lough McCall,Maximum CLe exceedance,1,1.12975,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI035,Deroran Bog,Maximum CLe exceedance,1,1.4885,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030324,Deroran Bog,Maximum CLe exceedance,1,1.4885,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI051,Lough Foyle,Maximum CLe exceedance,1,0.83638,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI061,Ervey Wood,Maximum CLe exceedance,1,0.74622,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI398,Cavan,Maximum CLe exceedance,1,0.95055,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI056,Drumlea and Mullan Woods,Maximum CLe exceedance,1,0.73187,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI060,Ness Wood,Maximum CLe exceedance,1,0.65858,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI262,Lough na blaney bane,Maximum CLe exceedance,1,0.95055,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI237,Derrycloony Lough,Maximum CLe exceedance,1,2.21573,3,High,2017 Ammonia Concentrations
+SSSI,ASSI397,Roeveagh,Maximum CLe exceedance,1,1.16279,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI224,Fymore Lough,Maximum CLe exceedance,1,2.21573,3,High,2017 Ammonia Concentrations
+SSSI,ASSI348,Lough Macrory,Maximum CLe exceedance,1,0.96434,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI007,Black Bog,Maximum CLe exceedance,1,0.53356,1,Low,2017 Ammonia Concentrations
+SAC,UK0016609,Black Bog,Maximum CLe exceedance,1,0.53356,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI057,Glenmore Wood,Maximum CLe exceedance,1,2.48922,3,High,2017 Ammonia Concentrations
+SAC,UK0030360,River Roe and Tributaries,Maximum CLe exceedance,1,1.62353,2,Moderate,2017 Ammonia Concentrations
 SAC,UK0030296,Upper Ballinderry River,Maximum CLe exceedance,1,5.37014,4,Very High,2017 Ammonia Concentrations
 SSSI,ASSI407,Lough Lark,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI059,Altmover Glen,Maximum CLe exceedance,1,1.22019,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI239,Black Lough (Tyrone),Maximum CLe exceedance,1,2.58645,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI064,Banagher Glen,Maximum CLe exceedance,1,0.74209,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030083,Banagher Glen,Maximum CLe exceedance,1,0.74209,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI068,Magilligan,Maximum CLe exceedance,1,0.13736,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016613,Magilligan,Maximum CLe exceedance,1,0.13736,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI059,Altmover Glen,Maximum CLe exceedance,1,1.22019,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI239,Black Lough (Tyrone),Maximum CLe exceedance,1,2.58645,3,High,2017 Ammonia Concentrations
+SSSI,ASSI064,Banagher Glen,Maximum CLe exceedance,1,0.74209,1,Low,2017 Ammonia Concentrations
+SAC,UK0030083,Banagher Glen,Maximum CLe exceedance,1,0.74209,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI068,Magilligan,Maximum CLe exceedance,1,0.13736,1,Low,2017 Ammonia Concentrations
+SAC,UK0016613,Magilligan,Maximum CLe exceedance,1,0.13736,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI146,Tullybrick Lough,Maximum CLe exceedance,1,6.77511,4,Very High,2017 Ammonia Concentrations
 SSSI,ASSI342,Caledon and Tynan,Maximum CLe exceedance,1,44.89256,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI055,Crockaghole Wood,Maximum CLe exceedance,1,0.36948,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Maximum CLe exceedance,1,0.31243,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI228,Aghanloo Wood,Maximum CLe exceedance,1,0.50164,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI055,Crockaghole Wood,Maximum CLe exceedance,1,0.36948,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Maximum CLe exceedance,1,0.31243,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI228,Aghanloo Wood,Maximum CLe exceedance,1,0.50164,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI212,Binevenagh,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030089,Binevenagh,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI031,Kiltubbrid Loughs,Maximum CLe exceedance,1,5.07075,4,Very High,2017 Ammonia Concentrations
-SAC,UK0016608,Teal Lough,Maximum CLe exceedance,1,0.21835,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI088,Teal Lough Part II,Maximum CLe exceedance,1,0.21835,0,No exceedance,2017 Ammonia Concentrations
+SAC,UK0016608,Teal Lough,Maximum CLe exceedance,1,0.21835,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI088,Teal Lough Part II,Maximum CLe exceedance,1,0.21835,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI307,Knocknacloy,Maximum CLe exceedance,1,4.25189,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI266,Ballyrisk More,Maximum CLe exceedance,1,0.71262,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI182,Drumcarn,Maximum CLe exceedance,1,2.74927,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI183,Crossbane Lough,Maximum CLe exceedance,1,2.6988,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI167,Carn/Glenshane Pass,Maximum CLe exceedance,1,0.40028,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030110,Carn  Glenshane Pass,Maximum CLe exceedance,1,0.40028,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI371,Gortcorbies,Maximum CLe exceedance,1,0.35863,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI266,Ballyrisk More,Maximum CLe exceedance,1,0.71262,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI182,Drumcarn,Maximum CLe exceedance,1,2.74927,3,High,2017 Ammonia Concentrations
+SSSI,ASSI183,Crossbane Lough,Maximum CLe exceedance,1,2.6988,3,High,2017 Ammonia Concentrations
+SSSI,ASSI167,Carn/Glenshane Pass,Maximum CLe exceedance,1,0.40028,1,Low,2017 Ammonia Concentrations
+SAC,UK0030110,Carn  Glenshane Pass,Maximum CLe exceedance,1,0.40028,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI371,Gortcorbies,Maximum CLe exceedance,1,0.35863,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI171,Altikeeragh,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI179,Straghans Lough,Maximum CLe exceedance,1,2.62453,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI257,Ballymacallion,Maximum CLe exceedance,1,0.49583,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI259,Castle River Valley,Maximum CLe exceedance,1,0.86634,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI258,Smulgedon,Maximum CLe exceedance,1,0.41505,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI267,Coolnasillagh,Maximum CLe exceedance,1,0.10432,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI208,Bann Estuary,Maximum CLe exceedance,1,0.91338,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030084,Bann Estuary,Maximum CLe exceedance,1,0.91338,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI410,Knockadoo Wood,Maximum CLe exceedance,1,3.01884,3,High,2017 Ammonia Concentrations
-SSSI,ASSI216,Tullyard,Maximum CLe exceedance,1,2.67808,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI194,Ballyknock,Maximum CLe exceedance,1,1.36257,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI205,Drumlougher Lough,Maximum CLe exceedance,1,2.31975,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI256,Errigal Glen,Maximum CLe exceedance,1,0.62834,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI240,Drumcrow,Maximum CLe exceedance,1,2.6148,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI010,Ballynahone Bog,Maximum CLe exceedance,1,1.58153,1,Low,2017 Ammonia Concentrations
-SAC,UK0016599,Ballynahone Bog,Maximum CLe exceedance,1,1.58153,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI038,Annacramph Meadows,Maximum CLe exceedance,1,3.13483,3,High,2017 Ammonia Concentrations
-SSSI,ASSI415,Tamnyrankin,Maximum CLe exceedance,1,0.89665,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI210,Peatlands Park,Maximum CLe exceedance,1,2.05557,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030236,Peatlands Park,Maximum CLe exceedance,1,2.05557,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI074,Curran Bog,Maximum CLe exceedance,1,1.996,1,Low,2017 Ammonia Concentrations
-SAC,UK0030322,Curran Bog,Maximum CLe exceedance,1,1.996,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI204,Lurgan Lough,Maximum CLe exceedance,1,2.27586,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI030,Lough Neagh,Maximum CLe exceedance,1,3.51374,3,High,2017 Ammonia Concentrations
-SSSI,ASSI206,Loughaveely,Maximum CLe exceedance,1,2.12326,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI189,Cashel Loughs,Maximum CLe exceedance,1,1.64271,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI180,Moyrourkan Lough,Maximum CLe exceedance,1,2.80814,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI125,Dead Island Bog,Maximum CLe exceedance,1,1.62787,1,Low,2017 Ammonia Concentrations
-SAC,UK0030323,Dead Island Bog,Maximum CLe exceedance,1,1.62787,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI131,Wolf Island Bog,Maximum CLe exceedance,1,1.67015,1,Low,2017 Ammonia Concentrations
-SAC,UK0030303,Wolf Island Bog,Maximum CLe exceedance,1,1.67015,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI214,Levallymore,Maximum CLe exceedance,1,1.94616,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI222,Selshion,Maximum CLe exceedance,1,2.12697,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI305,Moneystaghan Bog,Maximum CLe exceedance,1,1.5669,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI215,Carrickastickan,Maximum CLe exceedance,1,1.56452,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI198,Slieve Gullion,Maximum CLe exceedance,1,1.46162,1,Low,2017 Ammonia Concentrations
-SAC,UK0030277,Slieve Gullion,Maximum CLe exceedance,1,1.46162,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI027,Lough Beg,Maximum CLe exceedance,1,2.09463,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI127,Garry Bog Part II,Maximum CLe exceedance,1,1.27339,1,Low,2017 Ammonia Concentrations
-SAC,UK0016610,Garry Bog,Maximum CLe exceedance,1,1.27339,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI004,Garry Bog,Maximum CLe exceedance,1,1.18904,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI339,Brackagh Bog,Maximum CLe exceedance,1,2.35489,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI295,Lough Gullion,Maximum CLe exceedance,1,1.77508,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI202,Giant's Causeway and Dunseverick,Maximum CLe exceedance,1,1.10301,1,Low,2017 Ammonia Concentrations
-SAC,UK0030224,North Antrim Coast,Maximum CLe exceedance,1,1.10791,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI221,Derryvore,Maximum CLe exceedance,1,2.24828,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI372,Craigs,Maximum CLe exceedance,1,1.23209,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI409,Clermont & Anglesey Mountain,Maximum CLe exceedance,1,1.12905,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI238,Fathom Upper,Maximum CLe exceedance,1,1.29019,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI103,Carlingford Lough,Maximum CLe exceedance,1,2.06656,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI260,Ballymacaldrack,Maximum CLe exceedance,1,1.08537,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI123,Caldanagh Bog,Maximum CLe exceedance,1,1.69395,1,Low,2017 Ammonia Concentrations
-SAC,UK0030199,Main Valley Bogs,Maximum CLe exceedance,1,3.61328,3,High,2017 Ammonia Concentrations
-SSSI,ASSI390,Prolusk,Maximum CLe exceedance,1,1.45091,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI158,Greenan Lough,Maximum CLe exceedance,1,1.87833,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI079,Derryleckagh,Maximum CLe exceedance,1,1.96989,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI160,Greenan,Maximum CLe exceedance,1,1.87833,1,Low,2017 Ammonia Concentrations
-SAC,UK0016620,Derryleckagh,Maximum CLe exceedance,1,1.96989,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI009,Dunloy Bog,Maximum CLe exceedance,1,2.03352,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI107,White Park Bay,Maximum CLe exceedance,1,1.10791,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI157,Castle Enigan,Maximum CLe exceedance,1,2.36525,2,Moderate,2017 Ammonia Concentrations
-SAC,UK0030214,Montiaghs Moss,Maximum CLe exceedance,1,1.63634,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI377,Shane's Castle,Maximum CLe exceedance,1,2.04535,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI126,Frosses Bog,Maximum CLe exceedance,1,3.61328,3,High,2017 Ammonia Concentrations
-SSSI,ASSI217,Ballynanaghten,Maximum CLe exceedance,1,2.24744,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI178,Rostrevor Wood,Maximum CLe exceedance,1,0.295,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030268,Rostrevor Wood,Maximum CLe exceedance,1,0.295,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI303,Slieveanorra and Croaghan,Maximum CLe exceedance,1,1.00445,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI163,Tow River Wood,Maximum CLe exceedance,1,0.99759,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI179,Straghans Lough,Maximum CLe exceedance,1,2.62453,3,High,2017 Ammonia Concentrations
+SSSI,ASSI257,Ballymacallion,Maximum CLe exceedance,1,0.49583,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI259,Castle River Valley,Maximum CLe exceedance,1,0.86634,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI258,Smulgedon,Maximum CLe exceedance,1,0.41505,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI267,Coolnasillagh,Maximum CLe exceedance,1,0.10432,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI208,Bann Estuary,Maximum CLe exceedance,1,0.91338,1,Low,2017 Ammonia Concentrations
+SAC,UK0030084,Bann Estuary,Maximum CLe exceedance,1,0.91338,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI410,Knockadoo Wood,Maximum CLe exceedance,1,3.01884,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI216,Tullyard,Maximum CLe exceedance,1,2.67808,3,High,2017 Ammonia Concentrations
+SSSI,ASSI194,Ballyknock,Maximum CLe exceedance,1,1.36257,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI205,Drumlougher Lough,Maximum CLe exceedance,1,2.31975,3,High,2017 Ammonia Concentrations
+SSSI,ASSI256,Errigal Glen,Maximum CLe exceedance,1,0.62834,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI240,Drumcrow,Maximum CLe exceedance,1,2.6148,3,High,2017 Ammonia Concentrations
+SSSI,ASSI010,Ballynahone Bog,Maximum CLe exceedance,1,1.58153,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016599,Ballynahone Bog,Maximum CLe exceedance,1,1.58153,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI038,Annacramph Meadows,Maximum CLe exceedance,1,3.13483,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI415,Tamnyrankin,Maximum CLe exceedance,1,0.89665,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI210,Peatlands Park,Maximum CLe exceedance,1,2.05557,3,High,2017 Ammonia Concentrations
+SAC,UK0030236,Peatlands Park,Maximum CLe exceedance,1,2.05557,3,High,2017 Ammonia Concentrations
+SSSI,ASSI074,Curran Bog,Maximum CLe exceedance,1,1.996,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030322,Curran Bog,Maximum CLe exceedance,1,1.996,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI204,Lurgan Lough,Maximum CLe exceedance,1,2.27586,3,High,2017 Ammonia Concentrations
+SSSI,ASSI030,Lough Neagh,Maximum CLe exceedance,1,3.51374,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI206,Loughaveely,Maximum CLe exceedance,1,2.12326,3,High,2017 Ammonia Concentrations
+SSSI,ASSI189,Cashel Loughs,Maximum CLe exceedance,1,1.64271,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI180,Moyrourkan Lough,Maximum CLe exceedance,1,2.80814,3,High,2017 Ammonia Concentrations
+SSSI,ASSI125,Dead Island Bog,Maximum CLe exceedance,1,1.62787,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030323,Dead Island Bog,Maximum CLe exceedance,1,1.62787,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI131,Wolf Island Bog,Maximum CLe exceedance,1,1.67015,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030303,Wolf Island Bog,Maximum CLe exceedance,1,1.67015,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI214,Levallymore,Maximum CLe exceedance,1,1.94616,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI222,Selshion,Maximum CLe exceedance,1,2.12697,3,High,2017 Ammonia Concentrations
+SSSI,ASSI305,Moneystaghan Bog,Maximum CLe exceedance,1,1.5669,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI215,Carrickastickan,Maximum CLe exceedance,1,1.56452,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI198,Slieve Gullion,Maximum CLe exceedance,1,1.46162,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030277,Slieve Gullion,Maximum CLe exceedance,1,1.46162,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI027,Lough Beg,Maximum CLe exceedance,1,2.09463,3,High,2017 Ammonia Concentrations
+SSSI,ASSI127,Garry Bog Part II,Maximum CLe exceedance,1,1.27339,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016610,Garry Bog,Maximum CLe exceedance,1,1.27339,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI004,Garry Bog,Maximum CLe exceedance,1,1.18904,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI339,Brackagh Bog,Maximum CLe exceedance,1,2.35489,3,High,2017 Ammonia Concentrations
+SSSI,ASSI295,Lough Gullion,Maximum CLe exceedance,1,1.77508,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI202,Giant's Causeway and Dunseverick,Maximum CLe exceedance,1,1.10301,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030224,North Antrim Coast,Maximum CLe exceedance,1,1.10791,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI221,Derryvore,Maximum CLe exceedance,1,2.24828,3,High,2017 Ammonia Concentrations
+SSSI,ASSI372,Craigs,Maximum CLe exceedance,1,1.23209,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI409,Clermont & Anglesey Mountain,Maximum CLe exceedance,1,1.12905,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI238,Fathom Upper,Maximum CLe exceedance,1,1.29019,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI103,Carlingford Lough,Maximum CLe exceedance,1,2.06656,3,High,2017 Ammonia Concentrations
+SSSI,ASSI260,Ballymacaldrack,Maximum CLe exceedance,1,1.08537,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI123,Caldanagh Bog,Maximum CLe exceedance,1,1.69395,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030199,Main Valley Bogs,Maximum CLe exceedance,1,3.61328,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI390,Prolusk,Maximum CLe exceedance,1,1.45091,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI158,Greenan Lough,Maximum CLe exceedance,1,1.87833,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI079,Derryleckagh,Maximum CLe exceedance,1,1.96989,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI160,Greenan,Maximum CLe exceedance,1,1.87833,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016620,Derryleckagh,Maximum CLe exceedance,1,1.96989,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI009,Dunloy Bog,Maximum CLe exceedance,1,2.03352,3,High,2017 Ammonia Concentrations
+SSSI,ASSI107,White Park Bay,Maximum CLe exceedance,1,1.10791,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI157,Castle Enigan,Maximum CLe exceedance,1,2.36525,3,High,2017 Ammonia Concentrations
+SAC,UK0030214,Montiaghs Moss,Maximum CLe exceedance,1,1.63634,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI377,Shane's Castle,Maximum CLe exceedance,1,2.04535,3,High,2017 Ammonia Concentrations
+SSSI,ASSI126,Frosses Bog,Maximum CLe exceedance,1,3.61328,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI217,Ballynanaghten,Maximum CLe exceedance,1,2.24744,3,High,2017 Ammonia Concentrations
+SSSI,ASSI178,Rostrevor Wood,Maximum CLe exceedance,1,0.295,1,Low,2017 Ammonia Concentrations
+SAC,UK0030268,Rostrevor Wood,Maximum CLe exceedance,1,0.295,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI303,Slieveanorra and Croaghan,Maximum CLe exceedance,1,1.00445,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI163,Tow River Wood,Maximum CLe exceedance,1,0.99759,1,Low,2017 Ammonia Concentrations
 SAC,UK0030055,Rathlin Island,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI033,Rathlin Island - Coast,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI351,Western Mournes and Kilfeaghan Upper,Maximum CLe exceedance,1,1.60239,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI161,Breen Wood,Maximum CLe exceedance,1,0.84807,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030097,Breen Wood,Maximum CLe exceedance,1,0.84807,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI351,Western Mournes and Kilfeaghan Upper,Maximum CLe exceedance,1,1.60239,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI161,Breen Wood,Maximum CLe exceedance,1,0.84807,1,Low,2017 Ammonia Concentrations
+SAC,UK0030097,Breen Wood,Maximum CLe exceedance,1,0.84807,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI356,Rathlin Island - Kebble,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI265,Rathsherry,Maximum CLe exceedance,1,2.46472,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI265,Rathsherry,Maximum CLe exceedance,1,2.46472,3,High,2017 Ammonia Concentrations
 SSSI,ASSI043,Rathlin Island - Ballygill North,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI067,Garron Plateau,Maximum CLe exceedance,1,1.37881,1,Low,2017 Ammonia Concentrations
-SAC,UK0016606,Garron Plateau,Maximum CLe exceedance,1,1.37881,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI037,Lackan Bog,Maximum CLe exceedance,1,2.83348,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI352,White Water River,Maximum CLe exceedance,1,1.65867,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI169,Leathemstown,Maximum CLe exceedance,1,1.42599,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI302,Carey Valley,Maximum CLe exceedance,1,0.48694,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI067,Garron Plateau,Maximum CLe exceedance,1,1.37881,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016606,Garron Plateau,Maximum CLe exceedance,1,1.37881,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI037,Lackan Bog,Maximum CLe exceedance,1,2.83348,3,High,2017 Ammonia Concentrations
+SSSI,ASSI352,White Water River,Maximum CLe exceedance,1,1.65867,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI169,Leathemstown,Maximum CLe exceedance,1,1.42599,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI302,Carey Valley,Maximum CLe exceedance,1,0.48694,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI045,Rathlin Island - Ballycarry,Maximum CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI063,Slievenacloy,Maximum CLe exceedance,1,12.17582,4,Very High,2017 Ammonia Concentrations
-SSSI,ASSI330,Fair Head and Murlough Bay,Maximum CLe exceedance,1,0.30893,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI095,Eastern Mournes,Maximum CLe exceedance,1,1.35249,1,Low,2017 Ammonia Concentrations
-SAC,UK0016615,Eastern Mournes,Maximum CLe exceedance,1,1.35249,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI355,Glenariff Glen,Maximum CLe exceedance,1,0.13015,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI026,Cleggan Valley,Maximum CLe exceedance,1,0.93634,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI025,Glenariff,Maximum CLe exceedance,1,0.6513,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI024,Glen Burn,Maximum CLe exceedance,1,1.21893,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI408,Cranny Falls,Maximum CLe exceedance,1,0.51312,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI023,Glenarm Woods,Maximum CLe exceedance,1,0.98324,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI333,Galboly,Maximum CLe exceedance,1,0.0632299999999999,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI379,Mournes Coast,Maximum CLe exceedance,1,1.18183,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI406,Belvoir,Maximum CLe exceedance,1,1.23244,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI162,Straidkilly Wood,Maximum CLe exceedance,1,0.68567,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016612,Murlough,Maximum CLe exceedance,1,1.64537,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI089,Murlough,Maximum CLe exceedance,1,1.64537,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI150,Ballybannan,Maximum CLe exceedance,1,1.28606,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI104,Outer Belfast Lough,Maximum CLe exceedance,1,3.57905,3,High,2017 Ammonia Concentrations
-SSSI,ASSI391,Knock Dhu Sallagh Braes,Maximum CLe exceedance,1,1.2694,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI323,Little Deer Park,Maximum CLe exceedance,1,0.51753,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI344,South Woodburn,Maximum CLe exceedance,1,0.91324,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI343,North Woodburn Reservoir,Maximum CLe exceedance,1,0.92808,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI022,North Woodburn Glen,Maximum CLe exceedance,1,0.91324,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI164,Craigantlet Woods,Maximum CLe exceedance,1,1.44573,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI399,Ballygalley Head,Maximum CLe exceedance,1,0.31397,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI155,Corbally,Maximum CLe exceedance,1,1.80623,1,Low,2017 Ammonia Concentrations
-SAC,UK0030180,Lecale Fens,Maximum CLe exceedance,1,1.80623,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI153,Ballykilbeg,Maximum CLe exceedance,1,1.76073,1,Low,2017 Ammonia Concentrations
-SAC,UK0030319,Ballykilbeg,Maximum CLe exceedance,1,1.76073,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI358,Tyrella and Minerstown,Maximum CLe exceedance,1,0.93704,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI211,Hollymount,Maximum CLe exceedance,1,1.07263,1,Low,2017 Ammonia Concentrations
-SAC,UK0030169,Hollymount,Maximum CLe exceedance,1,1.07263,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI149,Aughnadarragh Lough,Maximum CLe exceedance,1,1.54233,1,Low,2017 Ammonia Concentrations
-SAC,UK0030318,Aughnadarragh Lough,Maximum CLe exceedance,1,1.54233,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI106,Larne Lough,Maximum CLe exceedance,1,1.2512,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI345,Copeland Reservoir,Maximum CLe exceedance,1,0.91555,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI241,Newlands,Maximum CLe exceedance,1,1.3177,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI170,Quoile,Maximum CLe exceedance,1,1.24196,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI148,Turmennan,Maximum CLe exceedance,1,3.03872,3,High,2017 Ammonia Concentrations
-SAC,UK0030291,Turmennan,Maximum CLe exceedance,1,3.03872,3,High,2017 Ammonia Concentrations
-SSSI,ASSI006,Strangford Lough Part 1,Maximum CLe exceedance,1,1.18855,1,Low,2017 Ammonia Concentrations
-SAC,UK0016618,Strangford Lough,Maximum CLe exceedance,1,1.23685,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI034,Strangford Lough Part 3,Maximum CLe exceedance,1,1.23685,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI105,Outer Ards,Maximum CLe exceedance,1,2.14426,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI386,St. John's Point,Maximum CLe exceedance,1,0.48106,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI032,Strangford Lough Part 2,Maximum CLe exceedance,1,1.1861,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI132,Heron and Carrigullian Loughs,Maximum CLe exceedance,1,1.0636,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI151,Ballycam,Maximum CLe exceedance,1,0.21828,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI225,Killough Bay and Strand Lough,Maximum CLe exceedance,1,1.05793,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI193,Castletown,Maximum CLe exceedance,1,0.85549,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI152,Ballynagross Lower,Maximum CLe exceedance,1,1.05639,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI159,Loughmoney,Maximum CLe exceedance,1,0.86739,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI273,Sheepland Coast,Maximum CLe exceedance,1,0.71675,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI039,Loughkeelan,Maximum CLe exceedance,1,1.51545,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI156,Carrowcarlin,Maximum CLe exceedance,1,1.04498,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI321,Tullyratty,Maximum CLe exceedance,1,1.04498,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI336,Blaeberry Island Bog,Maximum CLe exceedance,1,1.70494,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI086,Killard,Maximum CLe exceedance,1,0.96399,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI354,Lough Cowey,Maximum CLe exceedance,1,0.76239,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI087,Ballyquintin Point,Maximum CLe exceedance,1,0.52215,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI330,Fair Head and Murlough Bay,Maximum CLe exceedance,1,0.30893,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI095,Eastern Mournes,Maximum CLe exceedance,1,1.35249,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016615,Eastern Mournes,Maximum CLe exceedance,1,1.35249,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI355,Glenariff Glen,Maximum CLe exceedance,1,0.13015,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI026,Cleggan Valley,Maximum CLe exceedance,1,0.93634,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI025,Glenariff,Maximum CLe exceedance,1,0.6513,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI024,Glen Burn,Maximum CLe exceedance,1,1.21893,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI408,Cranny Falls,Maximum CLe exceedance,1,0.51312,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI023,Glenarm Woods,Maximum CLe exceedance,1,0.98324,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI333,Galboly,Maximum CLe exceedance,1,0.0632299999999999,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI379,Mournes Coast,Maximum CLe exceedance,1,1.18183,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI406,Belvoir,Maximum CLe exceedance,1,1.23244,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI162,Straidkilly Wood,Maximum CLe exceedance,1,0.68567,1,Low,2017 Ammonia Concentrations
+SAC,UK0016612,Murlough,Maximum CLe exceedance,1,1.64537,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI089,Murlough,Maximum CLe exceedance,1,1.64537,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI150,Ballybannan,Maximum CLe exceedance,1,1.28606,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI104,Outer Belfast Lough,Maximum CLe exceedance,1,3.57905,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI391,Knock Dhu Sallagh Braes,Maximum CLe exceedance,1,1.2694,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI323,Little Deer Park,Maximum CLe exceedance,1,0.51753,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI344,South Woodburn,Maximum CLe exceedance,1,0.91324,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI343,North Woodburn Reservoir,Maximum CLe exceedance,1,0.92808,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI022,North Woodburn Glen,Maximum CLe exceedance,1,0.91324,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI164,Craigantlet Woods,Maximum CLe exceedance,1,1.44573,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI399,Ballygalley Head,Maximum CLe exceedance,1,0.31397,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI155,Corbally,Maximum CLe exceedance,1,1.80623,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030180,Lecale Fens,Maximum CLe exceedance,1,1.80623,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI153,Ballykilbeg,Maximum CLe exceedance,1,1.76073,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030319,Ballykilbeg,Maximum CLe exceedance,1,1.76073,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI358,Tyrella and Minerstown,Maximum CLe exceedance,1,0.93704,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI211,Hollymount,Maximum CLe exceedance,1,1.07263,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030169,Hollymount,Maximum CLe exceedance,1,1.07263,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI149,Aughnadarragh Lough,Maximum CLe exceedance,1,1.54233,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030318,Aughnadarragh Lough,Maximum CLe exceedance,1,1.54233,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI106,Larne Lough,Maximum CLe exceedance,1,1.2512,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI345,Copeland Reservoir,Maximum CLe exceedance,1,0.91555,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI241,Newlands,Maximum CLe exceedance,1,1.3177,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI170,Quoile,Maximum CLe exceedance,1,1.24196,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI148,Turmennan,Maximum CLe exceedance,1,3.03872,4,Very High,2017 Ammonia Concentrations
+SAC,UK0030291,Turmennan,Maximum CLe exceedance,1,3.03872,4,Very High,2017 Ammonia Concentrations
+SSSI,ASSI006,Strangford Lough Part 1,Maximum CLe exceedance,1,1.18855,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0016618,Strangford Lough,Maximum CLe exceedance,1,1.23685,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI034,Strangford Lough Part 3,Maximum CLe exceedance,1,1.23685,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI105,Outer Ards,Maximum CLe exceedance,1,2.14426,3,High,2017 Ammonia Concentrations
+SSSI,ASSI386,St. John's Point,Maximum CLe exceedance,1,0.48106,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI032,Strangford Lough Part 2,Maximum CLe exceedance,1,1.1861,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI132,Heron and Carrigullian Loughs,Maximum CLe exceedance,1,1.0636,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI151,Ballycam,Maximum CLe exceedance,1,0.21828,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI225,Killough Bay and Strand Lough,Maximum CLe exceedance,1,1.05793,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI193,Castletown,Maximum CLe exceedance,1,0.85549,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI152,Ballynagross Lower,Maximum CLe exceedance,1,1.05639,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI159,Loughmoney,Maximum CLe exceedance,1,0.86739,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI273,Sheepland Coast,Maximum CLe exceedance,1,0.71675,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI039,Loughkeelan,Maximum CLe exceedance,1,1.51545,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI156,Carrowcarlin,Maximum CLe exceedance,1,1.04498,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI321,Tullyratty,Maximum CLe exceedance,1,1.04498,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI336,Blaeberry Island Bog,Maximum CLe exceedance,1,1.70494,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI086,Killard,Maximum CLe exceedance,1,0.96399,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI354,Lough Cowey,Maximum CLe exceedance,1,0.76239,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI087,Ballyquintin Point,Maximum CLe exceedance,1,0.52215,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI140,Lough Melvin,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030047,Lough Melvin,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI017,Garvros,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -655,33 +655,33 @@ SSSI,ASSI128,McKean's Moss,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia 
 SSSI,ASSI165,McKean's Moss Part II,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI129,Tonnagh Beg Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030325,Tonnagh Beg Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI124,Cranny Bogs,Mean CLe exceedance,3,0.73427070705793,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030321,Cranny Bogs,Mean CLe exceedance,3,0.73427070705793,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI110,Finn Floods,Mean CLe exceedance,3,0.0794752908011871,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI124,Cranny Bogs,Mean CLe exceedance,3,0.734270707057931,1,Low,2017 Ammonia Concentrations
+SAC,UK0030321,Cranny Bogs,Mean CLe exceedance,3,0.734270707057931,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI110,Finn Floods,Mean CLe exceedance,3,0.0794752908011871,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI268,Round Lough and Lough Fadda,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI130,Tully Bog,Mean CLe exceedance,3,0.00198687378640772,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030326,Tully Bog,Mean CLe exceedance,3,0.00198687378640772,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI130,Tully Bog,Mean CLe exceedance,3,0.00198687378640727,1,Low,2017 Ammonia Concentrations
+SAC,UK0030326,Tully Bog,Mean CLe exceedance,3,0.00198687378640772,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI196,Grange Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI213,Owenkillew River,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030233,Owenkillew River,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI014,Knockballymore Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016621,Magheraveely Marl Loughs,Mean CLe exceedance,3,0.946192384066587,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI081,Burdautien Lough,Mean CLe exceedance,3,1.28552378594249,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI078,Kilroosky Lough,Mean CLe exceedance,3,1.10591226489028,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI080,Summerhill Lough,Mean CLe exceedance,3,0.0393999999999997,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI223,Cullentra Lough,Mean CLe exceedance,3,0.183504626006904,0,No exceedance,2017 Ammonia Concentrations
+SAC,UK0016621,Magheraveely Marl Loughs,Mean CLe exceedance,3,0.946192384066586,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI081,Burdautien Lough,Mean CLe exceedance,3,1.28552378594249,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI078,Kilroosky Lough,Mean CLe exceedance,3,1.10591226489028,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI080,Summerhill Lough,Mean CLe exceedance,3,0.0393999999999997,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI223,Cullentra Lough,Mean CLe exceedance,3,0.183504626006905,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI197,Corbylin Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI062,Owenkillew and Glenelly Woods,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI077,Slieve Beagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016622,Slieve Beagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI195,Silverbrook Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI121,Annachullion Lough,Mean CLe exceedance,3,1.7260513830955,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI121,Annachullion Lough,Mean CLe exceedance,3,1.7260513830955,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI309,Mullaghcarn,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI296,River Faughan and Tributaries,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030361,River Faughan and Tributaries,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI122,Drumacrittin Lough,Mean CLe exceedance,3,1.85553987421384,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI122,Drumacrittin Lough,Mean CLe exceedance,3,1.85553987421384,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI392,Cloghcor Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI308,Annaghagh Bog,Mean CLe exceedance,3,0.0482256795571554,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI308,Annaghagh Bog,Mean CLe exceedance,3,0.048225679557155,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI227,Bonds Glen,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI261,Lough McCall,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI035,Deroran Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -694,16 +694,16 @@ SSSI,ASSI060,Ness Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Conc
 SSSI,ASSI262,Lough na blaney bane,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI237,Derrycloony Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI397,Roeveagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI224,Fymore Lough,Mean CLe exceedance,3,0.169931415929204,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI224,Fymore Lough,Mean CLe exceedance,3,0.169931415929204,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI348,Lough Macrory,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI007,Black Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016609,Black Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI057,Glenmore Wood,Mean CLe exceedance,3,0.0540433356594554,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI057,Glenmore Wood,Mean CLe exceedance,3,0.0540433356594554,1,Low,2017 Ammonia Concentrations
 SAC,UK0030360,River Roe and Tributaries,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030296,Upper Ballinderry River,Mean CLe exceedance,3,0.054934529393039,0,No exceedance,2017 Ammonia Concentrations
+SAC,UK0030296,Upper Ballinderry River,Mean CLe exceedance,3,0.054934529393039,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI407,Lough Lark,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI059,Altmover Glen,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI239,Black Lough (Tyrone),Mean CLe exceedance,3,0.453062909647779,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI239,Black Lough (Tyrone),Mean CLe exceedance,3,0.453062909647779,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI064,Banagher Glen,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030083,Banagher Glen,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI068,Magilligan,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -715,43 +715,43 @@ SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Mean CLe exceedance,3,0,0,No exce
 SSSI,ASSI228,Aghanloo Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI212,Binevenagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030089,Binevenagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI031,Kiltubbrid Loughs,Mean CLe exceedance,3,2.27047323115162,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI031,Kiltubbrid Loughs,Mean CLe exceedance,3,2.27047323115161,3,High,2017 Ammonia Concentrations
 SAC,UK0016608,Teal Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI088,Teal Lough Part II,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI307,Knocknacloy,Mean CLe exceedance,3,2.16789173553719,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI307,Knocknacloy,Mean CLe exceedance,3,2.16789173553719,3,High,2017 Ammonia Concentrations
 SSSI,ASSI266,Ballyrisk More,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI182,Drumcarn,Mean CLe exceedance,3,0.64312576309795,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI183,Crossbane Lough,Mean CLe exceedance,3,0.555756221335992,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI182,Drumcarn,Mean CLe exceedance,3,0.64312576309795,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI183,Crossbane Lough,Mean CLe exceedance,3,0.555756221335992,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI167,Carn/Glenshane Pass,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030110,Carn  Glenshane Pass,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI371,Gortcorbies,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI171,Altikeeragh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI179,Straghans Lough,Mean CLe exceedance,3,0.367297358414239,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI179,Straghans Lough,Mean CLe exceedance,3,0.367297358414239,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI257,Ballymacallion,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI259,Castle River Valley,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI258,Smulgedon,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI267,Coolnasillagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI208,Bann Estuary,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030084,Bann Estuary,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI410,Knockadoo Wood,Mean CLe exceedance,3,0.921172128195895,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI216,Tullyard,Mean CLe exceedance,3,0.67808,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI410,Knockadoo Wood,Mean CLe exceedance,3,0.921172128195895,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI216,Tullyard,Mean CLe exceedance,3,0.67808,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI194,Ballyknock,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI205,Drumlougher Lough,Mean CLe exceedance,3,0.174844919354838,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI205,Drumlougher Lough,Mean CLe exceedance,3,0.174844919354839,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI256,Errigal Glen,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI240,Drumcrow,Mean CLe exceedance,3,0.311016902887139,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI240,Drumcrow,Mean CLe exceedance,3,0.311016902887139,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI010,Ballynahone Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016599,Ballynahone Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI038,Annacramph Meadows,Mean CLe exceedance,3,1.08863566801619,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI038,Annacramph Meadows,Mean CLe exceedance,3,1.08863566801619,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI415,Tamnyrankin,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI210,Peatlands Park,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030236,Peatlands Park,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI074,Curran Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030322,Curran Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI204,Lurgan Lough,Mean CLe exceedance,3,0.154356822372465,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI204,Lurgan Lough,Mean CLe exceedance,3,0.154356822372465,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI030,Lough Neagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI206,Loughaveely,Mean CLe exceedance,3,0.0468502702702702,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI206,Loughaveely,Mean CLe exceedance,3,0.0468502702702702,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI189,Cashel Loughs,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI180,Moyrourkan Lough,Mean CLe exceedance,3,0.653295670391062,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI180,Moyrourkan Lough,Mean CLe exceedance,3,0.653295670391062,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI125,Dead Island Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030323,Dead Island Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI131,Wolf Island Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -770,7 +770,7 @@ SSSI,ASSI339,Brackagh Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia C
 SSSI,ASSI295,Lough Gullion,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI202,Giant's Causeway and Dunseverick,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030224,North Antrim Coast,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI221,Derryvore,Mean CLe exceedance,3,0.0692938116591928,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI221,Derryvore,Mean CLe exceedance,3,0.0692938116591924,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI372,Craigs,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI409,Clermont & Anglesey Mountain,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI238,Fathom Upper,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -785,11 +785,11 @@ SSSI,ASSI160,Greenan,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concen
 SAC,UK0016620,Derryleckagh,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI009,Dunloy Bog,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI107,White Park Bay,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI157,Castle Enigan,Mean CLe exceedance,3,0.307145221843003,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI157,Castle Enigan,Mean CLe exceedance,3,0.307145221843003,1,Low,2017 Ammonia Concentrations
 SAC,UK0030214,Montiaghs Moss,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI377,Shane's Castle,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI126,Frosses Bog,Mean CLe exceedance,3,0.102885402166398,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI217,Ballynanaghten,Mean CLe exceedance,3,0.219874583333333,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI126,Frosses Bog,Mean CLe exceedance,3,0.102885402166398,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI217,Ballynanaghten,Mean CLe exceedance,3,0.219874583333333,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI178,Rostrevor Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030268,Rostrevor Wood,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI303,Slieveanorra and Croaghan,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -804,7 +804,7 @@ SSSI,ASSI265,Rathsherry,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Con
 SSSI,ASSI043,Rathlin Island - Ballygill North,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI067,Garron Plateau,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016606,Garron Plateau,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI037,Lackan Bog,Mean CLe exceedance,3,0.137886019656019,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI037,Lackan Bog,Mean CLe exceedance,3,0.137886019656019,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI352,White Water River,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI169,Leathemstown,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI302,Carey Valley,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -847,8 +847,8 @@ SSSI,ASSI106,Larne Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Co
 SSSI,ASSI345,Copeland Reservoir,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI241,Newlands,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI170,Quoile,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI148,Turmennan,Mean CLe exceedance,3,0.476872434254889,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030291,Turmennan,Mean CLe exceedance,3,0.476775707547169,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI148,Turmennan,Mean CLe exceedance,3,0.476872434254888,1,Low,2017 Ammonia Concentrations
+SAC,UK0030291,Turmennan,Mean CLe exceedance,3,0.47677570754717,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI006,Strangford Lough Part 1,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016618,Strangford Lough,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI034,Strangford Lough Part 3,Mean CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -916,12 +916,12 @@ SSSI,ASSI376,Florence Court,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammo
 SSSI,ASSI264,Hare Island,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI070,Tattenamona Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI269,Devenish Island,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016614,Upper Lough Erne,Maximum CLe exceedance,3,0.2767,0,No exceedance,2017 Ammonia Concentrations
+SAC,UK0016614,Upper Lough Erne,Maximum CLe exceedance,3,0.2767,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI300,Scraghy,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI093,Upper Lough Erne - Belleisle,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI166,Knockninny Hill,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI048,Corraslough Point,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI094,Upper Lough Erne - Trannish,Maximum CLe exceedance,3,0.2767,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI094,Upper Lough Erne - Trannish,Maximum CLe exceedance,3,0.2767,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI350,Castlecoole,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI015,Moninea Bog,Maximum CLe exceedance,3,4.21532,4,Very High,2017 Ammonia Concentrations
 SAC,UK0030212,Moninea Bog,Maximum CLe exceedance,3,4.21532,4,Very High,2017 Ammonia Concentrations
@@ -940,38 +940,38 @@ SAC,UK0016611,Fairy Water Bogs,Maximum CLe exceedance,3,0,0,No exceedance,2017 A
 SSSI,ASSI275,Kirlish,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI090,Upper Lough Erne - Galloon,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI349,Baronscourt,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI058,Strabane Glen,Maximum CLe exceedance,3,0.32941,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI058,Strabane Glen,Maximum CLe exceedance,3,0.32941,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI128,McKean's Moss,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI165,McKean's Moss Part II,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI129,Tonnagh Beg Bog,Maximum CLe exceedance,3,0.22742,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030325,Tonnagh Beg Bog,Maximum CLe exceedance,3,0.22742,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI124,Cranny Bogs,Maximum CLe exceedance,3,1.13966,1,Low,2017 Ammonia Concentrations
-SAC,UK0030321,Cranny Bogs,Maximum CLe exceedance,3,1.13966,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI110,Finn Floods,Maximum CLe exceedance,3,0.36854,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI268,Round Lough and Lough Fadda,Maximum CLe exceedance,3,0.15952,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI130,Tully Bog,Maximum CLe exceedance,3,0.0671900000000001,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030326,Tully Bog,Maximum CLe exceedance,3,0.0671900000000001,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI129,Tonnagh Beg Bog,Maximum CLe exceedance,3,0.22742,1,Low,2017 Ammonia Concentrations
+SAC,UK0030325,Tonnagh Beg Bog,Maximum CLe exceedance,3,0.22742,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI124,Cranny Bogs,Maximum CLe exceedance,3,1.13966,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030321,Cranny Bogs,Maximum CLe exceedance,3,1.13966,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI110,Finn Floods,Maximum CLe exceedance,3,0.36854,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI268,Round Lough and Lough Fadda,Maximum CLe exceedance,3,0.15952,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI130,Tully Bog,Maximum CLe exceedance,3,0.0671900000000001,1,Low,2017 Ammonia Concentrations
+SAC,UK0030326,Tully Bog,Maximum CLe exceedance,3,0.0671900000000001,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI196,Grange Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI213,Owenkillew River,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030233,Owenkillew River,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI014,Knockballymore Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016621,Magheraveely Marl Loughs,Maximum CLe exceedance,3,2.61939,2,Moderate,2017 Ammonia Concentrations
-SSSI,ASSI081,Burdautien Lough,Maximum CLe exceedance,3,1.29135,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI078,Kilroosky Lough,Maximum CLe exceedance,3,1.29135,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI080,Summerhill Lough,Maximum CLe exceedance,3,0.0393999999999997,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI223,Cullentra Lough,Maximum CLe exceedance,3,0.21342,0,No exceedance,2017 Ammonia Concentrations
+SAC,UK0016621,Magheraveely Marl Loughs,Maximum CLe exceedance,3,2.61939,3,High,2017 Ammonia Concentrations
+SSSI,ASSI081,Burdautien Lough,Maximum CLe exceedance,3,1.29135,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI078,Kilroosky Lough,Maximum CLe exceedance,3,1.29135,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI080,Summerhill Lough,Maximum CLe exceedance,3,0.0393999999999997,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI223,Cullentra Lough,Maximum CLe exceedance,3,0.21342,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI197,Corbylin Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI062,Owenkillew and Glenelly Woods,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI077,Slieve Beagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016622,Slieve Beagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI195,Silverbrook Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI121,Annachullion Lough,Maximum CLe exceedance,3,2.24391,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI121,Annachullion Lough,Maximum CLe exceedance,3,2.24391,3,High,2017 Ammonia Concentrations
 SSSI,ASSI309,Mullaghcarn,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI296,River Faughan and Tributaries,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030361,River Faughan and Tributaries,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI122,Drumacrittin Lough,Maximum CLe exceedance,3,2.61939,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI122,Drumacrittin Lough,Maximum CLe exceedance,3,2.61939,3,High,2017 Ammonia Concentrations
 SSSI,ASSI392,Cloghcor Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI308,Annaghagh Bog,Maximum CLe exceedance,3,0.6253,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI308,Annaghagh Bog,Maximum CLe exceedance,3,0.6253,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI227,Bonds Glen,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI261,Lough McCall,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI035,Deroran Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -982,18 +982,18 @@ SSSI,ASSI398,Cavan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Conce
 SSSI,ASSI056,Drumlea and Mullan Woods,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI060,Ness Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI262,Lough na blaney bane,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI237,Derrycloony Lough,Maximum CLe exceedance,3,0.21573,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI237,Derrycloony Lough,Maximum CLe exceedance,3,0.21573,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI397,Roeveagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI224,Fymore Lough,Maximum CLe exceedance,3,0.21573,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI224,Fymore Lough,Maximum CLe exceedance,3,0.21573,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI348,Lough Macrory,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI007,Black Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016609,Black Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI057,Glenmore Wood,Maximum CLe exceedance,3,0.48922,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI057,Glenmore Wood,Maximum CLe exceedance,3,0.48922,1,Low,2017 Ammonia Concentrations
 SAC,UK0030360,River Roe and Tributaries,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030296,Upper Ballinderry River,Maximum CLe exceedance,3,3.37014,3,High,2017 Ammonia Concentrations
+SAC,UK0030296,Upper Ballinderry River,Maximum CLe exceedance,3,3.37014,4,Very High,2017 Ammonia Concentrations
 SSSI,ASSI407,Lough Lark,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI059,Altmover Glen,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI239,Black Lough (Tyrone),Maximum CLe exceedance,3,0.58645,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI239,Black Lough (Tyrone),Maximum CLe exceedance,3,0.58645,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI064,Banagher Glen,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030083,Banagher Glen,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI068,Magilligan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1005,81 +1005,81 @@ SSSI,ASSI011,Teal Lough and Slaghtfreeden Bogs,Maximum CLe exceedance,3,0,0,No e
 SSSI,ASSI228,Aghanloo Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI212,Binevenagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030089,Binevenagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI031,Kiltubbrid Loughs,Maximum CLe exceedance,3,3.07075,3,High,2017 Ammonia Concentrations
+SSSI,ASSI031,Kiltubbrid Loughs,Maximum CLe exceedance,3,3.07075,4,Very High,2017 Ammonia Concentrations
 SAC,UK0016608,Teal Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI088,Teal Lough Part II,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI307,Knocknacloy,Maximum CLe exceedance,3,2.25189,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI307,Knocknacloy,Maximum CLe exceedance,3,2.25189,3,High,2017 Ammonia Concentrations
 SSSI,ASSI266,Ballyrisk More,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI182,Drumcarn,Maximum CLe exceedance,3,0.74927,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI183,Crossbane Lough,Maximum CLe exceedance,3,0.698799999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI182,Drumcarn,Maximum CLe exceedance,3,0.74927,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI183,Crossbane Lough,Maximum CLe exceedance,3,0.698799999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI167,Carn/Glenshane Pass,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030110,Carn  Glenshane Pass,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI371,Gortcorbies,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI171,Altikeeragh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI179,Straghans Lough,Maximum CLe exceedance,3,0.62453,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI179,Straghans Lough,Maximum CLe exceedance,3,0.62453,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI257,Ballymacallion,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI259,Castle River Valley,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI258,Smulgedon,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI267,Coolnasillagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI208,Bann Estuary,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030084,Bann Estuary,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI410,Knockadoo Wood,Maximum CLe exceedance,3,1.01884,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI216,Tullyard,Maximum CLe exceedance,3,0.67808,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI410,Knockadoo Wood,Maximum CLe exceedance,3,1.01884,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI216,Tullyard,Maximum CLe exceedance,3,0.67808,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI194,Ballyknock,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI205,Drumlougher Lough,Maximum CLe exceedance,3,0.31975,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI205,Drumlougher Lough,Maximum CLe exceedance,3,0.31975,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI256,Errigal Glen,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI240,Drumcrow,Maximum CLe exceedance,3,0.614799999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI240,Drumcrow,Maximum CLe exceedance,3,0.614799999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI010,Ballynahone Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016599,Ballynahone Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI038,Annacramph Meadows,Maximum CLe exceedance,3,1.13483,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI038,Annacramph Meadows,Maximum CLe exceedance,3,1.13483,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI415,Tamnyrankin,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI210,Peatlands Park,Maximum CLe exceedance,3,0.0555699999999999,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030236,Peatlands Park,Maximum CLe exceedance,3,0.0555699999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI210,Peatlands Park,Maximum CLe exceedance,3,0.0555699999999999,1,Low,2017 Ammonia Concentrations
+SAC,UK0030236,Peatlands Park,Maximum CLe exceedance,3,0.0555699999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI074,Curran Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030322,Curran Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI204,Lurgan Lough,Maximum CLe exceedance,3,0.27586,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI030,Lough Neagh,Maximum CLe exceedance,3,1.51374,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI206,Loughaveely,Maximum CLe exceedance,3,0.12326,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI204,Lurgan Lough,Maximum CLe exceedance,3,0.27586,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI030,Lough Neagh,Maximum CLe exceedance,3,1.51374,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI206,Loughaveely,Maximum CLe exceedance,3,0.12326,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI189,Cashel Loughs,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI180,Moyrourkan Lough,Maximum CLe exceedance,3,0.80814,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI180,Moyrourkan Lough,Maximum CLe exceedance,3,0.80814,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI125,Dead Island Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030323,Dead Island Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI131,Wolf Island Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030303,Wolf Island Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI214,Levallymore,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI222,Selshion,Maximum CLe exceedance,3,0.12697,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI222,Selshion,Maximum CLe exceedance,3,0.12697,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI305,Moneystaghan Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI215,Carrickastickan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI198,Slieve Gullion,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030277,Slieve Gullion,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI027,Lough Beg,Maximum CLe exceedance,3,0.0946299999999995,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI027,Lough Beg,Maximum CLe exceedance,3,0.0946299999999995,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI127,Garry Bog Part II,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016610,Garry Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI004,Garry Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI339,Brackagh Bog,Maximum CLe exceedance,3,0.35489,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI339,Brackagh Bog,Maximum CLe exceedance,3,0.35489,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI295,Lough Gullion,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI202,Giant's Causeway and Dunseverick,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030224,North Antrim Coast,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI221,Derryvore,Maximum CLe exceedance,3,0.248279999999999,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI221,Derryvore,Maximum CLe exceedance,3,0.248279999999999,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI372,Craigs,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI409,Clermont & Anglesey Mountain,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI238,Fathom Upper,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI103,Carlingford Lough,Maximum CLe exceedance,3,0.0665599999999995,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI103,Carlingford Lough,Maximum CLe exceedance,3,0.0665599999999995,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI260,Ballymacaldrack,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI123,Caldanagh Bog,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030199,Main Valley Bogs,Maximum CLe exceedance,3,1.61328,1,Low,2017 Ammonia Concentrations
+SAC,UK0030199,Main Valley Bogs,Maximum CLe exceedance,3,1.61328,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI390,Prolusk,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI158,Greenan Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI079,Derryleckagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI160,Greenan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016620,Derryleckagh,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI009,Dunloy Bog,Maximum CLe exceedance,3,0.0335199999999998,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI009,Dunloy Bog,Maximum CLe exceedance,3,0.0335199999999998,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI107,White Park Bay,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI157,Castle Enigan,Maximum CLe exceedance,3,0.36525,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI157,Castle Enigan,Maximum CLe exceedance,3,0.36525,1,Low,2017 Ammonia Concentrations
 SAC,UK0030214,Montiaghs Moss,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI377,Shane's Castle,Maximum CLe exceedance,3,0.04535,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI126,Frosses Bog,Maximum CLe exceedance,3,1.61328,1,Low,2017 Ammonia Concentrations
-SSSI,ASSI217,Ballynanaghten,Maximum CLe exceedance,3,0.24744,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI377,Shane's Castle,Maximum CLe exceedance,3,0.04535,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI126,Frosses Bog,Maximum CLe exceedance,3,1.61328,2,Moderate,2017 Ammonia Concentrations
+SSSI,ASSI217,Ballynanaghten,Maximum CLe exceedance,3,0.24744,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI178,Rostrevor Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030268,Rostrevor Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI303,Slieveanorra and Croaghan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1090,11 +1090,11 @@ SSSI,ASSI351,Western Mournes and Kilfeaghan Upper,Maximum CLe exceedance,3,0,0,N
 SSSI,ASSI161,Breen Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030097,Breen Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI356,Rathlin Island - Kebble,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI265,Rathsherry,Maximum CLe exceedance,3,0.46472,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI265,Rathsherry,Maximum CLe exceedance,3,0.46472,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI043,Rathlin Island - Ballygill North,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI067,Garron Plateau,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016606,Garron Plateau,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI037,Lackan Bog,Maximum CLe exceedance,3,0.83348,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI037,Lackan Bog,Maximum CLe exceedance,3,0.83348,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI352,White Water River,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI169,Leathemstown,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI302,Carey Valley,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1116,7 +1116,7 @@ SSSI,ASSI162,Straidkilly Wood,Maximum CLe exceedance,3,0,0,No exceedance,2017 Am
 SAC,UK0016612,Murlough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI089,Murlough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI150,Ballybannan,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI104,Outer Belfast Lough,Maximum CLe exceedance,3,1.57905,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI104,Outer Belfast Lough,Maximum CLe exceedance,3,1.57905,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI391,Knock Dhu Sallagh Braes,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI323,Little Deer Park,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI344,South Woodburn,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1137,12 +1137,12 @@ SSSI,ASSI106,Larne Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia
 SSSI,ASSI345,Copeland Reservoir,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI241,Newlands,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI170,Quoile,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI148,Turmennan,Maximum CLe exceedance,3,1.03872,1,Low,2017 Ammonia Concentrations
-SAC,UK0030291,Turmennan,Maximum CLe exceedance,3,1.03872,1,Low,2017 Ammonia Concentrations
+SSSI,ASSI148,Turmennan,Maximum CLe exceedance,3,1.03872,2,Moderate,2017 Ammonia Concentrations
+SAC,UK0030291,Turmennan,Maximum CLe exceedance,3,1.03872,2,Moderate,2017 Ammonia Concentrations
 SSSI,ASSI006,Strangford Lough Part 1,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016618,Strangford Lough,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI034,Strangford Lough Part 3,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI105,Outer Ards,Maximum CLe exceedance,3,0.14426,0,No exceedance,2017 Ammonia Concentrations
+SSSI,ASSI105,Outer Ards,Maximum CLe exceedance,3,0.14426,1,Low,2017 Ammonia Concentrations
 SSSI,ASSI386,St. John's Point,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI032,Strangford Lough Part 2,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI132,Heron and Carrigullian Loughs,Maximum CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1166,7 +1166,7 @@ SSSI,ASSI018,Moneendogue,% of site in CLe exceedance,1,0,0,No exceedance,2017 Am
 SSSI,ASSI020,Drumlisaleen,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI403,Rushy Hill,% of site in CLe exceedance,1,87.0629370629371,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI297,Knocknashangan,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
-SSSI,ASSI299,Ross,% of site in CLe exceedance,1,0.0569476082004556,1,Small fraction of site area,2017 Ammonia Concentrations
+SSSI,ASSI299,Ross,% of site in CLe exceedance,1,0.0569476082004558,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI400,Frevagh,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI332,Tower More,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI353,Lough Anierin,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1183,7 +1183,7 @@ SSSI,ASSI359,Lough Naman Bog and Lake,% of site in CLe exceedance,1,0,0,No excee
 SSSI,ASSI168,Glennasheevar,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI191,The Cliffs of Magho,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI380,Lough Formal,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI201,West Fermanagh Scarplands,% of site in CLe exceedance,1,9.45963753283376,1,Small fraction of site area,2017 Ammonia Concentrations
+SSSI,ASSI201,West Fermanagh Scarplands,% of site in CLe exceedance,1,9.45963753283377,1,Small fraction of site area,2017 Ammonia Concentrations
 SAC,UK0030300,West Fermanagh Scarplands,% of site in CLe exceedance,1,9.45976218818496,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI393,Lough Alaban,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI111,Largalinny,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1196,7 +1196,7 @@ SSSI,ASSI013,Monawilkin,% of site in CLe exceedance,1,3.0997150997151,1,Small fr
 SAC,UK0016619,Monawilkin,% of site in CLe exceedance,1,3.10342860402761,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI357,Killeter Forest and Bogs and Lakes,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI324,Keadew,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
-SSSI,ASSI298,Blackslee,% of site in CLe exceedance,1,14.0813731722823,2,Some of site area,2017 Ammonia Concentrations
+SSSI,ASSI298,Blackslee,% of site in CLe exceedance,1,14.0813731722822,2,Some of site area,2017 Ammonia Concentrations
 SSSI,ASSI322,Drumbegger,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI016,Beagh Big,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI263,Cruninish Island,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1287,7 +1287,7 @@ SSSI,ASSI239,Black Lough (Tyrone),% of site in CLe exceedance,1,100,4,Entire sit
 SSSI,ASSI064,Banagher Glen,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SAC,UK0030083,Banagher Glen,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI068,Magilligan,% of site in CLe exceedance,1,0.778617741159149,1,Small fraction of site area,2017 Ammonia Concentrations
-SAC,UK0016613,Magilligan,% of site in CLe exceedance,1,0.778617741159149,1,Small fraction of site area,2017 Ammonia Concentrations
+SAC,UK0016613,Magilligan,% of site in CLe exceedance,1,0.77861774115915,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI146,Tullybrick Lough,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI342,Caledon and Tynan,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI055,Crockaghole Wood,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
@@ -1382,7 +1382,7 @@ SAC,UK0030097,Breen Wood,% of site in CLe exceedance,1,100,4,Entire site,2017 Am
 SSSI,ASSI356,Rathlin Island - Kebble,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI265,Rathsherry,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI043,Rathlin Island - Ballygill North,% of site in CLe exceedance,1,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI067,Garron Plateau,% of site in CLe exceedance,1,58.3738865770197,3,Most of site area,2017 Ammonia Concentrations
+SSSI,ASSI067,Garron Plateau,% of site in CLe exceedance,1,58.3738865770196,3,Most of site area,2017 Ammonia Concentrations
 SAC,UK0016606,Garron Plateau,% of site in CLe exceedance,1,58.3775581047939,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI037,Lackan Bog,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI352,White Water River,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
@@ -1399,7 +1399,7 @@ SSSI,ASSI025,Glenariff,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammo
 SSSI,ASSI024,Glen Burn,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI408,Cranny Falls,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI023,Glenarm Woods,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
-SSSI,ASSI333,Galboly,% of site in CLe exceedance,1,7.42892716331189,1,Small fraction of site area,2017 Ammonia Concentrations
+SSSI,ASSI333,Galboly,% of site in CLe exceedance,1,7.4289271633119,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI379,Mournes Coast,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI406,Belvoir,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI162,Straidkilly Wood,% of site in CLe exceedance,1,100,4,Entire site,2017 Ammonia Concentrations
@@ -1523,9 +1523,9 @@ SSSI,ASSI349,Baronscourt,% of site in CLe exceedance,3,0,0,No exceedance,2017 Am
 SSSI,ASSI058,Strabane Glen,% of site in CLe exceedance,3,13.3124510571652,2,Some of site area,2017 Ammonia Concentrations
 SSSI,ASSI128,McKean's Moss,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI165,McKean's Moss Part II,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI129,Tonnagh Beg Bog,% of site in CLe exceedance,3,25.951867816092,2,Some of site area,2017 Ammonia Concentrations
-SAC,UK0030325,Tonnagh Beg Bog,% of site in CLe exceedance,3,25.951867816092,2,Some of site area,2017 Ammonia Concentrations
-SSSI,ASSI124,Cranny Bogs,% of site in CLe exceedance,3,99.9241082721983,3,Most of site area,2017 Ammonia Concentrations
+SSSI,ASSI129,Tonnagh Beg Bog,% of site in CLe exceedance,3,25.9518678160919,2,Some of site area,2017 Ammonia Concentrations
+SAC,UK0030325,Tonnagh Beg Bog,% of site in CLe exceedance,3,25.9518678160919,2,Some of site area,2017 Ammonia Concentrations
+SSSI,ASSI124,Cranny Bogs,% of site in CLe exceedance,3,99.9241082721984,3,Most of site area,2017 Ammonia Concentrations
 SAC,UK0030321,Cranny Bogs,% of site in CLe exceedance,3,99.9241082721983,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI110,Finn Floods,% of site in CLe exceedance,3,66.3204747774481,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI268,Round Lough and Lough Fadda,% of site in CLe exceedance,3,38.749194068343,2,Some of site area,2017 Ammonia Concentrations
@@ -1535,7 +1535,7 @@ SSSI,ASSI196,Grange Wood,% of site in CLe exceedance,3,0,0,No exceedance,2017 Am
 SSSI,ASSI213,Owenkillew River,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0030233,Owenkillew River,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI014,Knockballymore Lough,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0016621,Magheraveely Marl Loughs,% of site in CLe exceedance,3,74.7112281297775,3,Most of site area,2017 Ammonia Concentrations
+SAC,UK0016621,Magheraveely Marl Loughs,% of site in CLe exceedance,3,74.7112281297774,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI081,Burdautien Lough,% of site in CLe exceedance,3,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI078,Kilroosky Lough,% of site in CLe exceedance,3,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI080,Summerhill Lough,% of site in CLe exceedance,3,100,4,Entire site,2017 Ammonia Concentrations
@@ -1619,7 +1619,7 @@ SSSI,ASSI074,Curran Bog,% of site in CLe exceedance,3,0,0,No exceedance,2017 Amm
 SAC,UK0030322,Curran Bog,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI204,Lurgan Lough,% of site in CLe exceedance,3,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI030,Lough Neagh,% of site in CLe exceedance,3,0.320227505971855,1,Small fraction of site area,2017 Ammonia Concentrations
-SSSI,ASSI206,Loughaveely,% of site in CLe exceedance,3,71.3097713097713,3,Most of site area,2017 Ammonia Concentrations
+SSSI,ASSI206,Loughaveely,% of site in CLe exceedance,3,71.3097713097714,3,Most of site area,2017 Ammonia Concentrations
 SSSI,ASSI189,Cashel Loughs,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI180,Moyrourkan Lough,% of site in CLe exceedance,3,100,4,Entire site,2017 Ammonia Concentrations
 SSSI,ASSI125,Dead Island Bog,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1647,7 +1647,7 @@ SSSI,ASSI238,Fathom Upper,% of site in CLe exceedance,3,0,0,No exceedance,2017 A
 SSSI,ASSI103,Carlingford Lough,% of site in CLe exceedance,3,0.22994982912819,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI260,Ballymacaldrack,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI123,Caldanagh Bog,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SAC,UK0030199,Main Valley Bogs,% of site in CLe exceedance,3,16.2632172186141,2,Some of site area,2017 Ammonia Concentrations
+SAC,UK0030199,Main Valley Bogs,% of site in CLe exceedance,3,16.2632172186142,2,Some of site area,2017 Ammonia Concentrations
 SSSI,ASSI390,Prolusk,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI158,Greenan Lough,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI079,Derryleckagh,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
@@ -1679,7 +1679,7 @@ SSSI,ASSI352,White Water River,% of site in CLe exceedance,3,0,0,No exceedance,2
 SSSI,ASSI169,Leathemstown,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI302,Carey Valley,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI045,Rathlin Island - Ballycarry,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
-SSSI,ASSI063,Slievenacloy,% of site in CLe exceedance,3,6.99341238471673,1,Small fraction of site area,2017 Ammonia Concentrations
+SSSI,ASSI063,Slievenacloy,% of site in CLe exceedance,3,6.99341238471674,1,Small fraction of site area,2017 Ammonia Concentrations
 SSSI,ASSI330,Fair Head and Murlough Bay,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SSSI,ASSI095,Eastern Mournes,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations
 SAC,UK0016615,Eastern Mournes,% of site in CLe exceedance,3,0,0,No exceedance,2017 Ammonia Concentrations

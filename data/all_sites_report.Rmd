@@ -1,0 +1,87 @@
+---
+title: ""
+output: html_document
+params:
+  table: NA
+  svr_v: NA
+  img: NA
+  dep_typ: NA
+  cle: NA
+---
+
+## Results for all sites
+
+
+```{r, text,echo=F,results="asis"}
+if(!is.null(params$cle)){cat(paste0("- Ammonia critial level results refer to the ",params$cle," CLe"))}
+cat("\n\n")
+if(!is.null(params$dep_typ)){
+dep_text <- ifelse(params$dep_typ=="Grid Average","other features inc. aquatic features at sites (grid average)",
+        ifelse(params$dep_typ=="Woodland","woodland features at sites",
+              ifelse(params$dep_typ=="Low-growing semi-natural vegetation","low-growing semi-natural features at sites")))
+cat(paste0("- Nitrogen deposition results are estimated for ",dep_text,"\n"))}
+```
+
+```{r,ind_tab,echo=F,include=T}
+  svr_v<-params$svr_v
+  if(svr_v == T){lib<-"/home/edcarn/R/x86_64-pc-linux-gnu-library/3.4"
+  }
+  
+  if(svr_v == F){lib<-NULL
+  pth<-paste0("C:/Shiny_dev/")
+  setwd(pth)}
+  
+
+
+x <- params$table
+  x[,rnk:=frank(VALUE,ties.method="dense")]
+x[,N_IND:=1]
+  x <- x[,.(`Rank` = mean(rnk),
+            `Average Score`=round(sum(SCORE/N_IND),2),
+            `Total Score`=sum(SCORE)), by=.(ID=SITECODE,`Site Name` = NAME)]
+  x <- x[order(-`Total Score`,-Rank),ID]
+
+  y <- copy(params$table)
+  y[,LABEL:=paste0(SCORE," - ",LABEL)]
+  
+  labs <- dcast.data.table(y,SITECODE+NAME~VARIABLE,value.var = "LABEL")
+  vals <- dcast.data.table(y,SITECODE+NAME~VARIABLE,value.var = "SCORE")
+  
+  labs <- labs[order(match(SITECODE, x)),]
+  vals <- vals[order(match(SITECODE, x)),]
+  vs <- levels(y$VARIABLE)
+  vs <- vs[!is.na(vs)]
+ 
+  labs<-labs[,c("SITECODE","NAME",vs),with=F]                                  
+  
+  #vs <- names(labs)[unique(3:ncol(labs))]
+ 
+  cls<-unique(3:ncol(labs))
+  vals <- suppressWarnings(vals[,lapply(.SD,function(x){ifelse(x==0,"#B0D6FF",
+                                       ifelse(x==1,"#FDFF99",
+                                              ifelse(x==2,"#FFF757",
+                                                     ifelse(x==3,"#FFBE3B",
+                                                            ifelse(x==4,"#EB4034","#000000")))))}),.SDcols=cls])
+  
+  labs_XX <- datatable(labs,selection = 'single',options = list(pageLength = nrow(labs)))
+  
+  for(i in 1:length(vs)){
+  
+  #i<-1
+  labs_XX <- labs_XX %>%
+    formatStyle(vs[i],backgroundColor = styleEqual(
+      as.vector(labs[,vs[i],with=F])[[1]],
+      as.vector(vals[,vs[i],with=F])[[1]]))}
+  
+  labs_XX
+
+```
+
+#### Contact: Ed Carnell [ (edcarn@ceh.ac.uk) ](mailto:edcarn@ceh.ac.uk)
+#### Report generated on: `r format(Sys.Date(),c("%d/%m/%Y"))`
+
+```{r, out.width = "262px",out.height="70px",echo=F}
+knitr::include_graphics(params$img)
+```
+
+

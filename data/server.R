@@ -62,18 +62,11 @@ svr <- function(input,output,session){
   if(nrow(table_data())==0){
     return(tagList(h5("Please make a selection the list of indicators on the left")))}else{
                            tagList(h5("Each indicator has been assigned a score from 0 - 4"),
-                           h5("Sites can be selected by clicking on the table"))
-      }
+                           h5("Sites can be selected by clicking on the table"),
+                           downloadButton('all_report', 'Download table'))}
     })
   
-   output$downloadData <- downloadHandler(
-   filename = function() {
-     paste0(site_sel()$ID,"-",Sys.Date(),'.csv')
-   },
-   content = function(con) {
-     fwrite(table_data()[SITECODE==site_sel,], con)
-   }
- )
+
   
   output$cl_opt <- renderUI({
  
@@ -131,25 +124,22 @@ svr <- function(input,output,session){
     output$dep_typ <- renderUI({
       if(input$rast!="TotN_dep"){return()}else{
       tagList(radioButtons("map_dep_typ", "Designated feature type:",
-                                     unique(sa$Dep_typ),"Woodland"))}
+                                     unique(sa$Dep_typ),unique(sa$Dep_typ)[1]))}
       })   
   
    output$mapcontrols <- renderUI({
-    if(is.null(row_sel())){tagList(h5("Please select a site from the \'Comparison Table\' or \'Combined Scores\'"))}else
+    if(is.null(row_sel())){tagList(h5("Please select a site from the \'Comparison table\' or \'Combined scores\' tab"))}else
     if(!is.null(row_sel())){
     #if(is.null(input$rast)|input$rast!="TotN_dep"){ 
-    tagList(h5(textOutput("sel_site_map")),
+    tagList(h3(textOutput("sel_site_map")),
              leafletOutput("map"),
              fixedPanel(id="controls",class = "panel panel-default", draggable = T,
-            bottom = 5, left = 450,
+            bottom = 2, right = 2,
             style="padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px",
-             width = 250, 
-             height = "auto",
-             style = "opacity: 0.4",
-             h3("Map Controls"),
-                
-                        
-              radioButtons("basemap","Basemap:",c("Map" = "CartoDB.Positron", "Satellite" = "Esri.WorldImagery"), 
+             width = 220, 
+             height = 400,
+             style = "opacity: 0.3",
+                          radioButtons("basemap","Basemap:",c("Map" = "CartoDB.Positron", "Satellite" = "Esri.WorldImagery"), 
                           selected =c("Map" = "CartoDB.Positron")),#,
                         
               actionButton("re_cntr", label = "Zoom in to site"),
@@ -203,6 +193,7 @@ table_data <- reactive({
         
         x0[,VARIABLE:=factor(VARIABLE,levels=vars)]
         x0[,N_IND := length(c(input$ag_var,input$nh3_var,input$sa_var))]
+        x0[grep("Glenshane Pass",NAME),NAME:="Carn - Glenshane Pass"]
         x0[order(-SCORE,NAME),]
         })
 
@@ -236,9 +227,39 @@ output$n_sites_pv <- renderText({if(nrow(table_data())==0){return()}else{
 # table selection
 ############################################################################
 ############################################################################
+
+   output$downloadData <- downloadHandler(
+   filename = function() {
+     paste0(site_sel()$ID,"-",Sys.Date(),'.csv')
+  
+   },
+   content = function(con) {
+     zz <- table_data()[SITECODE==site_sel()$ID,]
+     zz <- zz[,.(`Site Code`=SITECODE,
+           `Site Name`=NAME,
+           `Data Source`=DATA_SRCE,
+           `Indicator`=VARIABLE,
+           `Value`=VALUE,
+           `Indicator Score (0 - 4)`= SCORE,
+           `Indicator Score Description`=LABEL)]
+     #write.csv(table_data()[SITECODE==site_sel,], con)}
+     fwrite(zz,con,row.names = F)}
+     )
+
+  output$site_sel_ui<-renderUI({
+    if(is.null(row_sel())){
+      return(h5("Please select a site from the \'Comparison table\' or \'Combined scores\' tab"))
+      }else{
+      tagList(DT::dataTableOutput("sel_tab"),
+              downloadButton('downloadData', 'Download csv file'),
+              downloadButton('site_report', 'Download site report')
+              )}
+   })
+
 output$sel_tab <- DT::renderDataTable({
   if(is.null(row_sel())){return()}else{
   
+    
     y <- datatable(table_data()[SITECODE == site_sel()$ID,.(`Indicator Score`=SCORE,
                                                                     
                                                                     `Indicator`=VARIABLE,
@@ -400,7 +421,7 @@ clearControls()}else{
    leafletProxy("map")%>% removeTiles(layerId="ras")%>%
 clearControls()%>%
     addLegend(colors=rast()$cols,values = values(rast()$r),labels = rast()$lab,
-                    position = "bottomright",
+                    position = "bottomleft",
                     title = rast()$lgnd)%>%
     addRasterImage(rast()$r,colors = rast()$pal,layerId="ras",
                          opacity = 0.7,project = F)}
@@ -451,4 +472,74 @@ output$map <- renderLeaflet({
   )
 ############################################################################
 ############################################################################  
+output$site_report <- downloadHandler(
+      # For PDF output, change this to "report.pdf"
+      
+      
+    filename = paste0(site_sel()$ID,"_",Sys.Date(),".html"),
+      
+      content = function(file) {
+        # Copy the report file to a temporary directory before processing it, in
+        # case we don't have write permissions to the current working dir (which
+        # can happen when deployed).
+        tempReport <- file.path(tempdir(), "report.Rmd")
+        tempImage <- file.path(tempdir(), "ukceh.png")
+        file.copy("./data/selected_site_report.Rmd", tempReport, overwrite = TRUE)
+        file.copy("./data/UKCEH-Logo_Long_Positive_RGB.png", tempImage, overwrite = TRUE)
+        # Set up parameters to pass to Rmd document
+        params <- list(n = 1,
+                       svr_v = svr_v,
+                       new_title = site_sel()$NAME,
+                       ID = site_sel()$ID,
+                       xx = table_data(),
+                       img = tempImage)
+
+        # Knit the document, passing in the `params` list, and eval it in a
+        # child of the global environment (this isolates the code in the document
+        # from the code in this app).
+        rmarkdown::render(tempReport,
+          output_file = file,
+          params = params,
+          envir = new.env(parent = globalenv())
+        )
+      }
+    )
+############################################################################
+############################################################################  
+
+
+output$all_report <- downloadHandler(
+      # For PDF output, change this to "report.pdf"
+      
+      
+    filename = paste0("Selected_indicators_",Sys.Date(),".html"),
+      
+      content = function(file) {
+        # Copy the report file to a temporary directory before processing it, in
+        # case we don't have write permissions to the current working dir (which
+        # can happen when deployed).
+        tempReport <- file.path(tempdir(), "report.Rmd")
+        tempImage <- file.path(tempdir(), "ukceh.png")
+        file.copy("./data/all_sites_report.Rmd", tempReport, overwrite = TRUE)
+        file.copy("./data/UKCEH-Logo_Long_Positive_RGB.png", tempImage, overwrite = TRUE)
+        # Set up parameters to pass to Rmd document
+        params <- list(
+                       svr_v = svr_v,
+                       dep_typ = input$sa_dep,
+                       cle = input$nh3_cle,
+                       table = table_data(),
+                       img = tempImage)
+
+        # Knit the document, passing in the `params` list, and eval it in a
+        # child of the global environment (this isolates the code in the document
+        # from the code in this app).
+        rmarkdown::render(tempReport,
+          output_file = file,
+          params = params,
+          envir = new.env(parent = globalenv())
+        )
+      }
+    )
+
+
 }

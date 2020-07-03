@@ -44,6 +44,7 @@ fluidPage(
     sidebarPanel(
       radioButtons("site_typ", p(class = "head","Site Type"),
                                      c("SAC","ASSI"),"SAC"),
+      
       p(class = "emhead","NH\U2083 emissions"),
       checkboxInput("em_filt", label = p(class="em","Include indicators for agricultural NH\U2083 emissions"), value = FALSE),
       uiOutput("em_opt"),
@@ -83,7 +84,7 @@ fluidPage(
                            
                  tabPanel("Results for selected site",
                           h3(textOutput("sel_site_tab")),
-                          DT::dataTableOutput("sel_tab")),
+                          uiOutput("site_sel_ui")),
                  
                  
                 tabPanel("Location of selected site",
